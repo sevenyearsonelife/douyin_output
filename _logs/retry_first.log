@@ -1,0 +1,50 @@
+Douyin Pipeline Skill
+---------------------
+Account URL       : https://www.douyin.com/user/MS4wLjABAAAAsbuk1DTYOxufXG-EVspaxEbsnPPzO5cl1BCeGzO-mrc
+Video range       : [0, 100)
+Output root       : /Users/linus/Desktop/2025/newborn/douyin_output
+Profile directory : /Users/linus/.claude/skills/douyin_pipeline/.douyin-browser-profile
+
+Round 1: collected 12 URL(s), page height 2392
+Round 2: collected 30 URL(s), page height 3361
+Round 3: collected 48 URL(s), page height 4230
+Round 4: collected 60 URL(s), page height 4781
+Round 5: collected 78 URL(s), page height 4781
+Round 6: collected 90 URL(s), page height 4781
+Round 7: collected 90 URL(s), page height 4781
+Round 8: collected 90 URL(s), page height 4781
+Round 9: collected 90 URL(s), page height 4781
+Round 10: collected 90 URL(s), page height 4781
+Round 11: collected 90 URL(s), page height 4781
+Round 12: collected 90 URL(s), page height 4781
+
+Author       : 波咕日记
+Output folder: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记
+Collected    : 90 video URL(s) (range [0, 100), processing 90)
+Already ok   : 81 (skipped, reused from index.md)
+To transcribe: 9
+
+Resolving   : 9 direct URL(s) via browser (yt-dlp 失效,改浏览器解析)...
+Resolved    : 9/9
+
+Concurrency  : 3
+[1/9] Transcribing https://www.douyin.com/video/7654498467716386098
+[2/9] Transcribing https://www.douyin.com/video/7654584469650685091
+[3/9] Transcribing https://www.douyin.com/video/7646858530058605987
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/张家齐“投奔”全进华，体验摘荔枝张家齐化 全红婵 全进华.md
+[4/9] Transcribing https://www.douyin.com/video/7379553268525010203
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/王石：为什么不做利润25%以上的生意 创业 商业认知 波咕日记.md
+[5/9] Transcribing https://www.douyin.com/video/7409884918135754018
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/出门不想化妆又想好看的，这款贵妇膏一定要拍，自然不假白，保湿滋润……懒人贵妇膏 @包子姐自用好物推荐.md
+[6/9] Transcribing https://www.douyin.com/video/7368872878680313139
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/“恶魔”风滚草历史.md
+[7/9] Transcribing https://www.douyin.com/video/7504885395545902393
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/巴楚说车汽车人共创计划.md
+[8/9] Transcribing https://www.douyin.com/video/7540221960366591259
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/化学化工学院开场舞伊犁师范大学 学校运动会开幕式 救命！被我的学生们帅晕！为校运会开幕式排练的日子可太难忘，从队形编排到动作齐整，磨破了嘴皮子，跑断了“老寒腿”.md
+[9/9] Transcribing https://www.douyin.com/video/7458969222375312694
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/林广茂满仓做多棉花期货 浮亏60%硬抗到底，最后凭借着3万手多单大赚13亿林广茂 期货 棉花 金融 期货故事.md
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/满级满容量尘封的事务所装修教程 全是可以花线索买的家具，纯靠肝哈😌😌 27分钟被我浓缩成了6分钟，我的妈呀😲 布局参考了这个装修博主@他与白玫瑰 🥳🥳.md
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/有经验的家长可以告诉我一下吗？谢谢了！ 高考 查分 大学 志愿填报 毕业季.md
+
+Pipeline complete: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记

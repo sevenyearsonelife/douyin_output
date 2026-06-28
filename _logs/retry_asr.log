@@ -1,0 +1,50 @@
+Douyin Pipeline Skill
+---------------------
+Account URL       : https://www.douyin.com/user/MS4wLjABAAAAsbuk1DTYOxufXG-EVspaxEbsnPPzO5cl1BCeGzO-mrc
+Video range       : [1, 100)
+Output root       : /Users/linus/Desktop/2025/newborn/douyin_output
+Profile directory : /Users/linus/.claude/skills/douyin_pipeline/.douyin-browser-profile
+
+Round 1: collected 12 URL(s), page height 2510
+Round 2: collected 30 URL(s), page height 3379
+Round 3: collected 48 URL(s), page height 4800
+Round 4: collected 60 URL(s), page height 4800
+Round 5: collected 78 URL(s), page height 4800
+Round 6: collected 89 URL(s), page height 4800
+Round 7: collected 89 URL(s), page height 4800
+Round 8: collected 89 URL(s), page height 4800
+Round 9: collected 89 URL(s), page height 4800
+Round 10: collected 89 URL(s), page height 4800
+Round 11: collected 89 URL(s), page height 4800
+Round 12: collected 89 URL(s), page height 4800
+
+Author       : 波咕日记
+Output folder: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记
+Collected    : 89 video URL(s) (range [1, 100), processing 88)
+Already ok   : 79 (skipped, reused from index.md)
+To transcribe: 9
+
+Resolving   : 9 direct URL(s) via browser (yt-dlp 失效,改浏览器解析)...
+Resolved    : 8/9
+
+Concurrency  : 3
+[1/9] Transcribing https://www.douyin.com/video/7643379915890380084
+[2/9] Transcribing https://www.douyin.com/video/7632283090290740530
+[3/9] Transcribing https://www.douyin.com/video/7647471164272471460
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/唐山市气象台发布暴雨蓝色预警[IV级_一般].md
+[4/9] Transcribing https://www.douyin.com/video/7197932616333511968
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/财富是把双刃剑，能成就你，也能摧毁你 人性 财富 查理芒格.md
+[5/9] Transcribing https://www.douyin.com/video/7285648410366053690
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/净水器厂商如何通过滤芯赚钱 净水器 商业逻辑 波咕日记.md
+[6/9] Transcribing https://www.douyin.com/video/7589574955357932506
+  FAILED: 无直链: no_detail
+[7/9] Transcribing https://www.douyin.com/video/7324985793079004468
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/手机维修 原理级维修 主板维修 苹果 华为 小米芯片级维修 手机屏幕.md
+[8/9] Transcribing https://www.douyin.com/video/7334673552345419042
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/在家孝父母，何必远烧香 秦东魁 国学 传统文化.md
+[9/9] Transcribing https://www.douyin.com/video/7363706963928026387
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/今年冬天，环海南岛骑行，必成大热门。骑行 让骑行成为一种生活 环海南岛骑行.md
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/想不到在成都周边的深山里还隐藏着这么一个异国风情的法式小镇，大年初二虽然没有那么热闹，但是却多了一份浪漫旅行推荐官 春节出游攻略来了 有一种成都生活叫彭州 成都.md
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/2年前预测对于房子，我真实挣了多少 房价 房价下跌 预测 黄金 股票分析.md
+
+Pipeline complete: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记

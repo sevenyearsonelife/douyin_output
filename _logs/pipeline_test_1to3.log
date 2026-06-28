@@ -1,0 +1,27 @@
+START 22:17:23
+Douyin Pipeline Skill
+---------------------
+Account URL       : https://www.douyin.com/user/MS4wLjABAAAAsbuk1DTYOxufXG-EVspaxEbsnPPzO5cl1BCeGzO-mrc
+Video range       : [1, 3)
+Output root       : /Users/linus/Desktop/2025/newborn/douyin_output
+Profile directory : /Users/linus/.claude/skills/douyin_pipeline/.douyin-browser-profile
+
+Round 1: collected 12 URL(s), page height 3379
+
+Author       : 波咕日记
+Output folder: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记
+Collected    : 3 video URL(s) (range [1, 3), processing 2)
+Already ok   : 0 (skipped, reused from index.md)
+To transcribe: 2
+
+Resolving   : 2 direct URL(s) via browser (yt-dlp 失效,改浏览器解析)...
+Resolved    : 2/2
+
+Concurrency  : 2
+[1/2] Transcribing https://www.douyin.com/video/7654118800035466539
+[2/2] Transcribing https://www.douyin.com/video/7653770506264382747
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/高认知不等于高收益，投资需要两条腿走路 认知 投资 波咕日记.md
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/博彩的运行本质：一场玩家负和、平台稳赚的生意 彩票 世界杯 波咕日记-2.md
+
+Pipeline complete: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记
+DONE 22:19:51 exit=0

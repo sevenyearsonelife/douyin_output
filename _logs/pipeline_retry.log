@@ -1,0 +1,64 @@
+START retry 08:15:43 [新代码:多直链轮询]
+Douyin Pipeline Skill
+---------------------
+Account URL       : https://www.douyin.com/user/MS4wLjABAAAAsbuk1DTYOxufXG-EVspaxEbsnPPzO5cl1BCeGzO-mrc
+Video range       : [1, 100)
+Output root       : /Users/linus/Desktop/2025/newborn/douyin_output
+Profile directory : /Users/linus/.claude/skills/douyin_pipeline/.douyin-browser-profile
+
+Round 1: collected 12 URL(s), page height 1641
+Round 2: collected 12 URL(s), page height 1641
+Round 3: collected 12 URL(s), page height 1641
+Round 4: collected 12 URL(s), page height 1641
+Round 5: collected 12 URL(s), page height 1641
+Round 6: collected 12 URL(s), page height 2510
+Round 7: collected 30 URL(s), page height 3379
+Round 8: collected 48 URL(s), page height 3379
+Round 9: collected 54 URL(s), page height 3379
+Round 10: collected 66 URL(s), page height 4248
+Round 11: collected 82 URL(s), page height 4800
+Round 12: collected 90 URL(s), page height 4800
+Round 13: collected 90 URL(s), page height 4800
+Round 14: collected 90 URL(s), page height 4800
+Round 15: collected 90 URL(s), page height 4800
+Round 16: collected 90 URL(s), page height 4800
+Round 17: collected 90 URL(s), page height 4800
+Round 18: collected 90 URL(s), page height 4800
+
+Author       : 波咕日记
+Output folder: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记
+Collected    : 90 video URL(s) (range [1, 100), processing 89)
+Already ok   : 78 (skipped, reused from index.md)
+To transcribe: 11
+
+Resolving   : 11 direct URL(s) via browser (yt-dlp 失效,改浏览器解析)...
+Resolved    : 9/11
+
+Concurrency  : 3
+[1/11] Transcribing https://www.douyin.com/video/7643379915890380084
+[2/11] Transcribing https://www.douyin.com/video/7632971188989463850
+[3/11] Transcribing https://www.douyin.com/video/7632283090290740530
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/为什么很多创作者越追流量，越走错了方向？ 长期主义 自媒体 波咕日记-2.md
+[4/11] Transcribing https://www.douyin.com/video/7654396625649427828
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/页码高频考题，带你理清思路 本期讲解一道小学页码高频考题： 一本书从第68页到第168页，一共有多少个偶数页码？这些偶数页一共用了多少个数码？ 这是考试里很容易.md
+[5/11] Transcribing https://www.douyin.com/video/7558295922074012963
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/2025年诺贝尔生理学或医学奖揭晓，美、日三名科学家因在外周免疫耐受方面的研究获奖.md
+[6/11] Transcribing https://www.douyin.com/video/7413684968422903079
+  FAILED: 无直链: no_detail
+[7/11] Transcribing https://www.douyin.com/video/7063364836964551969
+  FAILED: Task exception was never retrieved
+future: <Task finished name='Task-4' coro=<WebSocketRequest._send_continue_task_data() done, defined at /opt/anaconda3/lib/python3.9/site-packages/dashscope/api_entities/websocket_request.py:317> exception=ClientOSError(32, 'Broken pipe')>
+Traceback (most recent ca
+[8/11] Transcribing https://www.douyin.com/video/7538320916918586682
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/实拍石家庄西部长青小三亚，巨大温室大棚，北方也能欣赏热带风光 石家庄 西部长青 小三亚 温室大棚 热带雨林 城市建设 施工现场实拍 户外旅游 热带植物.md
+[9/11] Transcribing https://www.douyin.com/video/7377724233016823066
+  FAILED: 本地音频识别失败: 本地音频识别失败: code=Unknown msg=Error type: <class 'dashscope.common.error.UnexpectedMessageReceived'>, message: Receive unexpected websocket close message, details: WSMsgType.CLOSE, data: None, extra: None
+[10/11] Transcribing https://www.douyin.com/video/7487914630564678938
+  FAILED: 无直链: no_detail
+[11/11] Transcribing https://www.douyin.com/video/7482757102293765402
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/这就是零号大坝的爆率吗？ 三角洲行动 三角洲黑鹰坠落上线 三角洲行动欢乐剧场 三角洲行动攻略.md
+  FAILED: 本地音频识别失败: 本地音频识别失败: code=Unknown msg=Error type: <class 'dashscope.common.error.UnexpectedMessageReceived'>, message: Receive unexpected websocket close message, details: WSMsgType.CLOSE, data: None, extra: None
+  FAILED: 本地音频识别失败: 本地音频识别失败: code=Unknown msg=Error type: <class 'dashscope.common.error.UnexpectedMessageReceived'>, message: Receive unexpected websocket close message, details: WSMsgType.CLOSE, data: None, extra: None
+
+Pipeline complete: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记
+DONE retry 10:16:34 exit=0

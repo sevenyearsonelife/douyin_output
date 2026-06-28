@@ -1,0 +1,214 @@
+START 2026-06-23 22:21:51 [全量1-99, 改造后]
+Douyin Pipeline Skill
+---------------------
+Account URL       : https://www.douyin.com/user/MS4wLjABAAAAsbuk1DTYOxufXG-EVspaxEbsnPPzO5cl1BCeGzO-mrc
+Video range       : [1, 100)
+Output root       : /Users/linus/Desktop/2025/newborn/douyin_output
+Profile directory : /Users/linus/.claude/skills/douyin_pipeline/.douyin-browser-profile
+
+Round 1: collected 12 URL(s), page height 3361
+Round 2: collected 30 URL(s), page height 3361
+Round 3: collected 48 URL(s), page height 4230
+Round 4: collected 60 URL(s), page height 4781
+Round 5: collected 78 URL(s), page height 4781
+Round 6: collected 89 URL(s), page height 4781
+Round 7: collected 89 URL(s), page height 4781
+Round 8: collected 89 URL(s), page height 4781
+Round 9: collected 89 URL(s), page height 4781
+Round 10: collected 89 URL(s), page height 4781
+Round 11: collected 89 URL(s), page height 4781
+Round 12: collected 89 URL(s), page height 4781
+
+Author       : 波咕日记
+Output folder: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记
+Collected    : 89 video URL(s) (range [1, 100), processing 88)
+Already ok   : 0 (skipped, reused from index.md)
+To transcribe: 88
+
+Resolving   : 88 direct URL(s) via browser (yt-dlp 失效,改浏览器解析)...
+Resolved    : 88/88
+
+Concurrency  : 3
+[1/88] Transcribing https://www.douyin.com/video/7654118800035466539
+[2/88] Transcribing https://www.douyin.com/video/7653770506264382747
+[3/88] Transcribing https://www.douyin.com/video/7653067148285218099
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/高认知不等于高收益，投资需要两条腿走路 认知 投资 波咕日记.md
+[4/88] Transcribing https://www.douyin.com/video/7652640740354411816
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/第一笔钱的意义：跳出生存循环，开启复利积累 复利 个人成长 波咕日记.md
+[5/88] Transcribing https://www.douyin.com/video/7652324847363607854
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/博彩的运行本质：一场玩家负和、平台稳赚的生意 彩票 世界杯 波咕日记.md
+[6/88] Transcribing https://www.douyin.com/video/7651906528739462434
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/调研网络评论：人到一定年纪，为什么喝得惯茅台了 茅台 商业观察 波咕日记.md
+[7/88] Transcribing https://www.douyin.com/video/7651536845964184859
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/理性的决策，是把每一次持有都当成重新买入 投资 理性 波咕日记.md
+[8/88] Transcribing https://www.douyin.com/video/7651212841248197934
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/优势来自时间的集中投入，而非平均分配 时间管理 个人成长 波咕日记.md
+[9/88] Transcribing https://www.douyin.com/video/7650856022428355892
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/芯片命名乱象：厂商正在利用你的认知惯性赚钱 芯片 商业观察 波咕日记.md
+[10/88] Transcribing https://www.douyin.com/video/7650098829244615963
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/消费的隐秘逻辑：我们买的不只是商品，更是自我认同 消费 商业观察 波咕日记.md
+[11/88] Transcribing https://www.douyin.com/video/7649727092292128040
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/理财最隐蔽的风险：资产被遗忘，归拢比收益更重要 理财 资产配置 波咕日记.md
+[12/88] Transcribing https://www.douyin.com/video/7649362997818756387
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/从石油到稀土，人类反复犯着同一个错误 人类文明 商业观察 波咕日记.md
+[13/88] Transcribing https://www.douyin.com/video/7648984218491456820
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/用统计学推演终局：为什么只碰自己懂的领域 巴菲特 投资思维 波咕日记.md
+[14/88] Transcribing https://www.douyin.com/video/7648615817373863231
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/段永平的三个小故事：规则与执行必须自洽 段永平 本分 波咕日记.md
+[15/88] Transcribing https://www.douyin.com/video/7648243010748157220
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/选对投资游戏，持有本身就是回报 巴菲特 投资思维 波咕日记.md
+[16/88] Transcribing https://www.douyin.com/video/7647805586855300358
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/结果往往滞后于行动，不必纠结短期的反馈 个人成长 复利 波咕日记.md
+[17/88] Transcribing https://www.douyin.com/video/7647501260194630966
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/回顾蔚小理三年变化，理解商业世界的不确定性 新能源汽车 商业观察 波咕日记.md
+[18/88] Transcribing https://www.douyin.com/video/7647069999789575465
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/人对人的改变，靠的往往不是努力，而是缘分 查理芒格 个人成长 波咕日记.md
+[19/88] Transcribing https://www.douyin.com/video/7646754940739783963
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/一个预测：人类正在进入 _魅力为王_ 的时代 个人成长 创业 波咕日记.md
+[20/88] Transcribing https://www.douyin.com/video/7646401456391703846
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/小样本无法归因，盈亏不能证明对错 投资 认知 波咕日记.md
+[21/88] Transcribing https://www.douyin.com/video/7645983283309808942
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/学习外语的底层价值：突破母语的边界 认知 自我提升 波咕日记.md
+[22/88] Transcribing https://www.douyin.com/video/7645642608332557619
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/不被岗位限制住，才能拥有真正的议价能力 职场 自我提升 波咕日记.md
+[23/88] Transcribing https://www.douyin.com/video/7645231738817367342
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/大数定律：你最终会收敛到真实的自己 自我成长 投资 波咕日记.md
+[24/88] Transcribing https://www.douyin.com/video/7644863744333368628
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/从俞浩的“献祭”论，谈谈我对诚实的理解 追觅 诚实 芒格.md
+[25/88] Transcribing https://www.douyin.com/video/7644857415015484707
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/通过华与华的“文化母体”理论，理解小米名字对品牌高端化的影响 小米 华与华 品牌营销.md
+[26/88] Transcribing https://www.douyin.com/video/7644532413837643060
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/财富流动的规律：钱会离开财务脆弱的人 财务管理 投资 波咕日记.md
+[27/88] Transcribing https://www.douyin.com/video/7644488989663071522
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/见过太多人倒下不起，方言说真正的终点从来不是财富，是幸福。 第二天 人生建议 创业.md
+[28/88] Transcribing https://www.douyin.com/video/7644157611847306496
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/我去过很多富豪家，唯有查理・芒格家让我折服 芒格 价值投资 穷查理宝典.md
+[29/88] Transcribing https://www.douyin.com/video/7644129685609221410
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/纳瓦尔：提升自尊的方法，是不断践行自己制定的标准 自我成长 知行合一 波咕日记.md
+[30/88] Transcribing https://www.douyin.com/video/7643756256540314932
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/斩断 _等回本_ 的执念，把今天当作第一天 沉没成本 认知觉醒 波咕日记.md
+[31/88] Transcribing https://www.douyin.com/video/7643749119684513058
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/很多人抱了一大堆债务，以为是资产 资产配置 认知觉醒 负债.md
+[32/88] Transcribing https://www.douyin.com/video/7643454205830892852
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/小米零售模式的本质：带电版Costco 小米 雷军 costco.md
+[33/88] Transcribing https://www.douyin.com/video/7643379915890380084
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/欲望的通胀是最大的陷阱：你越满足，反而越空虚 欲望 幸福 认知觉醒.md
+[34/88] Transcribing https://www.douyin.com/video/7643056123351665929
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/现代教育体系的核心目的，是以最低成本管理最多的孩子。 教育 学校 波咕日记.md
+[35/88] Transcribing https://www.douyin.com/video/7643010203465682226
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/把本行做到极致，第二曲线会自然长出来 商业思维 个人成长 波咕日记.md
+[36/88] Transcribing https://www.douyin.com/video/7642557892498869555
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/亲手做了 17 年的头部公司，我选择在巅峰时主动离场 创业 人生选择 查理芒格.md
+[37/88] Transcribing https://www.douyin.com/video/7642344208270920986
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/不把自己当成恩赐者，是创业者的本分 创业 段永平 波咕日记.md
+[38/88] Transcribing https://www.douyin.com/video/7641931031943187721
+  FAILED: Command failed: curl -s -L --max-time 300 -H Referer: https://www.douyin.com/ -H User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 -o /tmp/douyin-pipeline-tmp/7643379915890380084.mp4 https://v11-weba.douyinvod.com/040189e62728a2ef88815304a0ad7ec9/6a3ac1e8/video/tos/cn/tos-cn-ve-15/o0p7g0L5pzEtCIeZBBGARTJk7IUAdCxBlXImee/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=798&bt=798&cs=0&ds=4&ft=AJkeU_TERR0s~hC32D12Nc0iPMgzbLfqgeRU_4J7wXGJNv7TGW&mime_type=video_mp4&qs=0&rc=OzNoPGk1Z2RpO2Y8NTs3ZEBpamw5NnM5cndlOzMzNGkzM0BjLy9gMTMwXmExNTEtL181YSMzcTQuMmRraDZhLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1782224564&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026062322224498AB96AC712F2A76FCC3
+
+[39/88] Transcribing https://www.douyin.com/video/7641585869358435611
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/接受世界的平均效率，小满就是最好的状态 小满 拒绝内耗 波咕日记.md
+[40/88] Transcribing https://www.douyin.com/video/7641189818461900047
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/零跑创始人朱江明对电动车趋势的两个判断，你认同吗？ 智能电动车 朱江明 波咕日记.md
+[41/88] Transcribing https://www.douyin.com/video/7640818053906730240
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/为什么炫耀，既不善良，也不明智？ 处世智慧 自我提升 波咕日记.md
+[42/88] Transcribing https://www.douyin.com/video/7640445468933098792
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/为什么我们总在不自觉地追求优越感？其实这是进化赋予我们的天性 进化心理学 人性 波咕日记.md
+[43/88] Transcribing https://www.douyin.com/video/7640077122937146624
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/有毒的人对你的伤害，比你想象的大得多 芒格 及时止损 波咕日记.md
+[44/88] Transcribing https://www.douyin.com/video/7639704221847244041
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/从妻子苏珊的视角，看巴菲特成功的代价 巴菲特 取舍 波咕日记.md
+[45/88] Transcribing https://www.douyin.com/video/7639302283024436516
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/很多正确的观念，最后为什么会走向另一种极端？ 独立思考 认知提升 波咕日记.md
+[46/88] Transcribing https://www.douyin.com/video/7638929025785269539
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/什么是用户思维？从一个餐厅地址说起 用户思维 商业认知 波咕日记.md
+[47/88] Transcribing https://www.douyin.com/video/7638536482050952499
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/本分和平常心，很多时候是一种“无事发生” 本分 复利思维 波咕日记.md
+[48/88] Transcribing https://www.douyin.com/video/7637697540330163502
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/很多事看起来都对，为什么最后还是不行？ 投资思维 认知升级 波咕日记.md
+[49/88] Transcribing https://www.douyin.com/video/7637404855442754825
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/很多人投资的本质：只想证明自己不是普通人 价值投资 平常心 波咕日记.md
+[50/88] Transcribing https://www.douyin.com/video/7637056942975864115
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/很多教育，其实发生在你没意识到的时候 家庭教育 父母修行 波咕日记.md
+[51/88] Transcribing https://www.douyin.com/video/7636675234698956058
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/价格总会回归价值，背后底层原理是什么？ 价值投资 投资认知 波咕日记.md
+[52/88] Transcribing https://www.douyin.com/video/7636364669552266505
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/人性的一个偏差：忽略优点，放大缺点 人性感悟 认知偏差 波咕日记.md
+[53/88] Transcribing https://www.douyin.com/video/7635951404397432114
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/出版界的运转逻辑，以及几个高效读书的建议 读书方法 独立思考 波咕日记.md
+[54/88] Transcribing https://www.douyin.com/video/7635622321285270824
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/很多面子消费，其实在挤占本该留给家人的资源 理性消费 财富认知 波咕日记.md
+[55/88] Transcribing https://www.douyin.com/video/7635250493803023631
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/很多人低估了说谎的成本，高估了它的收益 芒格 人生修行 波咕日记.md
+[56/88] Transcribing https://www.douyin.com/video/7634724694922513698
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/消费主义，对个人是陷阱，对社会是动能 消费观 财富思维 波咕日记.md
+[57/88] Transcribing https://www.douyin.com/video/7634509545317960994
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/迪士尼皮克斯的幕后故事：伟大的作品，都是死去活来磨出来的 迪士尼动画 内容创作 波咕日记.md
+[58/88] Transcribing https://www.douyin.com/video/7634078260791479588
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/投资贵在对自己诚实，别高估偶然得到的信息 投资思维 巴菲特 波咕日记.md
+[59/88] Transcribing https://www.douyin.com/video/7633664351479647542
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/如果客户不满意，你赚到的未必是真收入 创业 商业认知 波咕日记.md
+[60/88] Transcribing https://www.douyin.com/video/7633343432521436479
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/真正拉开人与人差距的，常常不是学历，而是心力 反内耗 心力 波咕日记.md
+[61/88] Transcribing https://www.douyin.com/video/7632971188989463850
+  FAILED: Command failed: curl -s -L --max-time 300 -H Referer: https://www.douyin.com/ -H User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 -o /tmp/douyin-pipeline-tmp/7632971188989463850.mp4 https://v11-weba.douyinvod.com/93045b82dcc52183cc0831e23338ba04/6a3ac207/video/tos/cn/tos-cn-ve-15/o0SERfrxBAv0iFSAXuiOuRIH9BDEJ9Zgw3eJCA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2556&bt=2556&cs=0&ds=4&ft=AJkeU_TERR0s~hC32D12Nc0iPMgzbLSngeRU_4J7wXGJNv7TGW&mime_type=video_mp4&qs=0&rc=ZmVlNjpkOjs7NWk2NTQ4ZEBpamU8dmo5cmV2OjMzNGkzM0AtXl8uMTZfNjYxNDAyL2I2YSNyZ14xMmRzL2phLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100B_100H_100K_100o_100w&dy_q=1782224592&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260623222312E8CC77EFD42A6B66949A
+
+[62/88] Transcribing https://www.douyin.com/video/7632659030896348458
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/吃饭时感谢做饭的人，也是一种本分 生活感悟 本分 波咕日记.md
+[63/88] Transcribing https://www.douyin.com/video/7632283090290740530
+  FAILED: Command failed: curl -s -L --max-time 300 -H Referer: https://www.douyin.com/ -H User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 -o /tmp/douyin-pipeline-tmp/7632283090290740530.mp4 https://v11-weba.douyinvod.com/93d97a70c1324f8da86416d1f22e734f/6a3ac242/video/tos/cn/tos-cn-ve-15/ocUsmrDJQFA9IwB6clEDo4AYAg0Nf9OWpUengI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4402&bt=4402&cs=0&ds=4&ft=AJkeU_TERR0s~hC32D12Nc0iPMgzbLEngeRU_4J7wXGJNv7TGW&mime_type=video_mp4&qs=0&rc=NmZoOztoNDtoNWc8PDhnZUBpMzd3NWo5cmxuOjMzNGkzM0BfYzRiXmE2Xl8xMC5gMGMuYSM0YGQyMmRjcmlhLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1782224594&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202606232223143A2191D91EE0D25F84FF
+
+[64/88] Transcribing https://www.douyin.com/video/7631846076076543270
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/这个时代的人才是涌现的，而不是被选拔的 算法时代 个人成长 波咕日记.md
+[65/88] Transcribing https://www.douyin.com/video/7631477464711089458
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/养孩子和与人相处，都需要一点留白 松弛感 生活感悟 波咕日记.md
+[66/88] Transcribing https://www.douyin.com/video/7631122651842448649
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/泡泡玛特王宁：什么样的人，总有人相助？ 泡泡玛特 王宁 波咕日记.md
+[67/88] Transcribing https://www.douyin.com/video/7630761141001669897
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/精神消费，满足的是人性最古老的需求 消费心理 用户需求 波咕日记.md
+[68/88] Transcribing https://www.douyin.com/video/7630348124711685414
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/如果你的工作正在被 AI 替代，真正的出路是什么？ 职场成长 个人提升 波咕日记.md
+[69/88] Transcribing https://www.douyin.com/video/7630053180730100998
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/为什么灰色产业，往往越打击越难消失？ 经济学思维 生态系统 波咕日记.md
+[70/88] Transcribing https://www.douyin.com/video/7629614918651743551
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/为什么大众共识一旦形成，红利往往已经开始消退？ 认知觉醒 底层逻辑 波咕日记.md
+[71/88] Transcribing https://www.douyin.com/video/7629207522552925449
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/教育孩子，把对错放在利弊前面 家庭教育 教育思考 波咕日记.md
+[72/88] Transcribing https://www.douyin.com/video/7628834163478596914
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/管理者的本分，是守拙，而非精明 企业文化 管理思维 波咕日记.md
+[73/88] Transcribing https://www.douyin.com/video/7628573656645504307
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/选择创业方向，优势远比机会重要 创业项目 优势 波咕日记.md
+[74/88] Transcribing https://www.douyin.com/video/7628080263993593098
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/为什么损失带来的恐惧，会被成倍放大？ 进化心理学 投资心理学 波咕日记 人间观察计划.md
+[75/88] Transcribing https://www.douyin.com/video/7627741196458167586
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/所有的加法，都是另一种减法 生活哲学 本分 波咕日记.md
+[76/88] Transcribing https://www.douyin.com/video/7627405505475939599
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/提升财务健康，就一句话：把所有钱当同样的钱 财务管理 思维模式 波咕日记.md
+[77/88] Transcribing https://www.douyin.com/video/7626575359483415843
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/芒格的处世之道：从不说 “我早就告诉过你” 芒格 处世之道 波咕日记.md
+[78/88] Transcribing https://www.douyin.com/video/7626301985154796800
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/为什么说早睡，相当于收入提升10%？ 早睡 提升自己 波咕日记.md
+[79/88] Transcribing https://www.douyin.com/video/7626301161393474868
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/如何理解消费品？ 投资 消费 波咕日记.md
+[80/88] Transcribing https://www.douyin.com/video/7626300171218881844
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/我眼中的汽车行业终局，以及蔚来为何仍有机会 汽车行业 蔚来 智能电动车.md
+[81/88] Transcribing https://www.douyin.com/video/7625852667336336074
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/蔚来的战略矛盾：高端社群与换电 蔚来 电动汽车 智能汽车.md
+[82/88] Transcribing https://www.douyin.com/video/7654509966136769716
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/300分读专科是不是不甘心，读民办学费又贵，低分逆袭通道已开启高考热门低分逆袭本科 志愿填报.md
+[83/88] Transcribing https://www.douyin.com/video/7601147839883952826
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/女子分享：“无聊”就是幸福的近义词，“身体安康，生活自在，没什么事发生就是最好的事”，网友：若无闲事挂心头，便是人间好时节.md
+[84/88] Transcribing https://www.douyin.com/video/7342728875471883535
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/聊聊蔚来李斌的创业史，我为什么如此尊重他？ 蔚来 李斌 汽车人共创计划.md
+[85/88] Transcribing https://www.douyin.com/video/7355053685807877427
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/为什么_本分_很难被大多数人理解.md
+[86/88] Transcribing https://www.douyin.com/video/7248277165463194935
+  FAILED: Command failed: curl -s -L --max-time 300 -H Referer: https://www.douyin.com/ -H User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 -o /tmp/douyin-pipeline-tmp/7355053685807877427.mp4 https://v11-weba.douyinvod.com/7659d1dd314f2613d41f41bd93ed2d40/6a3ac2f8/video/tos/cn/tos-cn-ve-0015c800/ok1oJdEIQAgmrcEf79FCkJgj8pZ8fAAuDBm9mn/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3729&bt=3729&cs=0&ds=4&ft=AJkeU_TERR0s~hC32D12Nc0iPMgzbLRngeRU_4J7wXGJNv7TGW&mime_type=video_mp4&qs=0&rc=PDs1aTZpNWQ5PDhoNTxnaUBpMzdzcW05cnQ5cjMzNGkzM0BfLTVhMC40XmMxNDQ1MzViYSNzMGNvMmRzYDZgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100J_100o_100w_100B_100D&dy_q=1782224616&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202606232223366E61A454DB7A9662F37B
+
+[87/88] Transcribing https://www.douyin.com/video/7329889676364451110
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/京剧名家刘桂娟 京剧《六月雪》是刘桂娟老师获奖最多的一出戏，可谓是炉火纯青，唱念俱佳。丑角名家刘树军饰演的禁婆，更是给此剧增加了亮丽有趣的色彩。该戏在程腔幽怨婉.md
+[88/88] Transcribing https://www.douyin.com/video/7498249715131665679
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/有道理怎么说就是有理.md
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/Peace方老板帥炸MV 單人cut，rap、吉他solo、跳舞、耍帥集中在一個MV，必須收藏！ 方大同 peace MV rap 吉他.md
+  OK: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记/儿童早教 如果不理发 @儿童精选故事 @儿童睡前故事 @儿童益智动画 @儿童早教 @儿童益智动画.md
+
+Pipeline complete: /Users/linus/Desktop/2025/newborn/douyin_output/波咕日记
+DONE 2026-06-23 23:10:19 exit=0
