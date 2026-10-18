@@ -1,0 +1,20 @@
+{
+  "video_url": "https://www.douyin.com/video/7683407444361399590",
+  "duration": 2132.986,
+  "interval": 1000,
+  "truncated": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 1000,
+      "file": "01000.00.png"
+    },
+    {
+      "time": 2000,
+      "file": "02000.00.png"
+    }
+  ]
+}

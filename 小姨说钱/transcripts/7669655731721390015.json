@@ -1,0 +1,27 @@
+{
+  "text": "嗯，上海建工爷叔，大家应该都听说过吧？八十二岁了，上海人。二零一三年呢，他把积蓄五十万全买了上海建工，六块钱一股啊。二零一五年涨到十七块钱，他没有卖，觉得还能涨，结果呢，一路跌到了两块多。换成一般人早就割肉跑了，爷叔他不是啊，这十年每个月拿退休工资往里边补仓，舍不得吃舍不得喝，硬是把成本从六块钱补到了三块八。就在二零二五年九月十八号，上海建工连拉五个涨停，股价站上了三块八毛多，爷叔终于解套了。整整等了十二年，你说这得啥心态？比坐那儿搓一天麻将脑子动得多多了。这个过程里看的新闻，学的门道，磨练的心态，哪是麻将桌能比的？所以说啊，只要是用闲钱，不贪心，炒股给老年人带来的那份精气神和学习劲，真不是搓麻将能比的。同意的点个赞，咱评论区聊聊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 721235,
+  "timings": {
+    "chunks_wall_seconds": 10.665439249947667,
+    "encode_seconds_sum": 1.720540374983102,
+    "request_seconds_sum": 6.777713792049326,
+    "decode_seconds": 2.287650166079402,
+    "download_seconds": 0.679
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 67.5018125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7669655731721390015",
+  "title": "解套#爷叔 #股民交流 #股市行情 #解套 #投资",
+  "video_url": "https://www.douyin.com/video/7669655731721390015",
+  "source_duration": 67.567,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7669655731721390015: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,11 @@
+# macOS 系统文件
+.DS_Store
+
+# 浏览器自动化临时配置（douyin/xiaohongshu 管线产生）
+_profile_search_tmp/
+_profile_xysq/
+_search/
+_tmp/
+
+# 日志文件
+*.log

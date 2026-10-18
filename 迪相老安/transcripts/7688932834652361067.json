@@ -1,0 +1,28 @@
+{
+  "text": "都说你的花朵真红火，都说你的果实真丰硕。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 165587,
+  "timings": {
+    "chunks_wall_seconds": 0.808698417,
+    "encode_seconds_sum": 0.07418875000000003,
+    "request_seconds_sum": 0.7310697080000002,
+    "decode_seconds": 0.13107349999999995,
+    "download_seconds": 2.715
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 15.418,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7688932834652361067",
+  "title": "#月季花开红艳艳 #花花草草皆浪漫 #养花人的精神世界",
+  "video_url": "https://www.douyin.com/video/7688932834652361067",
+  "source_duration": 15.434,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7688932834652361067: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,30 @@
+{
+  "text": "查理芒格说，为什么很多人挣到了三千万、五千万、两个亿会返贫？本质上是，虽然挣到了钱，只是精通于业务，比如精通自媒体业务，或者精通全职业务。精通业务并不代表能够把钱握住，因为保护钱是一种认知，没有虚荣心也是一种认知，不被别人宰也是一种认知，认清人和人之间的关系也是一种认知。只是在业务上精通，是把钱捞回来，捞回来过后怎么样保住这个钱，是需要各方面的认知的。保钱的认知远远大于赚钱的认知。所以很多人只有赚钱的简单的认知加风口加运气，并没有把钱留下来的认知，所以他们挣到钱都会返贫。社会上大量的这样的人，我连麦的时候，直播间很多这样的人。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 662483,
+  "timings": {
+    "chunks_wall_seconds": 3.9881217920046765,
+    "encode_seconds_sum": 0.17998691700631753,
+    "request_seconds_sum": 3.8045103329932317,
+    "decode_seconds": 0.16707837500143796,
+    "download_seconds": 0.212
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 62.0219375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7671242416905959866",
+  "title": "赚钱靠业务能力、风口和运气，但守住财富需要更复杂的认知体系。#富人#穷人#投资#赚钱",
+  "video_url": "https://www.douyin.com/video/7671242416905959866",
+  "source_duration": 62,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7671242416905959866: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "review_scope": "逐条正文主题、开头、长度及文件一致性校验；6条疑点补充画面抽查；非全片逐字听校，非事实核查",
+  "reviewed_at": "2026-09-10T22:37:29.429825+08:00",
+  "review_note": "已阅读正文，主题、开头和长度基础复核通过；文件与来源链接一致。"
+}

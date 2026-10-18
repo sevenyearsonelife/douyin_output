@@ -1,0 +1,27 @@
+{
+  "text": "爸爸，我跟你商量一个事情，就是呃，我们不是最近收到你的压岁钱吗？然后爸爸去那个银行里面看了一下，二十年期的利率啊真的太低了，一点几。我们考虑一下，你是想买黄金呢，还是想要变成一些高息的股票，爸爸给你做风险复投呢？如何呢？如何呢？哎，以后爸爸教你那个做一点稳健的投资，我觉得应该会比现在我们去存一些定存会更加稳妥一些啊。那是的，是吧？那是的，那我们就定啊，that's a deal。Give me five，来。耶！耶耶！",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 489299,
+  "timings": {
+    "chunks_wall_seconds": 2.178480875,
+    "encode_seconds_sum": 0.14036387500000003,
+    "request_seconds_sum": 2.031116875,
+    "decode_seconds": 0.245891458,
+    "download_seconds": 39.055
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 45.788,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7624745105949297939",
+  "title": "记录一下：第一次和孩子认真谈钱 记录一下：第一次和孩子认真谈钱",
+  "video_url": "https://www.douyin.com/video/7624745105949297939",
+  "source_duration": 45.789,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7624745105949297939: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

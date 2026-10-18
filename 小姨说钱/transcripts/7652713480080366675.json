@@ -1,0 +1,27 @@
+{
+  "text": "我一直觉得价值投资是一个好东西，我的粉丝呢也有很多追随价值投资者，但是对于刚入门的新手，究竟他该怎么做呢？今天推荐一本真正适合咱们老百姓看的书，叫《投资中最简单的事》。这本书的作者是邱国鹭，做了几十年投资了啊，但他没有讲什么高大的理论啊，而是告诉你呢投资其实可以很简单。比如书里有一个特别经典的观点，就是数月亮不数星星，什么意思呢？就是在一个行业还没有分出胜负，几十家公司混战的时候，别去赌谁能赢，等胜负已分，赢家跑出来了，再投资他也不迟。啊，比如像茅台呀、格力呀，十年前就已经是赢家了。还有一点啊，便宜才是硬道理，人气我取，逆向投资，这些原则每一个普通人都能听懂，能用。想入门的价值投资者又怕看不懂的，这本《投资中最简单的事》不妨好好去研究一下。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 721235,
+  "timings": {
+    "chunks_wall_seconds": 2.4108809160006786,
+    "encode_seconds_sum": 0.18058170800031803,
+    "request_seconds_sum": 2.1996982089985977,
+    "decode_seconds": 0.1927851250002277,
+    "download_seconds": 0.073
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 67.5018125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7652713480080366675",
+  "title": "投资可以很简单#读书 #理财书单 #认知提升 #投资",
+  "video_url": "https://www.douyin.com/video/7652713480080366675",
+  "source_duration": 67.567,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7652713480080366675: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

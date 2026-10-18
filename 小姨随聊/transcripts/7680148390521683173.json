@@ -1,0 +1,27 @@
+{
+  "text": "都说红利是老实人，只会扛跌。但是真懂行的人呢都知道，他发起狠来啊，涨得也凶，只不过他的凶不显山不露水。第一，跌的时候攒筹码，涨的时候呢赚大的。股价在低位趴着的时候呢，分红拿到手继续买成股票，同样一笔钱，这个时候能买到的份额比平时能多出百分之三十。等行情真来了，这些便宜时候攒下的家底，涨起来比后面追高的人狠多了。第二，央国企的身价再重估，红利里面一半都是国资央企，以前市场看不上，给五倍的市盈率，现在大家都觉得稳定赚钱是真本事，愿意给到八倍。别小看这三倍的差距，反映到股价上就是百分之六十的涨幅，这叫价值回归。第三，大钱没处去，只能买红利。现在存银行利息不到百分之二，而红利股呢每年光分红就有百分之四五，而红利股每年光分红就有百分之四到百分之五。保险呢养老金这些万亿级别的大钱，为了覆盖成本，捏着鼻子也得往里面配。这不是短线炒作，是源源不断的被动买盘。所以红利不是不进攻，只是它的进攻慢半拍。不跟你比谁跑得快，跟你比谁走得远，稳住了，后劲反而更足。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1022291,
+  "timings": {
+    "chunks_wall_seconds": 4.180021916999976,
+    "encode_seconds_sum": 0.5568160410002747,
+    "request_seconds_sum": 3.3128226250009902,
+    "decode_seconds": 0.34506629099996644,
+    "download_seconds": 0.569
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 95.7373125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7680148390521683173",
+  "title": "你知道红利的进攻型吗#红利 #etf#基金 #理财知识",
+  "video_url": "https://www.douyin.com/video/7680148390521683173",
+  "source_duration": 95.767,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7680148390521683173: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

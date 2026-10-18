@@ -1,0 +1,27 @@
+{
+  "text": "我的问题是 C E O 就是 C E O，你觉得就是呃主要的 responsibility 对啊，我觉得第一个是 take 这个 accountability actually 啊，就我觉得 C E O 其实它不是一个啊，它看上去很 fancy 的工作啊，对，但实际上每天做的 decision 其实都是一些不好的 decision，我觉得啊就是一些 tough decision，因为简单的开心的 decision 是从来不需要我做的，我的同事已经很开心的把这些事情都决定了，对对对，对吧，这最后给我的其实都是一些很恶心的东西，嗯，明白啊，所以我觉得呃要么恶心 A I 也可以，恶心我也可以，就还是要 make 这些 tough decision 的，对对，然后呃有非常多的一些呃我觉得呃存在于这个 creativity 啊这方面的东西，我觉得未来其实呃一个大方向 set up 这个 O K R 的 agent 就会去啊执行了，嗯，啊我其实蛮期待那一天的到来的，嗯嗯，对，但现在还不行嘛，对，所以本质上我觉得 C E O 一定要程度上要去啊拆解这个 O K R，嗯，完成什么样的一个目标，对，啊一个理性还是不理性的目标，我觉得人性还是不理性的，那 C E O 的就是要做的事情就把这种不理性的目标给宣传出去啊去鼓励大家，那 A I 可能就会变得非常理性，说这个事情做不了，你说哎我要造台火箭三分钟之内造不了啊，但是 Elon Musk 可以，Elon Musk 就会说没关系，我会想办法把这个 push 下去，对，但是 A I 它就会非常理性的无法执行，所以我觉得啊一定程度上嗯 C E O 充当了这个拉拉队队长的啊 which 我觉得挺开心的啊 actually 啊就是我会去支持大家啊做这种 exciting 的这个事情对吧，就是我觉得 A I 不会替代所有 C E O，但是会替代那种做 meeting router 的 C E O 啊就是我觉得 meeting router C E O 啊有很多职业经理人 C E O，明白，他做的事情其实就是一个 meeting router，明白啊 meeting 我想 meeting router 中文应该怎么翻译啊，就是传会的人，啊对对啊对吧，你跟他对齐，他跟你对齐，我跟你对对对对一直开会一直开会，对啊我觉得这个东西在一两年以后可能会变得好很多，因为企业级的大脑就会出现了，对，所有的信息会变得异常的公开透明，对，越来越多扁平化的这个企业架构，嗯，我可能这个美国的做 engineering 的这个工程师他可以 access 到欧洲总部的某个人的呃决策数据，对，这个时候他就不再需要这些 meeting router，对，是的，就上下文的对齐变得非常的实时和就自动化，所以不需要就就中国有个大厂黑话就拉齐 alignment，就拉齐就是我跟你的目标对不对齐，然后拉不拉齐，然后就是要拉一下，对 alignment 就是一个大厂开会当中最嗯频繁用到的词，且很很耗时间的，根本就是就其实就是我们两个部门利益不一致，然后硬要扯在一起，对对，就经常发生，所以嗯 A I 员工其实帮助了这件事情，对，因为他原生就在存活于两个部门中间，且他没有 ego，没有情绪，没有啊没有一些不理，就是只有理性没有不理性的地方，啊没错。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1910483,
+  "timings": {
+    "chunks_wall_seconds": 7.659729875000001,
+    "encode_seconds_sum": 0.391852875,
+    "request_seconds_sum": 7.245250125,
+    "decode_seconds": 0.388563291,
+    "download_seconds": 0.392
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 179.01675,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7661188240229092623",
+  "title": "留给CEO的都是恶心的决定 开心的决定轮不到 CEO，恶心的才是他的。 AI 很理性，造不了火箭；Elon 不理性，push 下去了。 CEO 是啦啦队队长——但传会式 CEO，一两年内就危险了。#AI应用 #AI #大模型 #科技投资 \n",
+  "video_url": "https://www.douyin.com/video/7661188240229092623",
+  "source_duration": 179,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7661188240229092623: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

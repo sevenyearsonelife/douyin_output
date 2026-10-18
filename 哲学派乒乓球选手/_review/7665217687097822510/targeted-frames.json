@@ -1,0 +1,27 @@
+{
+  "video_url": "https://www.douyin.com/video/7665217687097822510",
+  "duration": 131.054,
+  "target_terms": [
+    "李云姝"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 98.5,
+      "file": "00098.50.png"
+    },
+    {
+      "time": 99,
+      "file": "00099.00.png"
+    },
+    {
+      "time": 99.5,
+      "file": "00099.50.png"
+    },
+    {
+      "time": 100.5,
+      "file": "00100.50.png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-09-10T21:21:45.564156+08:00",
+  "requested": 100,
+  "distinct_videos": 100,
+  "markdown_files": 100,
+  "raw_transcripts": 100,
+  "asr_calls_this_run": 0,
+  "statuses": {
+    "transcribed": 100
+  },
+  "review_scope": "Checked each transcript opening, middle excerpt, ending, title correspondence and text length against recorded duration; not full-text review or word-by-word audiovisual verification. Existing pending review status retained.",
+  "notes": [
+    "Initial browser launch failed; no active profile owner or SingletonLock found. Isolated launch succeeded and pipeline rerun succeeded; no script changes made."
+  ]
+}

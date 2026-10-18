@@ -1,0 +1,27 @@
+{
+  "text": "今天是我做口播视频正好一个月的时间，这一个月啊，我最大的收获就是我对这个世界更感兴趣了。以前的我只盯着自己的目标，对周遭的人和事很少留意。开始做口播之后，为了找选题，我会下意识的去观察生活，捕捉情绪，感知一切的好与坏，做内容反倒是成了唤醒自己、治愈自己的过程。当然也有遗憾的地方，一个月的时间过去了，我还是没有找到自己的风格，没有摸索出一套固定的、成型的输出模式。我觉得很多事情想做好，最重要的是要搭建好体系，所以这个是我接下来的一个重要课题。不过我也不焦虑，做一个自己不熟悉的领域，本来就是需要时间试错和验证的，慢慢来就好。然后往后的视频我还是想更多的围绕自己的真实生活、真实感、真实感悟、真实成长展开，把它当成一个兴趣爱好来做，慢慢沉淀，持续生长，我相信时间会给出答案。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 710099,
+  "timings": {
+    "chunks_wall_seconds": 2.2781899589999997,
+    "encode_seconds_sum": 0.18710662500000008,
+    "request_seconds_sum": 2.0806865830000003,
+    "decode_seconds": 0.172134542,
+    "download_seconds": 0.831
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 66.480125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7677188008479507899",
+  "title": "做口播视频一个月了 #真实生活分享计划 #girlstalk女性成长 #女性成长 #日常talk #共鸣学习",
+  "video_url": "https://www.douyin.com/video/7677188008479507899",
+  "source_duration": 66.5,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7677188008479507899: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

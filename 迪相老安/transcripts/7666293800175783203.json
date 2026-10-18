@@ -1,0 +1,30 @@
+{
+  "text": "出发。爸爸妈妈压根没给我头绳编，光光给我拿了个头绳给我编成了。哥哥弄了个头绳子，然后呢扎成了丸子头。四点九公里内有多个电子眼，专拍不按规定车道行驶。需要准备的东西：纸尿裤、纸巾、湿巾、水杯。带颗粒的饮料很有深意啊。大夫给的小甜水。你可别。哈哈。什么感觉啊？就是刚喝下去的时候甜，然后呢后面咽下去了就那个，就有一点晕晕的感觉。现在就晕了？有一点点的想吐。等一会儿等一会儿，来抱着爸爸。抱着爸爸。懒的哈，一会儿一会儿一会儿就晕乎了。正好待会儿，咱也去完洗手间了。没有什么好挂念的。真的这样吐，先吐。人胃能受得住吗？人胃能受得住吗？我估计一二十分钟你就失去知觉了。哎，然后就是，就是往年就是年年补牙，补牙还有补了。补牙拔了，还有恒牙了，现在还有恒牙，恒牙很长。等着我好焦急，等着我好焦急，等着我好焦急。\n整体感觉如何，宝贝？没变化。没变化？嗯。那么坚强吗？没有疼痛的感觉吗现在？有一丢丢，一碰就疼。真棒，那咱就不碰它，回家好好营养营养。好，但是我吃东西的时候避免不要碰它。嗯，咱就多吃软的。香甜软糯的，多吃一些香甜软糯的东东。哎呀。哎呀，我看，放好站了没有？看能不能举远一点。就只能这么，这是我的。感觉舒服点了吗？嗯。怪不得他不让我下床，因为一下床更痒。对。背着你。喂，哎，哎，累死了，你能不能举手能不能举起来？对，对。看不清吗？哎呦，累坏了。好。来，你开。哎。好了，好了，好了，放手放手，一下就行。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 4556710,
+  "timings": {
+    "chunks_wall_seconds": 5.432011125,
+    "encode_seconds_sum": 1.0102524999999998,
+    "request_seconds_sum": 9.578427208999999,
+    "decode_seconds": 0.620918667,
+    "download_seconds": 3.934
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 426.9931875,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7666293800175783203",
+  "title": "市口腔日记：陪孩子闯过的小关卡，一切顺利 ",
+  "video_url": "https://www.douyin.com/video/7666293800175783203",
+  "source_duration": 426.97,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7666293800175783203: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

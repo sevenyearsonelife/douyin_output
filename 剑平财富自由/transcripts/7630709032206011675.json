@@ -1,0 +1,29 @@
+{
+  "text": "前面已经了解 ETF 买卖的细节，这节课我们来聊聊到底应该买什么 ETF，搞清楚 ETF 的分类。ETF 有很多种，按投资标的可以分为宽基 ETF、行业 ETF、主题 ETF、商品 ETF、债券 ETF、跨境 ETF 等。作为新手，你最需要了解的是前三类，宽基、行业和主题。这一课我们就来详细拆解。宽基指数，顾名思义就是覆盖范围广泛的指数，它不局限于某个行业或主题，而是尽可能覆盖整个市场。首先说一下沪深三百，它被称为 A 股的晴雨表。沪深三百指数是什么？简单说，它是 A 股市值最大、流动性最好的三百只股票组成的指数。\n嗯。\n嗯。",
+  "chunks": 3,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 7004025,
+  "timings": {
+    "chunks_wall_seconds": 6.4871053750000005,
+    "encode_seconds_sum": 1.7604753329999998,
+    "request_seconds_sum": 14.653498748999999,
+    "decode_seconds": 0.7646130419999999,
+    "download_seconds": 3.195
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 656.3585,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7630709032206011675",
+  "title": "第6课：ETF分类全解析 宽基、行业与主题",
+  "video_url": "https://www.douyin.com/video/7630709032206011675",
+  "source_duration": 656.382,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7630709032206011675: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

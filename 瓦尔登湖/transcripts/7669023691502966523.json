@@ -1,0 +1,27 @@
+{
+  "text": "我建议大家一定要读书，读书的力量真的很大。我是一个容易焦虑的人，但从我每天读书开始，我的内心就变得很稳定。虽然有的时候我看过的书我都不记得具体内容，但是它就是能给我一种力量，让我内心坚定，让我觉得自己是一个很好的人。读书是有魔力的。我给自己定的目标就是每天看一页书，但只要我翻开书，没有哪一次是只看一页的。如果你也迷茫焦虑，那就开始读书吧。如果你发现还有书可以看，还有试可以考，那在某种程度上也是一种幸福，说明你还有机会。所以请你务必一而再，再而三的救自己于水火之中。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 529235,
+  "timings": {
+    "chunks_wall_seconds": 2.193842208,
+    "encode_seconds_sum": 0.21013925,
+    "request_seconds_sum": 1.9719828749999997,
+    "decode_seconds": 0.14513112500000003,
+    "download_seconds": 9.902
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 49.5049375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7669023691502966523",
+  "title": "读书的力量 #一定要读书 #读书的好处 #读书的魅力",
+  "video_url": "https://www.douyin.com/video/7669023691502966523",
+  "source_duration": 49.534,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7669023691502966523: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

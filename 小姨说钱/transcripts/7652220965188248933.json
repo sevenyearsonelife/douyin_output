@@ -1,0 +1,27 @@
+{
+  "text": "最近后台很多朋友都在问我同一个问题啊，就是红利跌了还能拿吗？科技天天在涨，现在追还来得及吗？其实大家纠结的不是买什么，而是害怕自己站错了队。你看着红利跌，心里发毛，你看着科技在涨，又怕错过了。结果最后往往是红利跌的时候想卖，科技涨高了吗，又想去追。今天给大家聊一个策略，那就是把进攻和防守放在一个组合里。比如科创板ETF搭配红利低波ETF，创业板呢它负责去冲锋，它包含了科技、新能源、创新药，行情来了它跑得快，弹性大。红利低波负责守家，啊它里边包含银行啊、电力啊、公路啊这些高股息的资产都在里边。市场跌的时候呢，它通常没有那么吓人，还能给你提供一些分红的收益。说白了，一个负责帮你赚钱，一个负责帮你少亏钱。如果你风险承受能力一般，那就五五开，配置百分之五十创业板，再配置百分之五十红利低波。如果你特别怕波动，那就三七开，百分之三十的创业板，百分之七十的红利。这样呢，即便科技继续涨，你也不会完全踏空了。万一科技调整了，红利呢又能帮你稳住组合。你不用猜下个月呃这个谁领涨，也不用因为红利跌了睡不着，每个月看看账户，每个季度平衡一次仓位就行了。投资很多时候不是选最强的，而是找到一个你能长期拿住的组合。红利给你安全感，成长给你想象力，两条腿走路是不是会更好呢？啊这个建议呢大家觉得怎么样？评论区咱们讨论一下。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1253075,
+  "timings": {
+    "chunks_wall_seconds": 5.0448375409996515,
+    "encode_seconds_sum": 0.28875849999894854,
+    "request_seconds_sum": 3.9977440830007254,
+    "decode_seconds": 0.30705595899962645,
+    "download_seconds": 0.872
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 117.3783125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7652220965188248933",
+  "title": "这个组合怎么样#股市#etf#理财技巧 #股民交流学习 #投资组合",
+  "video_url": "https://www.douyin.com/video/7652220965188248933",
+  "source_duration": 117.367,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7652220965188248933: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "目前处于这轮牛市的哪个阶段？科技股还能不能追？这期咱们就把这个话题来聊透。目前市场分化明显啊，涨的只有光模块、AI、半导体等这些科技类的，别的板块几乎都在原地踏步，可以说是一半疯狂一半躺平。很多朋友就想抛掉手里涨得不好的来追科技赛道，但我认为科技方向已经太过拥堵了，情绪越是集中，就需要越来越多的利好去维持高估的科技股，一旦发生某个利空事件或者是利好不及预期，就有可能出现反转。现在贸然冲进去，本质上就是追涨杀跌。截止二十五号的数据，A股两融的余额历史上首次突破了二点九万亿，上次的高点还是在二零一五年，二零一五年的牛是普涨行情，而这次的火力只集中在科技板块，风险可以说更为集中。如果这只牛的曲线是条抛物线，目前距离顶点的位置可能已经过了三分之二了。老东认为这时候最聪明的做法不是继续猛冲，而是主动把收益预期来降一降，把风险也降一降。对于估值偏高的部分可以适度止盈，手里适当增加一些存在固收加大宗商品类的基金，形成一个资产组合，既不要追高也不要轻易割肉，我们主动的降低一些收益，从而较大的降低整个组合的风险和回撤。会员朋友们对于组合的概念应该会有更清楚的认知。最后提一句，最适合咱们普通人的策略应该是复利稳定和长期，绝不是短期的投机行为。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 911315,
+  "timings": {
+    "chunks_wall_seconds": 3.5653524169999997,
+    "encode_seconds_sum": 0.281473709,
+    "request_seconds_sum": 3.258550125,
+    "decode_seconds": 0.17728387499999998,
+    "download_seconds": 0.472
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 85.33475,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7644410324599167898",
+  "title": "目前处于哪个阶段？科技能不能追？#复利 #知识分享 #资产配置 #长期主义",
+  "video_url": "https://www.douyin.com/video/7644410324599167898",
+  "source_duration": 85.311,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,29 @@
+{
+  "text": "今天再来聊一下这个发球回抛遮挡的问题。这次 WTT 方博的第三个对手，嗯，他的发球就有回抛跟遮挡的嫌疑。那么方博也一直在投诉裁判，啊，结果是因为这个比赛它是没有鹰眼的，所以说也就不了了之了。那么方博也是一直接不好对方的这个勾手，最后比赛也是输掉了。所以这里牵扯出一个问题，当我们碰到回抛或者遮挡的时候，我们应该怎么办？啊，大家可以把你的看法打在评论区里。首先我们说一直抱怨它是没有用的，啊，因为这个发球回抛也好，遮挡也罢，现在已经形成了一个很大的规模，就是它整个环境已经变成这个样子了。所以在很多时候，人是需要去适应这个环境的，就算说你想改变这个环境，它是需要时间的，不是说一时半会儿它就能净化的了。而且我们说这个发球回抛也罢，遮挡也罢，除非它是那种非常离谱的情况下，实际上还是能接的。只要你去认真的研究一下，还是有办法的。然后第二个解决方法就是有一个朋友说的很好，就是他平时也练这个回抛遮挡，但是他在比赛当中他一般是不用的，只有说当对方发球回抛遮挡的时候，啊，他再拿出来用，就相当于是魔法对轰，因为这个叫以其人之道还治其人之身。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 739283,
+  "timings": {
+    "chunks_wall_seconds": 3.002755125,
+    "encode_seconds_sum": 0.20235345799999993,
+    "request_seconds_sum": 2.7867243339999996,
+    "decode_seconds": 0.16397595799999998,
+    "download_seconds": 0.454
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 69.220125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7651104453587750154",
+  "title": "乒乓球碰到回抛遮挡怎么办 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7651104453587750154",
+  "source_duration": 69.219,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7651104453587750154: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

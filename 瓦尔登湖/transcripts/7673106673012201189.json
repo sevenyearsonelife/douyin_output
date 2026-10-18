@@ -1,0 +1,27 @@
+{
+  "text": "你以为你在等风来，其实风在等你长得高。你以为你在等机会，其实机会在等你配得上。空船飘在水面，风一吹就翻。满船载着实力，浪来了才稳。记住，机会永远只会撞上那些正在奔跑的人。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 232019,
+  "timings": {
+    "chunks_wall_seconds": 1.100443459,
+    "encode_seconds_sum": 0.09699841599999998,
+    "request_seconds_sum": 0.9983248750000001,
+    "decode_seconds": 0.11153962500000003,
+    "download_seconds": 2.329
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 21.641,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7673106673012201189",
+  "title": "机会在等你配得上它 #真实生活分享计划 #女性成长感悟 #女性认知觉醒 #感悟人生",
+  "video_url": "https://www.douyin.com/video/7673106673012201189",
+  "source_duration": 21.64,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7673106673012201189: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

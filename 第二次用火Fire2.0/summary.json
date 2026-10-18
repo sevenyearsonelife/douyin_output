@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.douyin.com/video/7683407444361399590",
+    "title": "普通人如何使用AI实现跃迁？未来已经来了只是大多数人还没看见 @刘小排#人工智能 #AI创业 #AI #AI赚钱 #AI发展",
+    "file": "普通人如何使用AI实现跃迁.md",
+    "writtenAt": "2026-09-20 09:09:29",
+    "homepageIndex": null,
+    "status": "needs_review",
+    "review_status": "partially_verified",
+    "extraction_method": "speech_recognition",
+    "model": "qwen3-asr-flash",
+    "source_duration": 2132.97,
+    "raw_file": "transcripts/7683407444361399590.json",
+    "review_note": "已完成全片2秒采样字幕比对及12段短音频复核；已修正87处，少数歧义原位标注，详见校对说明。",
+    "proofread_file": "普通人如何使用AI实现跃迁_校对版.md",
+    "review_file": "普通人如何使用AI实现跃迁_校对说明.md"
+  }
+]

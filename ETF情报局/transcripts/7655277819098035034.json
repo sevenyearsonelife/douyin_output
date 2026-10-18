@@ -1,0 +1,27 @@
+{
+  "text": "嗯。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 940499,
+  "timings": {
+    "chunks_wall_seconds": 1.4480008750000002,
+    "encode_seconds_sum": 0.283223541,
+    "request_seconds_sum": 1.150630917,
+    "decode_seconds": 0.15420941700000002,
+    "download_seconds": 0.093
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 88.0746875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7655277819098035034",
+  "title": "普通人配置ETF 4大核心优势 收藏版 #ETF #投资理财 #小白理财",
+  "video_url": "https://www.douyin.com/video/7655277819098035034",
+  "source_duration": 88.051,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

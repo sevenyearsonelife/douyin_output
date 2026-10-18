@@ -1,0 +1,27 @@
+{
+  "text": "定投最大的骗局就是时间一定会给我们回报，持有的时间越长，收益就一定越高吗？如果你真的这么想，就大错特错了。我们经常会听到一句话，底部多积累便宜的筹码，时间越长收益越大，但很少有人告诉你，如果你在二零零七年的六千一百二十四点开始定投上证指数，直到二零一四年的十月才能勉强回本，整整熬了七年不赔不赚，定投了个寂寞。但如果你再坚持半年，到了二零二五年的六月止盈卖出，那你的收益率将达到百分之一百零二。你看到没？前七年都是亏的，而之后那半年才是能让你赚钱的决胜时间。如果这半年你没有卖，后面又是回调的三年。你不能挣到钱，是因为你把坚持和死扛画上了等号。真正的定投不是无脑的定期扣款，它需要有两个动作，第一，在低位敢于加仓，摊薄成本，第二是在泡沫期懂得离场，落袋为安。如果只是傻傻的买，不进行止盈，那资金的使用效率其实是非常低的。别人一个周期赚了百分之五十去享受生活了，而你还在等待下一个高点解套。所以请记住，定投投的是策略，而不是信仰，时间不是我们最好的朋友，周期才是。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 799955,
+  "timings": {
+    "chunks_wall_seconds": 6.533675916,
+    "encode_seconds_sum": 0.218730042,
+    "request_seconds_sum": 6.289610584,
+    "decode_seconds": 0.17287074999999996,
+    "download_seconds": 0.431
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 74.88575,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7682375578200492762",
+  "title": "定投最大的骗局就是:时间一定会给你收获。#定投 #复利 #投资 #财务自由 #财富思维",
+  "video_url": "https://www.douyin.com/video/7682375578200492762",
+  "source_duration": 74.885,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

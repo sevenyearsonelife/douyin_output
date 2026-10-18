@@ -1,0 +1,27 @@
+{
+  "text": "我们拿卖空的这件事情来说哈，别人给你一笔定金啊，你保证的是未来一段时间，一个月或者一年以内，它价格跌到这个位置上，我拿钱去换成股票啊。但是这个期间，你这笔现金压在这里的现金，你是可以直接放在现金宝上，它是可以产生一点几的利息的，它跟这个权利金本身是不冲突的。这个在美元市场上是更加常见的，让美金它本身的无风险利息它就比较高嘛，嗯，它可能有一个三点几、四点几的一个利息啊，同时它再叠加就是一个权利金的话，可以产生相对比较丰厚的现金流。那同时第二个问题就是说，权利金它不是固定的啊，权利金它的丰厚程度是通过哪些因素去决定的啊？其实决定有好几个。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 501203,
+  "timings": {
+    "chunks_wall_seconds": 2.08629675,
+    "encode_seconds_sum": 0.235977125,
+    "request_seconds_sum": 1.843036125,
+    "decode_seconds": 0.11576845799999996,
+    "download_seconds": 2.439
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 46.881,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7669795333924277556",
+  "title": "卖期权的保证金，其实还能顺便生利息 说一个很多人容易忽略的小细节。 \n我们说卖出一张看跌期权（卖put）的时候，本质上是收了对方一笔\"定金\"（权利金），同时也承诺了一件事：未来这段时间里（可能一个月，也可能一年），如果价格跌到某个位置，就要按这个价格把现金换成股票。\n那这段时间里，压着等接盘的这笔现金，是不是就闲置了？其实不是。这笔钱通常可以放在货币基金一类的现金管理工具里正常产生利息",
+  "video_url": "https://www.douyin.com/video/7669795333924277556",
+  "source_duration": 46.882,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7669795333924277556: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

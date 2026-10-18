@@ -1,0 +1,27 @@
+{
+  "text": "最近有新手问我，呃，开户应该注意什么？今天我就说说新手开户三个坑，踩一个你每年就要多花几千块啊。今天这个视频给你讲明白啊。第一，怎么选券商？别只看它名气大，要去应用商店搜评分，差评的、卡顿的直接排除，选A类券商APP好用的啊。第二点就是谈佣金，这是最大的坑。你直接APP开户，默认就是万二点五，正常能谈到万一。怎么谈？不要在APP上直接开，先去小红书或者抖音搜某某证券低佣金，找客户经理加他的微信，直接问能给万一以内吗？谈好了从他给的链接直接开。第三，开户后别碰三样东西，第一别满仓，第二别信群友的推荐，别开融资融券。我用一句话给你总结啊，你不开口谈佣金那就是原价，谈一下一年省两千。评论区打开户，我把谈佣金的万能话术发给你。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 817619,
+  "timings": {
+    "chunks_wall_seconds": 2.999428999999509,
+    "encode_seconds_sum": 0.24513266699977976,
+    "request_seconds_sum": 2.626852624998719,
+    "decode_seconds": 0.23688395800127182,
+    "download_seconds": 0.237
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 76.557625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7647499998133613988",
+  "title": "新手开户避坑指南#股民交流 #开户 #理财知识 #投资",
+  "video_url": "https://www.douyin.com/video/7647499998133613988",
+  "source_duration": 76.567,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7647499998133613988: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

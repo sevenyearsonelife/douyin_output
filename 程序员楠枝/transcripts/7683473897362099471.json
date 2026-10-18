@@ -1,0 +1,27 @@
+{
+  "text": "Agent Skill 和 MCP 最根本的区别是什么？这个问题很多刚接触 A I Agent 开发的人都会困惑，今天我们就把它彻底讲透。先给一个最直接的结论：MCP 解决的是 Agent 的手够不够长的问题，而 Agent Skill 解决的是 Agent 的大脑够不够用的问题。一个是连接外部世界的协议，一个是内化做事方法的能力单元。MCP，模型上下文协议，你可以把它理解成一种 U S B C 接口标准，它定义的是 Agent 这个主机怎么去插拔各种外部工具，查天气的、读数据库的、操作浏览器的，只要工具方实现了 MCP 服务端，Agent 实现了 MCP 客户端，两边一握手，工具就能被调用。它的核心价值是标准化连接，把每个工具都要单独写一套对接代码的麻烦变成一次对接，处处可用。而 Agent Skill，不是一种网络协议，它是一种可复用的能力封装。什么叫 Skill？它是一段经过验证的完成特定任务的方法流程，比如如何做竞品分析，如何写一份周报，如何排查服务器宕机。一个 Skill 通常包含任务拆解步骤，每一步该调用什么工具，中间怎么判断，结果怎么校验。它教给 Agent 的不是能碰到什么，而是碰到之后该怎么做。所以最根本的区别在哪里？我们用一个生活例子来对比。MCP 像你给一个厨师提供了全套厨具，r、k、锅、铲、刀、灶，还统一了接口，插上就能用，但厨具不会告诉他今天该做川菜还是粤菜，先切菜还是先炖汤。而 Agent Skill 是那份菜谱加操作手册，它告诉厨师做红烧肉，第一步焯水，第二步炒糖色，什么时候放酱油，火候怎么控制。所以 MCP 回答的是我能用什么，Agent Skill 回答的是我该怎么做。再往深一层看，它们的抽象层次完全不同。MCP 位于资源层，它把外部能力标准化成一个一个可调用的端点，而 Agent Skill 位于认知层，它封装的是推理路径和决策逻辑。一个 Skill 在内部执行时，完全可以去调用 MCP 暴露的工具，两者不冲突，反而是上下游的关系。Skill 是大脑里的作战计划，MCP 是手里的武器库。这里要强调一个关键点，没有 MCP Agent 依然可以用 Skill，因为 Skill 可以只依赖内置能力，比如纯文本分析、逻辑推理。但没有 Skill Agent 即便接了一百个 MCP 工具，它也不知道在什么场景下，按什么顺序，用什么标准去组合它们。结果就是工具很多，但用不好，像个拿到工具箱却不会修车的人。真实场景里它们的分工更清晰。假设你要做一个市场调研 Agent，你用 MCP 接入了搜索引擎、爬虫工具、数据库客户端，这时候 Agent 能搜到信息了，但它容易迷失，搜什么关键词，先看哪个网站，数据之间矛盾了信谁。于是你写一个市场调研 Skill，先明确调研目标，再拆成行业规模、竞品格局、用户评价三个维度，每个维度指定用哪个 MCP 工具去取数，取完后用什么规则交叉验证。你看，MCP 提供了数据管道，Skill 提供了方法论。最后做个总结，MCP 是横向的标准化，让不同工具能被统一接入，Agent Skill 是纵向的深度，让 Agent 在特定任务上有章法有经验。再打一个比喻，MCP 是高速公路网，解决路通不通，Agent Skill 是老司机的驾驶策略，解决怎么开又快又稳。路修得再多，新手司机照样迷路，车技再好，没有路也寸步难行。理解了这个区别，你再看 Agent 的架构时，就知道该在哪个层面解决问题了。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 2267603,
+  "timings": {
+    "chunks_wall_seconds": 18.142146957980003,
+    "encode_seconds_sum": 0.600151915976312,
+    "request_seconds_sum": 17.158548875013366,
+    "decode_seconds": 0.6068163750169333,
+    "download_seconds": 3.563
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 212.48725,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7683473897362099471",
+  "title": "Agent Skill与MCP的本质区别是什么？ 很多刚接触AI Agent开发的人分不清MCP和Agent Skill。MCP解决“Agent的手够不够长”，是连接外部工具的协议；Agent Skill解决“Agent的大脑够不够用”，是内化做事方法的能力单元。通过厨师厨具、作战计划、高速公路等比喻，讲透两者的抽象层次、依赖关系与真实分工，帮你快速理解Agent架构中该在哪个层面解决问题。#Agent #MCP #程序员 #技术科普 #后端开发",
+  "video_url": "https://www.douyin.com/video/7683473897362099471",
+  "source_duration": 212.487,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7683473897362099471: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

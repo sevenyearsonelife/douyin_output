@@ -1,0 +1,27 @@
+{
+  "text": "今天的话题呢，依然是红利。很多朋友买红利ETF呀，打开账户一看股价没怎么涨，甚至跌了，就觉得亏了，白买了。但是其实呢，咱们看到的那个数字叫价格指数，根本不算你拿到手的分红。真正能反映我们赚了多少钱的，是那个容易被忽略的全收益指数。什么叫全收益指数呢？也就是呀，它不光算你股价的涨跌，还把股票分红也算进去了。假设分红后继续投进去，最终显示你真实赚了多少钱的那个指数，这才是账户里的总资产变化。让基金份额像滚雪球一样慢慢的变大，时间越长，这两种算法的差距呢就越是惊人。拿具体的产品来说吧，像招商中证红利ETF，它从二零一九年底成立到现在，也就差不多六年。它的全收益官网数据呢显示啊，截止二零二六年四月，这只ETF成立以来的回报是百分之一百零九点五三。如果你只看当前价格的话，那么从一块涨到现在的一块五毛多，大家可以算算它收益是多少。所以咱别光盯着点位发愁，红利投资的核心密码就是看分红，信复利，把分红设置成红利再投，别让它躺在账户里睡大觉，这才是红利真正带你跑赢时间的方式。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1019219,
+  "timings": {
+    "chunks_wall_seconds": 5.644207542063668,
+    "encode_seconds_sum": 0.8997069160686806,
+    "request_seconds_sum": 4.640877834055573,
+    "decode_seconds": 1.6422301250277087,
+    "download_seconds": 0.242
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 95.458625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7675717679538313145",
+  "title": "六年翻倍的红利#红利 #基金 #理财技巧 #股民交流 #投资",
+  "video_url": "https://www.douyin.com/video/7675717679538313145",
+  "source_duration": 95.467,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7675717679538313145: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

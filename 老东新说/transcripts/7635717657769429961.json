@@ -1,0 +1,29 @@
+{
+  "text": "很多博主天天挂嘴边的沪深三百、中证五百真的是最优解吗？当然不是，这是条会员专属视频，老东将以数据说话，深度剖析，看看哪个指数基金更适合我们普通人，最后我会给出明确的配置建议，对未来五到十年长期有效。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 2405075,
+  "timings": {
+    "chunks_wall_seconds": 2.649119916,
+    "encode_seconds_sum": 0.336043208,
+    "request_seconds_sum": 2.268311917,
+    "decode_seconds": 0.394152792,
+    "download_seconds": 47.022
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 225.372875,
+  "review_status": "needs_review",
+  "warnings": [],
+  "video_id": "7635717657769429961",
+  "title": "沪深300、中证500非最优解，老东的配置建议。",
+  "video_url": "https://www.douyin.com/video/7635717657769429961",
+  "source_duration": 225.397,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition",
+  "access_restriction": "paid_content",
+  "review_note": "仅识别到公开试看约18秒；播放器在20秒画面显示“购买后可看”。标示总时长不代表完整内容可公开访问。"
+}

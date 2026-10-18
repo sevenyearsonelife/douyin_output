@@ -1,0 +1,30 @@
+{
+  "text": "八二八全国商品房销售改革出台之后啊，北京率先拿到了这个地方落地的细则啊，核心思路就是一句话，新老划断，分类施策。简单的说呢就是老项目给缓冲，新项目直接收紧，不搞一刀切，不搞硬落地，避免这个政策突然转向而把市场砸出大风险。那么咱今天的这则短视频呢，尝试从两个角度分开聊，就是这样政策对房企，还有对股市里的地产板块分别意味着什么。先说这个政策本身的划分逻辑啊，以二六年八月二十八号这一天为分界线。\n嗯。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 5080102,
+  "timings": {
+    "chunks_wall_seconds": 10.793163625,
+    "encode_seconds_sum": 1.1725800829999997,
+    "request_seconds_sum": 19.034467791,
+    "decode_seconds": 3.180694,
+    "download_seconds": 41.666
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 476.07875,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7689821845633125678",
+  "title": "北京地产新政细则落地，房企和地产股会受到什么影响？ #个人感悟",
+  "video_url": "https://www.douyin.com/video/7689821845633125678",
+  "source_duration": 476.079,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7689821845633125678: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "有很多人说红利ETF不行啊，曲线不涨，其实说的不对。这里面有一个误区，我敢说百分之九十的人都看不懂红利，根本不知道价格指数和全收益指数的区别。我们软件日常看到的中证红利、红利低波指数都是价格指数，它只算股价的涨跌，基金成分股一旦分红除权之后，它的价格是直接往下掉的，而分红的这笔收益直接被忽略掉。然而全收益指数就是假设把所有的分红全部再投入买入份额，完整的还原真实拿到手的回报，时间拉长，两者收益差距会非常夸张。就拿中证红利指数举例，价格指数近五年几乎原地不动，而全收益指数却能多出来近百分之三十的收益，差额大部分都来自于分红的复利。但大多数人不了解啊，就只拿价格指数去判断红利基金的好坏，看红利点位没怎么涨，就骂红利是坑，最终错过一些还不错的红利ETF。还有一个关键点就是分红方式一定要选择红利再投资，这样分红能自动买入更多的份额，这才是复利的来源。如果拿现金，复利效果就直接大打折扣。所以看懂全收益指数才算真正看懂红利基金，还有很多投资的小技巧也藏在这种细节里边。好了，关注老东，财富畅通。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 798419,
+  "timings": {
+    "chunks_wall_seconds": 3.3911615000000004,
+    "encode_seconds_sum": 0.27708287499999995,
+    "request_seconds_sum": 3.103103042,
+    "decode_seconds": 0.21205599999999997,
+    "download_seconds": 0.606
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 74.7464375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7674170893140542963",
+  "title": "90%的人不会看全收益指数。#干货分享 #红利etf #基金定投 #价值投资 #复利",
+  "video_url": "https://www.douyin.com/video/7674170893140542963",
+  "source_duration": 74.746,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

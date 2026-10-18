@@ -1,0 +1,27 @@
+{
+  "text": "有时候呀，我觉得时间比财富更公平。它不会因为你有钱就多给你一天，也不会因为你贫穷就少给你一天。可同样的时间呢，有的人把它过成了消费，有的人呢把它变成了资产。这些年，我越来越相信一句话，真正的财富呢，不是账户里的数字，而是那些任何行情都拿不走的东西。是经历过无数次的涨跌之后依然能够保持冷静，是踩过很多坑之后呢依然愿意学习，是见过太多人来来去去，依然相信长期，相信复利，相信时间。年轻的时候呢，总想去赢过别人，后来才明白，更重要的是赢过昨天的自己。时间在走，我也在变，变得没有那么着急了，没有那么贪心了，也没有那么害怕了。我开始接受慢一点，接受等待，接受有些钱本来就不该赚。因为真正的大钱从来都不是靠冲动赚来的，而是靠认知，靠耐心，还有时间一点点积累出来的。今天对我来说呢，是一个值得记住的日子。我没有什么特别大的愿望，只希望未来的每一天都还能保持学习的热情，保持独立思考的能力，保持对市场的敬畏，也保持对生活的热爱。愿未来的我比现在更从容。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1037651,
+  "timings": {
+    "chunks_wall_seconds": 4.3137664169989876,
+    "encode_seconds_sum": 0.2506727920008416,
+    "request_seconds_sum": 3.8165750000007392,
+    "decode_seconds": 0.34563341600005515,
+    "download_seconds": 0.607
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 97.1769375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7660755350513545082",
+  "title": "感悟人生#认知觉醒 #感悟生活 #每日分享 #理财",
+  "video_url": "https://www.douyin.com/video/7660755350513545082",
+  "source_duration": 97.2,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7660755350513545082: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "今天是高考的第一天，呃，跟这个即将走进考场的孩子们还有家长们聊几句。先说一句可能很多人不爱听的话，高考很重要，但它真的不是人生最后一次翻盘的机会。作为一个财经博主，这些年我见过太多人，有的人考上名校，后来工作平平无奇，有的人高考成绩一般，却靠着持续学习不断成长，把日子过得越来越好。投资是这样，人生其实也是这样。一次考试就像股市里的一根K线，重要吗？重要，但它决定不了整个趋势。如果把人生拉长到三十年、四十年去看，高考只是其中一个阶段而已。所以对于考生来说，今天是最重要的事情，不是想着未来会怎样，而是把眼前的每一道题做好。就像投资一样，我们无法控制市场明天涨还是跌，但我们可以控制自己今天是否认真的研究，认真的执行，尽力了就够了。再跟家长们说一句，今天孩子的压力其实比你想象的大。少问几句能考多少分，少说几句别人家孩子怎么样，多说一句没事，正常发挥就行。很多年以后，孩子可能记不住考了多少分，但一定会记得高考的时候父母给了他什么样的力量。最后送给所有考生一句话，高考考的是十二年的积累，而人生考的是一辈子的成长。考得好值得高兴，考的不理想也不要否定自己。最后祝所有的考生落笔生华，金榜题名，也祝大家未来的人生像一只长期向上的好股票一样，穿越周期，终有所成。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1326419,
+  "timings": {
+    "chunks_wall_seconds": 5.066264125000089,
+    "encode_seconds_sum": 0.28245166699889523,
+    "request_seconds_sum": 4.514252625000154,
+    "decode_seconds": 0.49059583300004306,
+    "download_seconds": 0.794
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 124.251375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7648429634368166331",
+  "title": "祝所有的考生落笔生花 金榜题名#高考加油 #人生 #致高考 #教育",
+  "video_url": "https://www.douyin.com/video/7648429634368166331",
+  "source_duration": 124.267,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7648429634368166331: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

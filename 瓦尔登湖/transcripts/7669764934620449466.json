@@ -1,0 +1,27 @@
+{
+  "text": "如果同样的问题一直出现，那么你自身才是最大的问题。命运会反复的给我们出相同的题目，直到我们给出新的答案。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 152147,
+  "timings": {
+    "chunks_wall_seconds": 0.7743685000000001,
+    "encode_seconds_sum": 0.09434083300000001,
+    "request_seconds_sum": 0.6745305410000001,
+    "decode_seconds": 0.12117166699999998,
+    "download_seconds": 2.919
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 14.1641875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7669764934620449466",
+  "title": "命运会反复出题，直到你给出新的答案 #女性成长独白 #改变 #",
+  "video_url": "https://www.douyin.com/video/7669764934620449466",
+  "source_duration": 14.2,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7669764934620449466: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

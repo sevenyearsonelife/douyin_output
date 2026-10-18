@@ -1,0 +1,27 @@
+{
+  "text": "美股夜盘玩了个深V大反转，但撑场面的全是老面孔，消费啊、传媒啊这些传统的板块，科技股照样被锤得够呛。费城半导体指数最惨啊，大跌超百分之四点三八，存储芯片板块也崩了百分之三点八二以上，闪迪更狠了，直接暴跌百分之十四点二。光模块的龙头老馒头同样没扛住啊，跌了百分之八点七九。现在就等今天咱们大A，看能不能硬气一回，别又靠银行出来托底。嗯，喜欢的朋友给小易点个赞。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 437843,
+  "timings": {
+    "chunks_wall_seconds": 1.5977717080004368,
+    "encode_seconds_sum": 0.1288043340009608,
+    "request_seconds_sum": 1.4325711250003224,
+    "decode_seconds": 0.1613818750010978,
+    "download_seconds": 11.695
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 40.9381875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7667720303228871814",
+  "title": "行情反转却不见科技身影#科技 #股民交流 #宏观 #美股 #投资",
+  "video_url": "https://www.douyin.com/video/7667720303228871814",
+  "source_duration": 41,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7667720303228871814: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

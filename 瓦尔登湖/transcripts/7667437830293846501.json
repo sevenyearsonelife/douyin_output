@@ -1,0 +1,27 @@
+{
+  "text": "非常想要就会得到，命运的本质是相信。如果一个人极致的相信自己能成为，坚定的相信自己能做到，那么极大概率，命运会潜移默化的调动他的行为、状态、决策，去帮助他实现他想要的东西，成为他想成为的人。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 240467,
+  "timings": {
+    "chunks_wall_seconds": 1.6010392919999998,
+    "encode_seconds_sum": 0.10556133299999992,
+    "request_seconds_sum": 1.491129125,
+    "decode_seconds": 0.09303320800000003,
+    "download_seconds": 2.121
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 22.4305,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7667437830293846501",
+  "title": "非常想要，就会得到。#读书分享女性成长 #女性阅读成长",
+  "video_url": "https://www.douyin.com/video/7667437830293846501",
+  "source_duration": 22.43,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7667437830293846501: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "今天的视频呢只聊一件事儿，就是科技股还有没有第二波。首先啊结论是肯定的，国家大基金的二期三期接力投入，国产替代的长期逻辑没有丝毫的动摇。但是这不代表所有的科技股都能鸡犬升天。大家注意一个时间节点，七月到八月是半年报业绩预告和正式报告的密集披露区。第一波行情你可以闭着眼睛超预期就行了，但第二波行情呢，我们一定要睁大眼睛看数据。如果你手里的科技股既没有技术壁垒，也没有业绩预期，甚至连机构调研都没有，那它就是典型的杂毛。这一类标的在财报季会面临双杀的风险，杀估值杀逻辑。我的建议很直接啊，主动去调仓，去弱留强，把仓位腾出来，等到业绩确认信号出现后，再重仓切入那些真正有业绩的加速的细分龙头。现在贪图杂毛的便宜，只会耽误下一波的主升浪。做投资呢其实是做减法，不是做加法，别让杂毛票占了你最宝贵的仓位和注意力。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 830675,
+  "timings": {
+    "chunks_wall_seconds": 3.5381144170005427,
+    "encode_seconds_sum": 0.2935983749994193,
+    "request_seconds_sum": 2.753285999999207,
+    "decode_seconds": 0.45095374999982596,
+    "download_seconds": 0.885
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 77.7650625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7662713333020102331",
+  "title": "科技依然是今年的主线#行业分析 #科技行业 #股民交流 #股票市场",
+  "video_url": "https://www.douyin.com/video/7662713333020102331",
+  "source_duration": 77.767,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7662713333020102331: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

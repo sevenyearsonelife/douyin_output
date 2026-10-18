@@ -1,0 +1,27 @@
+{
+  "text": "成年人的最高自律，就是悄悄发力。我努力的时候，不会告诉任何人。早起我不会告诉任何人，减肥我不会告诉任何人，健身、读书、学习，我都不会告诉任何人。但凡我定下目标想要努力的事儿，我都会选择藏起来。因为我发现，一件事不对外宣扬的时候，我反而更有干劲儿。偷偷干会让我有种踏实的爽感。我太喜欢这种状态了，没有人知道我在干什么，只有我自己知道，我在慢慢变好。这些年总结出我的心得，事儿要悄悄干，钱要悄悄赚。如果有人问起，就回答说，随便玩玩。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 571859,
+  "timings": {
+    "chunks_wall_seconds": 2.7599115,
+    "encode_seconds_sum": 0.16204704200000003,
+    "request_seconds_sum": 2.59063225,
+    "decode_seconds": 0.128837959,
+    "download_seconds": 4.94
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 53.522,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7666798866491489189",
+  "title": "事，要悄悄干；钱，要悄悄赚。#女性成长 #日常分享",
+  "video_url": "https://www.douyin.com/video/7666798866491489189",
+  "source_duration": 53.521,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7666798866491489189: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

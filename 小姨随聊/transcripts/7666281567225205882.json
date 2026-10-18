@@ -1,0 +1,27 @@
+{
+  "text": "今天呢给各位推荐一本让我们少走弯路的神书，就是这个半小时漫画股票实战法。别一听漫画你就觉得幼稚，它把主力那些套路扒的贼清楚。主力到底是真洗盘还是真跑路？底部怎么提前闻到那个味儿？盘口挂单怎么看？止损设在哪里？连布林线、KDJ这些让人头大的指标，它都用大白话画给你看。我翻过的交易书起码有几十本了，但这本是我反复翻、反复看的。小白能当入门的地图，老手呢能当查漏补缺的工具书。关键是看得快用得上，看完第二天操作感觉就不一样了。真心建议放一本在自己的桌上，亏一次的钱呢就购买几十本的。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 593363,
+  "timings": {
+    "chunks_wall_seconds": 2.3206364170000597,
+    "encode_seconds_sum": 0.20136429100057285,
+    "request_seconds_sum": 1.9364558750003198,
+    "decode_seconds": 0.2923370419994171,
+    "download_seconds": 46.951
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 55.5203125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7666281567225205882",
+  "title": "看k线有他就行#学习股票知识 #k线图 #好书推荐 #读书 #股票投资",
+  "video_url": "https://www.douyin.com/video/7666281567225205882",
+  "source_duration": 55.567,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7666281567225205882: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

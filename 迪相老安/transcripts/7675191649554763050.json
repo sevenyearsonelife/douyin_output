@@ -1,0 +1,28 @@
+{
+  "text": "跟一直关注咱的新老朋友们说个事儿哈，咱这个账号呢准备改名字了。陪伴了大家十年的狄向财经这个 ID 啊，准备作古了。咱的新名字叫狄向老安，人没有换哈，人还是原来的我，就是咱这个名字换一下。十年前嘞，我选择用财经这个词作为 IP 的后缀时，那是一个个人品牌、个人自媒体混战的时代。但是很不幸，过去的十年啊，咱发展的不是很理想，甚至可以说是有点菜。不过这似乎并不影响未来的十年，我们以另外的一副新姿态来策马扬鞭。这两年呢整个行业啊都在变天，咱这样的一位民间个人博主，你再顶着一个财经的帽子啊，容易让大家对我的身份呀产生误解。所以呢，经过咱七七四十九天的痛苦失眠抉择过后，我决定啊改个名字。正好呢借着这个机会鞭策自己，往后余生以一位普通投资者的身份来记录市场，观察市场。记录好咱自己踩过的坑，记录好咱投资路上的感悟，远离机构式的解读，远离说教式的指导，做一位普普通通的践行者。所以呢，请老朋友你看到狄向老安这个新名字时啊，千万不要盲目的划走哦，感谢大家啊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1149395,
+  "timings": {
+    "chunks_wall_seconds": 3.694976291,
+    "encode_seconds_sum": 0.28245883299999996,
+    "request_seconds_sum": 3.389849625,
+    "decode_seconds": 0.27107470899999997,
+    "download_seconds": 0.334
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 107.672375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7675191649554763050",
+  "title": "从迪相财经到迪相老安，人还是那个人，就是菜得想换个马甲而已 #我要改名了",
+  "video_url": "https://www.douyin.com/video/7675191649554763050",
+  "source_duration": 107.672,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7675191649554763050: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

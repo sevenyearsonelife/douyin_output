@@ -1,0 +1,27 @@
+{
+  "text": "最近微信个人主体小程序已经开放了虚拟支付能力，官方提供了 Agent 自动接入方式，在自己的小程序里简单测试了一下。使用 Codex 这段提示词粘贴进来，再加入一些自己的要求，用了十三分钟就实现了前后端代码。代码实现之后，进入虚拟支付的后台添加道具，我这里添加了一个小积分包，价格为五元，ID 是 jf 零一。创建完道具之后就可以到后端代码里填写相应的配置，主要有商户号、密钥、支付环境、道具 ID、价格。支付环境中一表示沙箱，也就是测试环境，零表示正式环境。道具的价格单位为分，需要换算一下。接下来打开小程序进行测试。选择小积分包进行充值。使用微信进行扫码。支付成功后，五十积分已经正常添加。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 780371,
+  "timings": {
+    "chunks_wall_seconds": 2.245175249991007,
+    "encode_seconds_sum": 0.32640200000605546,
+    "request_seconds_sum": 1.9120882919814903,
+    "decode_seconds": 0.5994110000028741,
+    "download_seconds": 1.842
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 73.074625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7681240233492385062",
+  "title": "使用codex接入了小程序虚拟支付到底多简单 #codedex使用教程 #小程序 #虚拟支付 #后端开发 #编程基础",
+  "video_url": "https://www.douyin.com/video/7681240233492385062",
+  "source_duration": 73.05,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7681240233492385062: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

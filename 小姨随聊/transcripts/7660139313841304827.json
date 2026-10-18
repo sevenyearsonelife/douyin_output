@@ -1,0 +1,27 @@
+{
+  "text": "七月八号啊，A股冲高回落，三大指数集体收跌，超三千七百只个股下跌，两市成交额呢二点五六万亿，较上一个交易日缩量约一百七十六亿，资金整体偏谨慎了。盘面有几点值得留意的啊，算力租赁、AI服务器逆势走强，多股涨停。油气板块呢受国际局势的影响也涨了，但机器人、锂电池、有色金属午后呢加速下挫。小姨给大家两点提醒，第一，别急着抄底，今天早上冲高下午回落，追进去的基本都被套了，调整市里管住手比什么都重要。第二点，关注外部风险，美伊冲突升级，国际油价大涨，地缘政治呢一有风吹草动，全球资本市场都得跟着抖，这种不确定性没有消除之前，仓位一定要轻。记住小姨说的话啊，震荡市里少动多看，现金为王。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 682835,
+  "timings": {
+    "chunks_wall_seconds": 2.59558670899969,
+    "encode_seconds_sum": 0.17818174999956682,
+    "request_seconds_sum": 2.1521263329996145,
+    "decode_seconds": 0.23224074999961886,
+    "download_seconds": 1.344
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 63.9259375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7660139313841304827",
+  "title": "小姨提醒#股市行情 #股民交流 #理财知识 #风险提示",
+  "video_url": "https://www.douyin.com/video/7660139313841304827",
+  "source_duration": 63.967,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7660139313841304827: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "嗯，就是比如说这这个 cloud 的对话 chatbot 和 chatgpt 是一样的嘛。对。那它主打的就是一问一答。对。所以它的工作流会很简单，它也不会带上什么 skill 呀，不会带上什么 MCP 啊，不会带上什么记忆模块，嗯，都不会。所以它是一个非常简单的，非常快问快答的一个对话方式，它会非常的省 token。因为我们知道如果你在 cloud code 里面问一句你好，两块钱。啊，这真两块钱。就是那个 Fable 不是说你好，说个你好就两块钱。啊，对啊，就是你人家发过一个另外一个短视频我觉得很有意思，就是你你你发了一句你好今天天气怎么样，然后后面那个数据中心是疯狂的轰鸣般的运转，你可以想象那个画面吧。对，我记得那个 Sam Altman 就有一次采访说就说就请大家在 go with GPT 希望再也不要说 hello 和 thank you 了。对，真的是就浪费 intelligence 对吧？对，因为他说你只要说一次 thank you 那个他的他每一天公司要花几百万美金来来来应付那个 thank you。因为就是你说了 thank you 他可能说 and you？然后又会促成一次多轮绘画。对啊，对。就停不下来，它的上下文会越来越长。对，这这就是所以为什么他们人就会区分这些入口，就是他是如果用户是有感知的，就用户知道 chatgpt 是比 codex 在一些问题上，我我就用 chatgpt 就好了，我不用用 codex 也能回答回答非常好，因为它不依赖我本地的文件系统，它也不依赖我的记忆，呃，甚至现在 chatgpt 在记忆层面也做的挺好的嘛。对，是的。然后你也不需要依赖什么 MCP skill 不了不不不这些，也不要写代码，所以就回答我一个科普问题，那我就直接问 chatgpt，那对于 openai 来说那它就是一次成本的一次节省，所以它是有它存在的意义的。但是这个事情不应该让这个选择成本放到用户这边嘛，因为用户这样就会非常，而而且我觉得这是一个很大的问题，我我说一下为什么，我觉得这是很大很大的问题，是因为大部分人接下来就停在第一层，这个是其实如果我是我知道我自己没有资格管 Anthropic 这种公司，但是假设在某一个平行宇宙我能管这个公司的话，我会希望所有人去第三层嘛，对吧？我希望所有人去 code，因为因为最对于 token 来说当然是你可以省没问题，但是我当然希望用户有更加智能的行为，因为这才能充分的发挥我产品的功效，然后 in in return 别人才愿意 upgrade 那个 plan 从二十变成两百。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1251923,
+  "timings": {
+    "chunks_wall_seconds": 6.769013833,
+    "encode_seconds_sum": 1.5325306250000001,
+    "request_seconds_sum": 5.199616625000001,
+    "decode_seconds": 2.21292575,
+    "download_seconds": 0.548
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 117.2854375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7657161976220486966",
+  "title": "跟AI说句\"你好\"，烧掉两块钱 聊天框一问一答最省token——在Claude Code里问句\"你好\"要两块钱。 Sam Altman都求大家别对GPT说thank you，太浪费算力。 但问题是：大部分人就停在了第一层。 真正的智能在Code层，可惜很多人一辈子没点进去。#科技投资 #AI应用 #人工智能 #大模型",
+  "video_url": "https://www.douyin.com/video/7657161976220486966",
+  "source_duration": 117.27,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7657161976220486966: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

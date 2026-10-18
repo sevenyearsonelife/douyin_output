@@ -1,0 +1,27 @@
+{
+  "text": "很多人都知道啊，纳斯达克长期是往上走的，那为什么不能一次满仓干进去算了？我给你讲三段故事，听完你就不敢了。第一段就是二零零零年互联网泡沫破裂，纳指直接跌了百分之八十二，啥概念？你一百万变十八万了，你要是高点一把梭进去，得熬十五年才能回本，十五年孩子都能中考了，你还在等解套。第二段呢，二零零八年的金融危机，纳指跌了百分之五十四，账户直接腰斩，你辛辛苦苦赚的五十万，一觉醒来剩了二十多万，心态真的会崩。第三段就是二二年美联储加息，纳指也跌了百分之三十七，不是危言耸听啊，就这几年的事儿。所以问题来了，没人能预测明天涨跌，你要是运气好，一把梭在低点当然爽了，但万一买在山顶呢？天天看着亏钱，吃不下睡不着，那种滋味真扛不住。那定投图啥？就图两点，扛揍容错。咱们做最坏的打算，就算你倒霉到极致，刚好在历史的最高点开始投，一把梭的人呢只能死扛，回本遥遥无期，但定投的人呢越跌越买，成本越摊越低，市场一反弹，你回本快得多。记住一句话啊，市场没法精准的抄底，定投不是让你一夜暴富，是给咱们普通人一个输得起的机会，不用赌行情，也能吃上长期上涨的红利。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1061843,
+  "timings": {
+    "chunks_wall_seconds": 3.378330166999149,
+    "encode_seconds_sum": 0.23138845900029992,
+    "request_seconds_sum": 3.1116384169999947,
+    "decode_seconds": 0.27245529199899465,
+    "download_seconds": 0.28
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 99.4525,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7665949665888275121",
+  "title": "打死也不要一把梭哈纳指#股市行情 #纳指 #股民交流 #金融知识分享",
+  "video_url": "https://www.douyin.com/video/7665949665888275121",
+  "source_duration": 99.467,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7665949665888275121: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

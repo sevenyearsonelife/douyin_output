@@ -1,0 +1,28 @@
+{
+  "text": "都说你的花朵真红火，都说你的果实真芬。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 150995,
+  "timings": {
+    "chunks_wall_seconds": 0.797136292,
+    "encode_seconds_sum": 0.07217904099999994,
+    "request_seconds_sum": 0.72081275,
+    "decode_seconds": 0.09344320800000006,
+    "download_seconds": 3.838
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 14.048,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7689307900795486628",
+  "title": "#农村老物件一代人的回忆",
+  "video_url": "https://www.douyin.com/video/7689307900795486628",
+  "source_duration": 14.067,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7689307900795486628: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

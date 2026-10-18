@@ -1,0 +1,27 @@
+{
+  "text": "咱们普通股民啊，平时如何防止被量化割韭菜啊？今天这个视频给你讲明白。量化基金靠什么挣钱？靠速度，靠情绪，靠信息差。你纠结五分钟才下单，它毫秒级完成操作。你恐慌割肉，它精准抄底。你贪婪追高时，它高位派发了。那怎么应对呢？就记住四个字，以慢制快。第一，放弃追涨杀跌。量化最喜欢的就是情绪化的交易，你越冲动，它越容易收割你。第二呢，就是拉开交易的间距，别挂现价单，挂限价单，设定好心理价位，不到不卖，到了不贪。第三呢，分散买入，分笔卖出，不要一次性满仓，拉开时间的间隔，量化很难捕捉你的真实意图。第四，长期持有优质资产。量化它赚的是短期波动的钱，你赚的是企业成长的钱，赛道不同，它割不到你。记住啊，量化再快也快不过你的耐心，不当急躁的猎物，做有耐心的猎人。关注我，投资不迷路。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 841427,
+  "timings": {
+    "chunks_wall_seconds": 3.268963165999594,
+    "encode_seconds_sum": 0.25375679199896695,
+    "request_seconds_sum": 2.9659692919994995,
+    "decode_seconds": 0.2583823750010197,
+    "download_seconds": 0.467
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 78.78675,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7654191402133685924",
+  "title": "普通人如何做到不被量化割韭菜#量化交易 #股民交流 #理财技巧 #投资",
+  "video_url": "https://www.douyin.com/video/7654191402133685924",
+  "source_duration": 78.8,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7654191402133685924: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

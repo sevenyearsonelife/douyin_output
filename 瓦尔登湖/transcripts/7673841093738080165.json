@@ -1,0 +1,27 @@
+{
+  "text": "你们有没有过因为一个陌生人然后坚持做一件小事的经历？我前段时间去游泳馆，游完泳洗完澡准备离开的时候，有一个小姑娘过来和我借浴巾。因为浴巾是贴身之物，我本能的反应就是不借啊，然后我就拒绝了她。但是拒绝完事之后呢，我就觉得有一点点愧疚，所以说我跟她说我说那个前台应该是有卖的，需不需要我给她叫一下工作人员？然后她说不用，我觉得她应该是觉得馆里的那个物品溢价比较高。后来我说那我给你拿拿点纸巾吧，然后她也说不用，嗯，之后我就走了。但是接下来几天我都会觉得心里比较别扭，我觉得我应该为她做点什么，因为我太能理解她当时的那个处境了。后来从那件事开始，我就每次在我的泳包里边都放了一个一次性的浴巾，这个浴巾未必能给到当初的那个人，但是我觉得这个遗憾如果能变成往后善待别人的温暖也是好的。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 627923,
+  "timings": {
+    "chunks_wall_seconds": 2.235864084,
+    "encode_seconds_sum": 0.186309375,
+    "request_seconds_sum": 2.038572125,
+    "decode_seconds": 0.20317625000000006,
+    "download_seconds": 8.456
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 58.7696875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7673841093738080165",
+  "title": "让遗憾成为善待别人的温暖 #真实生活分享计划 #girlstalk女性成长 #女性成长实录 #人生感悟",
+  "video_url": "https://www.douyin.com/video/7673841093738080165",
+  "source_duration": 58.769,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7673841093738080165: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

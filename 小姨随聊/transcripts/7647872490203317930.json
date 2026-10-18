@@ -1,0 +1,27 @@
+{
+  "text": "知道今年什么天气最影响你的钱包吗？不是台风，不是暴雨，是厄尔尼诺。这名字听起来是不是挺洋气的？说白了就是全球气候呢乱套了，该下雨的地方不下，不该下的地方狂下。那你说跟我们普通人有什么关系？关系大了，因为它会直接推高你身边好几样东西的价格。我给你讲三个最可能爆炸的，第一个就是食用油，尤其是棕榈油，印尼呀马来西亚呀是棕榈油生产区，厄尔尼诺一来就干旱，干旱一严重呢就减产，减产之后九到十二个月价格就往上窜。强厄尔尼诺的时候，棕榈油涨个百分之四十、百分之五十都不稀奇。第二个就是白糖，印度泰国干旱，甘蔗就减产，白糖呢就贵了，而且印度一减产，它就会限制出口，全球的糖价跟着飞，什么奶茶呀、饮料啊、甜品呢，但凡甜的啊都可能会悄悄涨价。第三个就是铜，铜跟天气你说它有啥关系？智利它产铜，智利一下大雨，铜矿就被淹，而且咱们国内云南靠水力发电，铜一涨，空调、电动车、电线电缆全跟着涨。对我们普通人来说，要做到心里有数，知道接下来哪些东西可能要涨，家里该囤的提前囤一点，比如食用油，比如白糖。最后说一句大实话，厄尔尼诺你挡不住，但它吹来的风你至少可以提前撑把伞吧。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1119827,
+  "timings": {
+    "chunks_wall_seconds": 3.748894709000524,
+    "encode_seconds_sum": 0.36459062500034634,
+    "request_seconds_sum": 3.2226788329990086,
+    "decode_seconds": 0.3328151669993531,
+    "download_seconds": 0.631
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 104.8859375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7647872490203317930",
+  "title": "厄尔尼诺给大家带来什么#厄尔尼诺现象 #投资 #经济 #气候变化",
+  "video_url": "https://www.douyin.com/video/7647872490203317930",
+  "source_duration": 104.934,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7647872490203317930: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

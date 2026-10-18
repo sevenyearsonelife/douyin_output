@@ -1,0 +1,28 @@
+{
+  "text": "可能有大家伙发现了啊，最近呢老安也是很少提那一句话，“闲钱筑基，闲时养心，闲心掌局，牛熊无味，杠杆不沾”。原因呢很简单哈，是市场环境啊已经实实在在的变了。你看看之前这个市场轰轰烈烈啊，大家的心气儿呢都挺高，总想抓住每一波行情，敢于加仓位，敢于博弈。那个时候呢咱反反复复的讲这句话，是为了给大家伙啊做风险提示。但是现在不一样了啊，那些带着高杠杆满仓猛干的人啊已经被市场清理的差不多了。所以现在呢咱要是每天在反复的絮叨这些风险警示，听进去的人啊也不多了。就是你不得不承认市场已经切换到了另一个阶段。所以接下来呢得安安稳稳的勒紧裤腰带啊过日子。当过日子被提上了首位的时候，重点呢就不再是劝人不要猛冲了，而是接受现实，降低降低再降低你那个收益预期，放下暴富的幻想，管好手里哎那点仅存的筹码。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 822995,
+  "timings": {
+    "chunks_wall_seconds": 2.865688791,
+    "encode_seconds_sum": 0.20944287500000003,
+    "request_seconds_sum": 2.642750875,
+    "decode_seconds": 0.14088033400000005,
+    "download_seconds": 2.283
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 77.0684375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7681197747399036212",
+  "title": "道理还在，闲钱逻辑没失效，接下来安稳过日子 ",
+  "video_url": "https://www.douyin.com/video/7681197747399036212",
+  "source_duration": 77.044,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7681197747399036212: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

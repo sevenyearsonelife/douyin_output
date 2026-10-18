@@ -1,0 +1,30 @@
+{
+  "text": "很多人不明白为什么高手在人际交往中很少轻易批评别人。因为批评其实是一种很昂贵的行为。当你批评一个人的时候，你消耗的不只是几句话，而是消耗了关系、情绪，甚至可能给自己带来麻烦。真正聪明的人不会随便去纠正别人，更不会随便去教育别人。因为每个人都有自己的认知边界，你认为对的东西，别人未必接受。所以很多时候，与其指出别人的问题，不如选择给予认可和鼓励。你夸别人优秀，不代表你认可他所有行为，而是懂得降低冲突成本，保护自己的时间和精力。尤其是在没有利益关系的时候，没有必要站在道德制高点评价别人。这个世界上，真正厉害的人都懂得一个原则：嘴上留德，心里有数。批评要留给真正值得的人和真正重要的事情。大多数时候，夸奖别人是成本最低的善意。控制评价欲，是一个人成熟的开始。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 735827,
+  "timings": {
+    "chunks_wall_seconds": 2.319296125002438,
+    "encode_seconds_sum": 0.2122268749808427,
+    "request_seconds_sum": 2.102288124995539,
+    "decode_seconds": 0.19108383401180618,
+    "download_seconds": 0.239
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 68.895,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7671575782031894201",
+  "title": "很多人不明白，为什么高手在人际交往中很少轻易批评别人：因为批评其实是一种很昂贵的行为。#富人#穷人#交易#情绪管理#赚钱",
+  "video_url": "https://www.douyin.com/video/7671575782031894201",
+  "source_duration": 68.875,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7671575782031894201: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "review_scope": "逐条正文主题、开头、长度及文件一致性校验；6条疑点补充画面抽查；非全片逐字听校，非事实核查",
+  "reviewed_at": "2026-09-10T22:37:29.429825+08:00",
+  "review_note": "已阅读正文，主题、开头和长度基础复核通过；文件与来源链接一致。"
+}

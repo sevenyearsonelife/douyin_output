@@ -1,0 +1,27 @@
+{
+  "text": "最近很多朋友在后台私信，呃，在问科技股是不是到头了。我今天把话撂到这儿啊，科技股的大行情绝对绝对没有走完。但是兄弟们，无脑躺赢的阶段结束了，接下来半个月市场会非常残酷，为什么？因为半年报大考要来了，那些蹭概念的、讲故事的、纯炒情绪的杂毛股，中报就是他们的照妖镜。记住，潮水退去，谁在裸泳？一纸财报见分晓。操作建议上啊，呃，小姨建议真正能让你继续赚钱的，甚至穿越周期的，一定是那些订单饱满、产能落地、业绩能打的核心科技龙头。所以趁现在还来得及，把手里的杂毛清一清，别幻想了，还在那儿死扛等解套。接下来的行情是专业选手的提款机，是盲目跟风者的绞肉机。你选好站哪边了吗？评论区聊聊你的持仓。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 691667,
+  "timings": {
+    "chunks_wall_seconds": 4.536904624999806,
+    "encode_seconds_sum": 0.21186929199939186,
+    "request_seconds_sum": 3.889887875000568,
+    "decode_seconds": 0.42210133300068264,
+    "download_seconds": 0.575
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 64.761875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7662617151261640635",
+  "title": "行情没结束，接下来看这里#行情分析 #股民交流 #半年报 #理财技巧",
+  "video_url": "https://www.douyin.com/video/7662617151261640635",
+  "source_duration": 64.766,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7662617151261640635: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

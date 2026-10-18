@@ -1,0 +1,87 @@
+{
+  "video_url": "https://www.douyin.com/video/7664075616542608675",
+  "duration": 123.508,
+  "target_terms": [
+    "上旋基本上就是一拉就会"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 27,
+      "file": "00027.00.png"
+    },
+    {
+      "time": 29,
+      "file": "00029.00.png"
+    },
+    {
+      "time": 31,
+      "file": "00031.00.png"
+    },
+    {
+      "time": 33,
+      "file": "00033.00.png"
+    },
+    {
+      "time": 35,
+      "file": "00035.00.png"
+    },
+    {
+      "time": 37,
+      "file": "00037.00.png"
+    },
+    {
+      "time": 39,
+      "file": "00039.00.png"
+    },
+    {
+      "time": 41,
+      "file": "00041.00.png"
+    },
+    {
+      "time": 43,
+      "file": "00043.00.png"
+    },
+    {
+      "time": 45,
+      "file": "00045.00.png"
+    },
+    {
+      "time": 47,
+      "file": "00047.00.png"
+    },
+    {
+      "time": 49,
+      "file": "00049.00.png"
+    },
+    {
+      "time": 51,
+      "file": "00051.00.png"
+    },
+    {
+      "time": 53,
+      "file": "00053.00.png"
+    },
+    {
+      "time": 55,
+      "file": "00055.00.png"
+    },
+    {
+      "time": 57,
+      "file": "00057.00.png"
+    },
+    {
+      "time": 59,
+      "file": "00059.00.png"
+    },
+    {
+      "time": 121,
+      "file": "00121.00.png"
+    }
+  ]
+}

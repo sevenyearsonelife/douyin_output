@@ -1,0 +1,15 @@
+{
+  "video_url": "https://www.douyin.com/video/7660811140254960948",
+  "homepageIndex": 98,
+  "duration": 276.62,
+  "interval": 10,
+  "truncated": false,
+  "frames": [
+    {
+      "time": 30,
+      "file": "00030.00.png"
+    }
+  ],
+  "capture_mode": "targeted",
+  "coverage": "Selected timestamps only; not continuous coverage"
+}

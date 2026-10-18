@@ -1,0 +1,27 @@
+{
+  "text": "就像呃最近几个月最明显，大家互联网上都开始调侃 Cursor 了，是吧？对，我正想问这个问题。啊，就呃呃，我我昨天看到一个非常搞笑的短视频啊，他就是模拟自己是这个 AI 的老板嘛，再给 A 这个 AI 开了一个会，他说这个 Cursor 同学啊，这个最近业绩不太好。嗯。啊，这个去年你的表现是特别好的。是的。但是你今年的表现好像已经没有 Cloud Code 和 CodeX 表现优异了，你没有给我任何的惊喜感。对。啊，你交付的速度开始变慢了，对，怎么回事？所以我决定下个月开始不再聘用你，我要取消 Cursor 的这个订阅费用了。对。啊，那这个事情很容易发生啊。是。呃，那为什么人就还有人坚持在 Cursor 上用呢？就是比如说我们公司也有呃这个这个程序员的小伙伴，他就是习惯了那个页面，习惯了 VS Code 的那个页面。对。然后他也觉得 Cursor 的那个页面跟 VS Code 很像，那他就坚持在那用，他就觉得我你要我换成 CodeX，因为 CodeX 跟 Cloud Code 现在就是非常呃，除了你在 VS Code 里面装插件去用这两个产品啊，你如果用它自己的那个原生的 APP，它的体验就是你根本不需要看代码，对吧？它它想营造的感觉也是你不需要看代码，你只要口喷你的需求，我就帮你解决，你最终看的是结果，你验收的是交付物，你不需要验收中间改了这一行改了什么东西，改了多少，对吧？不需要去验证这么多。对。那对于有些这个特定工种的或者有习惯路径依赖的同学，那他就会觉得不适应啊，他就他就不想切换，他有他有非常强的切换，就这个事情是不容小觑的，但只能说我们说从长期来看，那确实挑战非常大，对，现在这些通用的大产品实在是威力太猛。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 894803,
+  "timings": {
+    "chunks_wall_seconds": 4.9770354160000005,
+    "encode_seconds_sum": 0.28340449999999995,
+    "request_seconds_sum": 4.68214375,
+    "decode_seconds": 0.25729112499999995,
+    "download_seconds": 0.336
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 83.80225,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7657150413136743699",
+  "title": "为什么有人死活不换Claude Code 有个段子：AI当老板开会，把Cursor\"开除\"了——业绩下滑、不再续订阅。 这事确实很容易发生。 但为什么还有人坚持用Cursor？ 习惯了VS Code的界面，切换成本，真的不容小觑。#科技投资 #AI应用 #人工智能 #大模型 \n",
+  "video_url": "https://www.douyin.com/video/7657150413136743699",
+  "source_duration": 83.776,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7657150413136743699: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

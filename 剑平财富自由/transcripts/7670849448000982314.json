@@ -1,0 +1,27 @@
+{
+  "text": "有粉丝问我，建平老师，到底该选最猛的 E T F，还是选那种自己拿着更舒服的？很多人第一反应都是，当然选涨得最快的，谁更猛，谁更有未来，谁更容易翻倍，就该选谁。听起来没毛病，可问题是，投资最后拼的从来不只是理论上谁能涨最多，而是你到底拿不拿得住，这两件事差别非常大。有些 E T F 看起来特别猛，曲线漂亮，弹性惊人，一段行情里特别容易让人热血沸腾。但如果你中途根本拿不住，那它对你来说就不是好资产。很多人总盯着收益率最高的东西，却忘了自己根本拿不到终点，这个特别真实。你去看很多人平时讨论 E T F，最爱聊的永远是近一年谁涨得最多，哪条赛道最猛，机器人 E T F 是不是又起飞了？通信 E T F 是不是还没走完？创业板五十，科创五十，是不是才是未来真正的大主线？这些讨论当然有意义，可问题是，很多人只看到了它涨得多，没问自己一个更现实的问题，如果我真的买了它，我能不能扛住中间那一大段波动？尤其是上个星期那段回撤，百分之七的跌幅你能不能接受，能不能扛得住？因为现实里最常见的情况就是，一个 E T F 后来看着涨了很多，可你中间早就被甩下车了，那它后面涨再多和你也没关系。所以投资里有一个特别扎心的事实，纸面收益不等于你的实际收益。所以有些 E T F 看起来很猛，却未必适合大多数普通人，因为他们对人的要求更高。高弹性资产真正考验你的不是眼光，而是承受过程的能力。它们涨得快，跌得也快，而且跌的时候往往跌得特别不讲情面。你如果仓位重一点，心态本来就一般，那它很可能不是帮你赚钱，而是帮你放大情绪。所以真正适合普通人的好资产，第一个标准不是最强，而是你不会轻易被它吓跑。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1617491,
+  "timings": {
+    "chunks_wall_seconds": 4.743311208,
+    "encode_seconds_sum": 0.559094166,
+    "request_seconds_sum": 4.1554495,
+    "decode_seconds": 0.49169225,
+    "download_seconds": 1.569
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 151.5580625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7670849448000982314",
+  "title": "不要太猛的ETF ",
+  "video_url": "https://www.douyin.com/video/7670849448000982314",
+  "source_duration": 151.534,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7670849448000982314: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "很多朋友是看我年初关于纳斯达克的视频就开始了纳指的定投之路，相信到现在都取得了不错的成绩。我定投纳指的时间比较早，现在已经开始分批止盈了。不仅是纳指，有很多指数目前也都是处于高估的状态。我对全球主要指数估值分析和建议也发在了会员群里。有很多粉丝认为抓牛基很重要，但从长远看收益，合理的资产配置比抓牛基要重要很多倍。我之前就讲过，配置基金一定要选择不相关或者负相关的标的，比如桥水基金的全天候策略，本质上就是跨市场、跨大类的资产配置组合。另外在做好资产配置的基础上，更高阶的做法是找低估的指数择时买入啊，定投或者持有，在高估时再分批止盈，止盈后再分批投入到低估的品种，循环往复，始终让整个资产组合处于低风险的状态。我还要对我的粉丝朋友们提个醒，目前全球市场都充满了波动和不确定性，如果你还用短线，用抓单个牛基的老一套，那未来肯定是要吃大亏的，只有合理的资产配置才是长期的制胜之道。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 708179,
+  "timings": {
+    "chunks_wall_seconds": 2.913960708,
+    "encode_seconds_sum": 0.205318,
+    "request_seconds_sum": 2.696659083,
+    "decode_seconds": 0.16925070799999997,
+    "download_seconds": 0.5
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 66.294375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7641626164109734771",
+  "title": "资产配置 合理资产配置才是长期的制胜之道。#资产配置 #知识分享 #基金 #定投 #复利",
+  "video_url": "https://www.douyin.com/video/7641626164109734771",
+  "source_duration": 66.27,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

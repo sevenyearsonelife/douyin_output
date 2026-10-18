@@ -1,0 +1,27 @@
+{
+  "text": "市场的宣泄那是别人的事儿，企业值不值得才是我要盯的根。交易该守的规矩我得自己兜住，心里的躁动我得自己按住。找到自己信得过的公司，耐住该耐的寂寞，守住该守的仓位，涨跌随它去，时间站在我这边。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 237779,
+  "timings": {
+    "chunks_wall_seconds": 1.2248430420004297,
+    "encode_seconds_sum": 0.08811858399894845,
+    "request_seconds_sum": 0.9746327499997278,
+    "decode_seconds": 0.10353912500067963,
+    "download_seconds": 3.229
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 22.1765,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7658275766346654897",
+  "title": "涨跌随它去#股民 #股市人生 #认知格局 #投资",
+  "video_url": "https://www.douyin.com/video/7658275766346654897",
+  "source_duration": 22.2,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7658275766346654897: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

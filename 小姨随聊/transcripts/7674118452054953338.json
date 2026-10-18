@@ -1,0 +1,27 @@
+{
+  "text": "真正想在这个市场里赚钱，你最该学的不是代码，不是股票名字，而是它背后的逻辑。你得搞清楚了啊，为什么这个板块有机会？它是当下的主线吗？为什么选这支票不选那支？它是不是站在均线密集区上面？有没有量价的配合？是主力在干活还是散户在瞎炒？你的止损位设在哪儿？跌到哪儿必须走？什么情况下继续拿着？什么情况下闭眼也得割？这些问题买之前就得想清楚，不然你赚了也是蒙的，亏了也是蒙的。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 432083,
+  "timings": {
+    "chunks_wall_seconds": 2.540804707999996,
+    "encode_seconds_sum": 0.18283150000024762,
+    "request_seconds_sum": 1.801130750000084,
+    "decode_seconds": 0.20360454200090317,
+    "download_seconds": 4.153
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 40.427375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7674118452054953338",
+  "title": "想通六件事才能盈利#财商提升 #理财 #认知思维 #投资",
+  "video_url": "https://www.douyin.com/video/7674118452054953338",
+  "source_duration": 40.467,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7674118452054953338: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

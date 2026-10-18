@@ -1,0 +1,29 @@
+{
+  "text": "我当时我看说实话我当时看到Worktra那个你们推动推广的YouTube的video的时候，我是非常不舒服的。啊真的？我是非常不舒服的，因为我在想一个事情就是其实我们可能啊每个人生活的背景不一样吧，我我觉得我绝对不喜欢我工作的时候有人看着我工作，然后我不能接受对我今天的工作会变成录屏然后拿去训练，然后就过两天我被蒸就这个感受是很不好的。所以我在想这到底是是就就是有就是因为我觉得很多时候我自己蒸馏我自己，比如说我自己蒸馏了我过去写的东西，我甚至蒸馏完了我会放到GitHub上，就别人其实也能用，是吧？是的。但是你蒸馏我我就有点不高兴，我不知道为什么，这是这很微妙这个心态。对，啊我觉得是这件事情首先做的是不是intrusive啊？嗯对。对，其实北美很多大公司他都是在啊这么做的，但是他是for compliance purpose，不是为了蒸馏purpose之前。您现在听到的对话将会被录音，为了保证服务的质量。啊对，比如说JP Morgan，对，OK，对吧？他所有的工作电脑every single keystroke是被记录着，啊要做这种反洗钱啊反什么的什么呃内幕交易的调查，啊所以所有的全部是被记录下来的，啊大概有个十到十五年的保质期才能删掉。哦，你这样讲好像确实是我当时我们投行的时候这个事情搞可严了。对。哦，但但我们当时不会录屏，嗯，我觉得录屏可能会让我觉得有些。它是所有的keystroke背后应用程序的这些啊交互都会被记录下来。对，对，没错没错，这是应该被记录，因为就是如果我比如说我在JP Morgan的电脑上，结果我现在Google打开搜索了个女明星，对吧？这个流程其实应该是会被记录的。对，但我之前不觉得。啊，只是没有被拿来训练这个数字员工罢了。对。对吧？啊，那到fast forward到今天，啊我觉得这只是one step啊forward，啊其实挺有意思的，嗯字节曾经开源过一个产品叫Mind Context，啊在GitHub上面，OK，它做的事情就是录屏，然后去分析你的网啊啊对，啊然后还有再找比如说像Rewind，当时就是。哦对，Rewind也是一个啊，Rewind是一个我完全无法理解。回忆，哈哈。我觉得嗯它可能它的出发点不一样，你看对，就是当当Zuckerberg在做这件事情的时候，他管它叫监控，嗯对吧？大家会想到是一些比如说是一个嗯就是police state这样的一些比较不好的不好的联想，但结果呃你说出Rewind的时候就是说啊人生每一天都不能白过，对吧？他说的就是这种，确实很不一样。我再举一个例子，就可能很多听众已经知道，我们今天录我们今天录这个播客是在七月份啊，那之前应该是六月还是五月份的时候，Open AI出了一个新的功能叫Record and Play，啊对，对，哎是叫Record and Play对吧？啊就Codex的，对Codex那个，然后那个功能啊最近非常多人在用，啊是的，非常非常多人在用，所以我其实是那天我们在就是在我在准备这播客的时候想说，就是为什么把自己交出去这个事情好像对吧？有些人来让你干你就愿意，啊对，而且很主动，啊而且小红书你去刷那个Record and Play这个功能，这个function的promotion的帖子超级多，很多人在推这个功能，这么多人愿意花钱了可能。对，那我是我是不相信Open AI在小红书投放的。对，啊然后但是另外一边就是在有些地方大家很不愿意。啊啊，对。对，我觉得是取决于branding，嗯，以及positioning。对对，啊可能呃Codex这个角度嗯是比较怎么说呢？呃比较善良的一个角度吧，嗯，它其实内部这个产品叫Chronicle，嗯啊叫编年史，对，是，他想把整个这个人类的呃桌面端的工作全部给它呃上传到历史里面去啊，我觉得是一个很宏大的一个故事。对，啊那现在他能哄着大家上传也没什么问题我觉得。对，啊，哎我不知道Record and Play这个事情是在什么那种隐私协议里面是允许的吗？啊是的，用户是传上去了他就能训练对吧？啊个人用户，如果你在individual plan的话，啊你的数据是会被打包拿去训练的，如果你在enterprise plan的话，你的数据是。\n可以选择不被啊拿去训练的，你要主动去选那个。没错没错，懂了懂了懂了。好的，企业肯定不敢这么退。哎呀，每个月交了这么多钱，然后给别人做个肥料，对，挺难受。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 2682406,
+  "timings": {
+    "chunks_wall_seconds": 13.178807958,
+    "encode_seconds_sum": 1.3680659570000002,
+    "request_seconds_sum": 12.920046832999999,
+    "decode_seconds": 1.055093458,
+    "download_seconds": 0.714
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 251.27725,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7661179702325021998",
+  "title": "JPMorgan会记录你15年的键盘记录 JPMorgan 每个 keystroke 存 10-15 年，for compliance。 Zuckerberg 做叫监控，Rewind 做叫\"人生每一天都不能白过\"。 OpenAI 的 Record and Play，个人版数据默认拿去训练。 你抗拒的和你追捧的，可能是同一件事。#AI应用 #AI #大模型 #科技投资 \n",
+  "video_url": "https://www.douyin.com/video/7661179702325021998",
+  "source_duration": 251.253,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7661179702325021998: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

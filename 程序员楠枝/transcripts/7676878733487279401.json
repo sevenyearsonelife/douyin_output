@@ -1,0 +1,29 @@
+{
+  "text": "MyBatis 如何实现动态数据源切换？先说一个基础问题，为什么需要动态数据源切换？最常见的场景有两个，第一个是读写分离，主库负责写入，从库负责查询，这需要程序在执行 SQL 时自动选择连接哪一个库。第二个是多租户架构，不同客户的数据存储在不同的数据库里，请求进来时要先识别请求属于哪个租户，再去连对应的库。如果不用动态数据源，传统做法就只能硬编码多个 SqlSessionTemplate 或者手动管理多个连接，代码会非常臃肿，而且每加一个数据库就要改一处逻辑。的动态数据源切换的本质，就是让 MyBatis 在执行 SQL 之前，根据当前请求的上下文，动态决定去哪个数据源获取连接。那么切换机制具体是怎么搭起来的？这里要先引入一个 Spring 自带的核心类，叫做 AbstractRoutingDataSource，直译过来就是抽象路由数据源。它本身是 javax. sql. DataSource 接口的一个实现，但它不直接干活，它内部维护着一个 Map 叫 targetDataSources，里面存着一组键值对，key 是这个数据源的名字，value 是真实的数据源对象。当你的应用需要获取数据库连接时，AbstractRoutingDataSource 会调用一个抽象方法 determineCurrentLookupKey，这个方法返回的字符串就是当前要用的那个 key。拿到 key 之后，它再从这个 Map 里把真正负责连库的数据源取出来，然后由那个真实数据源去创建连接。所以整个切换的核心，实际上就落在这一个方法上，determineCurrentLookupKey 返回什么，程序就连哪个库。而决定这个方法返回值的，是一个很经典的组件，叫 ThreadLocal。ThreadLocal 可以简单理解成一个只属于当前线程的私有储物柜，一个请求在进入后端服务时，会由一个线程从头处理到尾。你可以在这个线程的任何位置往 ThreadLocal 里放一个值，然后在后面的代码里随时取出来。动态数据源切换的逻辑，就是用一个专门的类来管理这个 ThreadLocal，这个类通常叫 DataSourceContextHolder。它提供两个静态方法，一个叫 setDataSource，往 ThreadLocal 里放入当前需要的数据源标识，比如 master 或者 slave，另一个叫 getDataSource，从 ThreadLocal 里取出这个标识。然后在上面提到的 determineCurrentLookupKey 方法里，直接调用 getDataSource，把 ThreadLocal 里存的那个 key 返回给 Spring。这样路由的链条就打通了。但仅仅有路由还不够，你还需要一种方式让系统自动在各个方法执行前去调用 setDataSource，在方法结束后再把 ThreadLocal 清掉。这一步通常由 AOP 切面完成。做法是这样，先定义一个自定义注解，比如叫 @DataSource，这个注解接受一个字符串参数，用于指定数据源的名字，例如 @DataSource slave。然后写一个切面类，拦截所有标记了该注解的方法。在这个切面里，前置通知负责读取方法上的注解，把指定的数据源标识写入 DataSourceContextHolder。后置通知则负责清理 ThreadLocal，调用 remove 方法，防止线程池复用导致的串数据。在 Spring Boot 的配置里，需要把前面说的那几个组件拼装起来。首先在配置文件里定义两个实际的数据源，比如一个主库数据源 dataSourceMaster，一个从库数据源 dataSourceSlave。然后创建一个路由数据源 routingDataSource，它继承 AbstractRoutingDataSource，在这里构造方法里传入的那张 Map 会包含两个键值对，master 对应主库数据源，slave 对应从库数据源。然后把 routingDataSource 作为默认数据源交给我 MyBatis 的 SqlSessionFactory。也就是说，MyBatis 创建的每个 SqlSession，在它需要获取连接时，走的都是路由数据源这个入口。从 MyBatis 的角度看，它只管调用 DataSource 接口的 getConnection 方法。\n完全不关心，也完全不知道这个数据源是真正连了 MySQL 还是 PostgreSQL，真正的路由决策全部被隔离在数据源这个层面去完成，SQL 执行逻辑不需要有一行改动。这个方案之所以能稳定运行，是因为 MyBatis 的执行流程本身有一个固定的顺序，当你调用一个 Mapper 接口方法时，它最终会经过 MapperProxy、SqlSession、Executor，最后通过 Statement Handler 去执行 SQL。整个链条里只有从数据源获取连接这步受阻，而这一步恰恰被 AbstractRoutingDataSource 拦截住了。换句话说，动态数据源切换不是在 SQL 层面做手脚，它是在最底层的连接获取环节做的文章。不过这里面有几个实际项目里非常容易踩的坑，你需要有所准备。第一，事务问题。如果你的某个业务方法同时加了 @DataSource 注解和 @Transactional 事务注解，要注意切换时机。Spring 的 @Transactional 会在一开始就通过事务管理器拿到连接，并且在整个事务期间都复用这个连接。所以如果你在事务方法内部再去调 setDataSource 切换数据源，往往是无效的。正确做法是，切面优先级要高于事务切面，确保数据源的选择发生在事务开启之前，并且大事务内部不要做跨库切换。第二，线程池问题。生产环境里服务通常使用线程池处理请求，而线程池中的线程是复用的。这意味着一旦某个线程执行完后忘记清理 ThreadLocal，下一次使用这个线程的请求就会带着上一个请求的数据源状态去执行，这在多租户场景下就是严重的数据串库事故。所以切面的最终通知里必须调用 DataSourceContextHolder 点 clear 方法彻底清理上下文。第三，主从延迟问题。如果读库是异步同步的，你刚写完一条数据立刻去查可能查不到。这种场景需要在写操作后强制路由到主库，或者根据业务判断是否可以接受短暂的不一致。讲到这里，MyBatis 动态数据源切换的完整链路就很清楚了。你需要一个继承 AbstractRoutingDataSource 的自定义数据源，用它来汇聚多个真实的数据源。你需要一个 ThreadLocal，用它来记录当前线程应该使用哪个数据源。你需要一个自定义注解和一个 AOP 切面，用它来在方法执行前自动写入数据源标识，在方法执行后自动清理。最后你把路由数据源交给 MyBatis，让它在这个数据源上完成自身的工作。这个方案是当前应用最广泛的实现思路，也是读写分离和多租户分库场景的底层支撑。理解它的关键在于，你要意识到真正承载切换逻辑的不是 MyBatis 本身，而是它和数据源接口之间那一层巧妙的抽象。想通了这一层，所有变化你都看得懂了。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 4347046,
+  "timings": {
+    "chunks_wall_seconds": 12.23570666598971,
+    "encode_seconds_sum": 0.9686123760184273,
+    "request_seconds_sum": 18.483330124989152,
+    "decode_seconds": 0.8155202089983504,
+    "download_seconds": 1.518
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 407.3490625,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7676878733487279401",
+  "title": "MyBatis动态数据源切换原理与实现，读写分离多租户必看 本视频深入讲解MyBatis如何实现动态数据源切换，从读写分离和多租户场景出发，剖析协作机制。你将了解路由的核心方法determineCurrentLookupKey，以及如何在Spring Boot中配置主从数据源。还会提示事务、线程池、主从延迟等实战坑点，帮助你构建稳定可靠的动态数据源方案。适合Java开发、架构设计者学习。#MyBatis#saas  #后端开发 #java #程序员面试",
+  "video_url": "https://www.douyin.com/video/7676878733487279401",
+  "source_duration": 407.349,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7676878733487279401: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

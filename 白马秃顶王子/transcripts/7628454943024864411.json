@@ -1,0 +1,27 @@
+{
+  "text": "哎，你有没有发现一件很反直觉的事情，就是同样买指数，有人越买越赚，有人却越买越亏呢？而且更扎心的是，很多亏钱和赚钱的人买的还是同一个指数。很多人以为是指数选错了，但我可以直接的告诉你，赚钱和亏钱的差距跟指数没关系，而是差在这三件事上面。那第一点呢，就是你的买入方式不一样。有人是慢慢定投，尤其在熊市的时候，他可以一点一点把成本摊下来。而有人呢，是看了涨才冲进去，那一冲动就满仓，那不亏你亏谁啊？所以你要记住一句话，追涨买指数大概率是买在高点，也容易被套。那第二点就是持有方式不一样，有的人买之前就想好了，这个东西我是要拿很多年的，所以跌了我也不动。但更多人是一跌就慌，一涨又拿不住，来回折腾。最后的结果就是涨的部分没吃到，跌的部分呢全踩中了。第三点呢，就是心态完全不一样，投资本身就是有波动的，但有的人能接受，有的人一跌就开始怀疑人生。所以你再记住一句话，不是指数让你亏钱，而是情绪在帮你亏钱。所以你现在应该明白了，真正决定你赚不赚钱的从来不是你买了什么指数，而是你怎么对待它。最后我问你一个更真实的问题，你是亏在不会选上面，还是亏在拿不住上面呢？",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 827219,
+  "timings": {
+    "chunks_wall_seconds": 3.6419604169999995,
+    "encode_seconds_sum": 0.22224595800000002,
+    "request_seconds_sum": 3.4100184580000006,
+    "decode_seconds": 0.16962120900000005,
+    "download_seconds": 1.616
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 77.4399375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7628454943024864411",
+  "title": "为什么同样买指数，有人赚钱，有人却一直亏#财经 #科普 #指数基金",
+  "video_url": "https://www.douyin.com/video/7628454943024864411",
+  "source_duration": 77.467,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7628454943024864411: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

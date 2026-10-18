@@ -1,0 +1,25 @@
+{
+  "text": "你看最牛逼的短线之王梁文锋跑没跑？没跑啊，人家七月份也跌了二三十，梁文锋不也回撤吗？你看长线淡斌、葛卫东也没跑，人家也回撤，梁文锋都没避开，凭什么你避开？很多人还在纠结高位没逃的问题，一直苦苦追寻想要找到高位逃顶的技巧。这个技巧不存在，存在也只能是运气。你看最牛逼的短线之王梁文锋跑没跑？没跑啊，人家七月份也跌了二三十，你们推崇的各种什么战法技巧，你搞得过梁文锋吗？梁文锋不也回撤吗？你看长线淡斌、葛卫东也没跑，人家也回撤，只要你从一开始看好 A I 的，这一波就是逃不了。只有那种刚开始就不看好 A I 的，或者是看好 A I 但它没机会上车的，他天天盼着跌，刚好碰上了这一波真的跌了。你把我丢回六月一百四，我还是不会跑的。那么你就看长、做长，要么你就只吃波段，吃一口就逃，吃一口就逃，就这两条路，你别想说又吃到长线的涨，又避开短线的跌，避不开的，梁文锋都没避开，凭什么你避开？逃顶是个幻想。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 713939,
+  "timings": {
+    "chunks_wall_seconds": 6.141377167,
+    "encode_seconds_sum": 2.1528388749999996,
+    "request_seconds_sum": 3.805171541000001,
+    "decode_seconds": 2.6183292500000004,
+    "download_seconds": 0.312
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 66.8516875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7675945668023684371",
+  "title": "逃顶战法？#投资 #财经 #商业思维 ",
+  "video_url": "https://www.douyin.com/video/7675945668023684371",
+  "source_duration": 66.828,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "extraction_method": "speech_recognition"
+}

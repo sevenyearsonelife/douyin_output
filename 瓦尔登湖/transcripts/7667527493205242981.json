@@ -1,0 +1,27 @@
+{
+  "text": "今天看到了一段话，感触很深，跟大家分享一下。他说，人变强都是从不解释、不回应开始的。不回应的力量非常强大，只要你不回应，所有的恶意都会像回旋镖一样掉头扎向对方，而你安然无恙。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 265811,
+  "timings": {
+    "chunks_wall_seconds": 1.2168095829999999,
+    "encode_seconds_sum": 0.11000158299999996,
+    "request_seconds_sum": 1.1020850420000001,
+    "decode_seconds": 0.09099929200000001,
+    "download_seconds": 3.868
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 24.822125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7667527493205242981",
+  "title": "不回应的力量非常强大#读书认知觉醒 #女性成长情感共鸣 #女性读书成长",
+  "video_url": "https://www.douyin.com/video/7667527493205242981",
+  "source_duration": 24.834,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7667527493205242981: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

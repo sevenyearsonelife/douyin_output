@@ -1,0 +1,27 @@
+{
+  "text": "很多人买基金亏钱呢，真不是选错了产品，是买卖的节奏完全搞反了。今天咱们就聊透一件事，基金到底怎么买卖收益才能最大化。先说买啊，千万别想着抄到最低点，没人能做到。你可以用定投，每个月固定时间买一笔，不用操心择时，也可以看估值，P E百分位在百分之三十以下就算便宜，这个时候加大买入的力度。再说卖啊，这比买还要关键。定投圈里有句话，会买的是徒弟，会卖的才是师傅。这里有三个方法，第一种目标收益法，就是设定一个收益率，比如百分之十五或者百分之二十，到了就果断卖一批，把利润先揣兜里。第二种呢就是估值止盈法，当指数估值百分位超过了百分之七十到八十，说明偏贵了，可以考虑分批卖。第三种呢就是分批卖，不追求一次卖在最高点，比如每涨百分之十就卖三分之一，锁住利润又不担心全卖飞。最后啊说一句大实话，没人能永远买在最低卖在最高，别贪别怕，把买卖规则定好，按纪律执行，长期下来大概率比瞎操作赚得多。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 900947,
+  "timings": {
+    "chunks_wall_seconds": 5.575208791999103,
+    "encode_seconds_sum": 0.4426369169996178,
+    "request_seconds_sum": 5.053479584001252,
+    "decode_seconds": 0.47126870899955975,
+    "download_seconds": 0.498
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 84.3595,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7682017232088108982",
+  "title": "买卖基金如何做到收益最大化#理财知识 #投资干货 #基金 #理财技巧 #新手理财指南",
+  "video_url": "https://www.douyin.com/video/7682017232088108982",
+  "source_duration": 84.4,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7682017232088108982: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

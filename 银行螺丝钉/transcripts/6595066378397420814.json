@@ -1,0 +1,20 @@
+{
+  "text": "在我看来呢，我们手里的钱就好比我们手下的兵，我们就是这些兵的将军。我们大多数人呢，每天辛辛苦苦的去工作，去努力赚钱，反而让自己手里的钱闲着。就好像每次打仗的时候呢，将军冲在前面，士兵呢反而在睡大觉。我们要改变这个习惯，让钱去工作，让钱去生钱。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 290003,
+  "timings": {
+    "chunks_wall_seconds": 2.985764916986227,
+    "encode_seconds_sum": 0.1309129170840606,
+    "request_seconds_sum": 2.8526828750036657,
+    "decode_seconds": 0.11936158302705735
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 27.0745,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "6595066378397420814",
+  "video_url": "https://www.douyin.com/video/6595066378397420814",
+  "source_duration": 27.134
+}

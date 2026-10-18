@@ -1,0 +1,27 @@
+{
+  "text": "你们看过沈腾调侃黄磊“样样通，样样松”的那段视频吗？很多人把它当成玩笑，甚至是当成缺点。但说实话，这恰恰是我追求的人生目标。我们总被告诉做一件事要深耕，要做到顶尖，做到极致才算是成功。但我不喜欢太用力的人生，我觉得人生只要一用力，就会显得很心酸。我更想要人生的宽度，而不是一味的深度。我不想一辈子死磕一件事，熬到身心俱疲。我也没那么大的耐心和热情，我想学很多东西，体验很多乐趣，见识很多风景。一件事做到顶尖是成功，但是每件事都会一点，都能体验其中的乐趣，难道不是成功吗？所以我的人生信条就是不求样样精通，但求万般体验。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 561107,
+  "timings": {
+    "chunks_wall_seconds": 2.12324275,
+    "encode_seconds_sum": 0.233499625,
+    "request_seconds_sum": 1.8802361250000001,
+    "decode_seconds": 0.22753158300000004,
+    "download_seconds": 7.768
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 52.5003125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7675732413280810405",
+  "title": "样样通 样样松，是我的人生追求。 #每个城市都有自己的独特视角 #girlstalk女性成长 #人生感悟 #生活感悟",
+  "video_url": "https://www.douyin.com/video/7675732413280810405",
+  "source_duration": 52.499,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7675732413280810405: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

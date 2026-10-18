@@ -1,0 +1,27 @@
+{
+  "text": "接下来这段话送给我的闺蜜。十六岁初见，三十六岁相伴。你生动如夏花，我沉静若秋水。你呼朋引伴，我由爱静默。你本不缺同行之人，却坚定选择了我。历经二十载，才慢慢懂得，所谓知己，不是偶遇，而是你向我俯身，许我沉默，愿我寡淡。不必我刻意迎合，不必我勉强热闹。你的真挚、温暖、幽默、善良，我一一细数，万般珍藏。谢谢你，成为我岁月更迭中一处独有的心灵栖息地。致阿锦，承蒙厚爱，至今不厌。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 601427,
+  "timings": {
+    "chunks_wall_seconds": 2.447019083,
+    "encode_seconds_sum": 0.17797295800000001,
+    "request_seconds_sum": 2.25873225,
+    "decode_seconds": 0.187081,
+    "download_seconds": 8.564
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 56.2851875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7672727851069749989",
+  "title": "写给闺蜜。#用你的文字记录生活 #记录生活 #每日分享 \n这世界上有各种各样的人，恰巧我们成为了朋友，这不是缘分，是因为我们本就应该是朋友。",
+  "video_url": "https://www.douyin.com/video/7672727851069749989",
+  "source_duration": 56.334,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7672727851069749989: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

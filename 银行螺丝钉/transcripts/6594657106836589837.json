@@ -1,0 +1,20 @@
+{
+  "text": "说一个比较毁三观的事情啊，很多人呢觉得A股不赚钱，但实际上呢咱们A股从一九九一年成立以来，整体呢上涨了也接近三十倍的。那为什么很多人投资股票不赚钱呢？其实原因很简单，大部分的投资者呢他在平时是不会对股票感兴趣的，往往是到了牛市，股市已经大涨之后才去开户买股票。根据证监会之前的调查呢，有百分之七十的投资者是在牛市的时候才开户开始投资的。那这些投资者呢买的比较贵，再想赚钱呢就非常困难了。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 453203,
+  "timings": {
+    "chunks_wall_seconds": 2.273970582988113,
+    "encode_seconds_sum": 0.15202679194044322,
+    "request_seconds_sum": 2.118616541964002,
+    "decode_seconds": 0.11517562496010214
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 42.399625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "6594657106836589837",
+  "video_url": "https://www.douyin.com/video/6594657106836589837",
+  "source_duration": 42.467
+}

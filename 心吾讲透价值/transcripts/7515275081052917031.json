@@ -1,0 +1,28 @@
+{
+  "text": "低利率、零利率时代，中产如何避免再度返贫呢？这将是一个非常严峻的问题。如果你能做到以下十条，我相信在未来十年你会变得更加强大。第一是钱变得更值钱，持有现金会跑赢大部分炒股炒房的人，只有非常优质的资产才能大幅跑赢现金。不要以过去通胀的思路来应对未来，你会看到很多东西再也不涨价了。三，控制汽车的消费，汽车在这个阶段是极为糟糕的资产，贬值速度会超过房子，持有成本还非常高，未来的车会越来越便宜。四，不要买奢侈品，奢侈品就是为虚荣心买单，为品牌溢价买单，要相信好东西会越来越便宜，奢侈品在中国未来将会是不断衰落的三十年。第五，不要在学历教育上消耗过多的现金流，大家要知道学历会越来越贬值，如果在学历上投入过高的现金流，将会成为普通家庭后悔一辈子的事。未来我们将经历一个啊学历教育投入回报最差的三十年。第六，千万不要随意转型，不要改行，如果你在你擅长的地方都无法赚钱，你去你不善的地方，狼群会把你啃得骨头都不剩。第七，不要轻易创业，不要轻易辞职，不要轻易离婚。第八呢，高收益的东西要非常小心，未来没有馅饼啊，天上只会掉陷阱。第九，终身学习，打破行业或学科边界的这种学习，会让你拥有超强的竞争力。第十，锻炼身体，一个强壮的体魄会让你从容面对任何挑战。希望以上十条对你有所帮助。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1066835,
+  "timings": {
+    "chunks_wall_seconds": 3.3697719999999998,
+    "encode_seconds_sum": 0.29687149999999995,
+    "request_seconds_sum": 3.059275541,
+    "decode_seconds": 0.32629137500000005,
+    "download_seconds": 1.022
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 99.916875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7515275081052917031",
+  "title": "未来十年的十条忠告，听懂即受益 #经济周期下的决策",
+  "video_url": "https://www.douyin.com/video/7515275081052917031",
+  "source_duration": 99.916,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7515275081052917031: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "review_note": "已核对标题、开头、主题、字数时长比与结尾；非逐字人工听校"
+}

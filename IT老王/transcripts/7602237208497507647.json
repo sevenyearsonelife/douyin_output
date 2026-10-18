@@ -1,0 +1,29 @@
+{
+  "text": "Java 老登们，现在假设呢你写了一个 Service 类，为了防止被继承，你顺手给它加了一个 final 关键字。然后呢，你在这个类的方法上面加了一个 @Transactional 注解想开一个事务，请问这个事务能生效吗？能还是不能？来，两秒快答，不要犹豫，一，二，好，公布正确答案，不能，你答对了吗？你问为什么？那今天这条视频一定要看完，因为这个问题重要的其实不是答案，而是答案背后的重要思想，这就是 Spring 中人尽皆知的底层神器动态代理。你要搞懂的不光是什么是动态代理这一类的面试八股，更要搞清楚 Spring 框架是怎么进行动态代理的。当然记得点赞关注收藏，不然就找不到了。我是楼兰，关注我，IT 路上一起进步。先说 AOP 是什么？我们刚开始写代码通常都是这样的，有一个用户登录的接口，本来逻辑就只有一行要校验密码，结果老板说要加日志，啊，所以你加了两行。运维说要监控性能，你又加了两行。DBA 说要管事务，你又加了一套 try catch。然后你发现核心业务被一堆乱七八糟的代码包围了，这就叫代码耦合。而为了减少这种乱七八糟的代码，Spring 提出了 AOP 面向切面编程，它的核心设计思想就是把这些日志啊、事务啊、权限啊从核心业务中切出来单独维护。但是切出去容易，程序跑起来的时候怎么把它们织回来呢？这就得靠代理模式了。咱们先来看最原始的静态代理啊，假设我们有一个接口 UserService 和一个实现类 UserServiceImpl，我们要给它加日志，但不能改 Impl 里的代码。最笨的方法就是我们自己写一个代理类叫 UserProxy，用这个 UserProxy 代理类把 UserService 的核心方法外面包一层增强逻辑，像这样。看懂了吗？逻辑很简单，UserProxy 也实现了 UserService 接口，伪装成和你写的 UserService Impl 一样，别人调我的时候呢，我先干点死活再调你。这样呢，你的 UserService Impl 你再也不用关注日志这样的增强逻辑了，这招就叫静态代理。但这样也有一个大坑，如果你有一百个 Service，你就得手写一百个 Proxy 类。为了不累死咱们程序员，Spring 搞出了动态代理，让程序在运行的时候自动在内存里变出这个 UserProxy 类来。怎么做的呢？咱们深入 Spring 内部来了解一下。Spring 里有两种动态代理的实现方法，一种是 JDK 自带的动态代理，另一种是基于 CGLIB 的动态代理。先看第一种，也就是 JDK 的动态代理，这呢是 Java 亲生的，它的核心是一个叫做 InvocationHandler 的接口，像这样。这里 method 的 invoke 就是要代理的方法，重点是这一行 getInterfaces，可以看到 JDK 的动态代理是模拟目标类的接口来实现的代理，这也就是 JDK 动态代理最大的限制，被代理的类必须实现接口。为什么呢？因为 JDK 生成的代理类在字节码里已经继承了 Proxy 父类，Java 是单继承的，它没法再继承你的业务类，只能通过实现接口来跟你攀亲戚。所以记住口诀，JDK 代理是找兄弟，咱们平级都听接口的。那有朋友就会问呢，我写的 Service 就是个光杆司令啊，我也没写接口啊，Spring 的 AOP 难道就不管了吗？那当然要管，这时候 Spring 就会派出第二位大神 CGLIB，像这样，核心是这一行啊，setSuperClass。CGLIB 不一样，它是直接操作字节码，在内存里生成一个你的子类，与 JDK 的动态代理不同，它是通过继承来实现代理的。记住口诀，JDK 是找兄弟，CGLIB 是认干爹。现在我们回到开场的问题。\n为什么 final 类做不了 AOP？这时答案就出来了，因为 CGLIB 是靠继承工作的，final 类不能被继承，CGLIB 认不了干爹，代理类生成失败，你的事务注解自然就失效了。刚才选不能的同学，恭喜你答对了。最后我们总结一下 Spring 到底怎么选的。目标类如果有接口，那默认就用 JDK 代理，目标类如果没接口就强制用 CGLIB。不过这里有个冷知识啊，在 Spring Boot 二点叉之后呢，官方默认倾向于使用 CGLIB。在 Spring 的，在 Spring Boot 的配置文件中可以使用 spring.aop.proxy-target-class 属性来控制，默认呢我被设置成了 true，表示使用 CGLIB。至于为什么官方变心了，这次我就卖个关子，知道原因的朋友可以在评论区来科普一下。技术讲完了，我们再来回头看看这个 AOP，其实 AOP 的本质叫做关注点分离，这不光是代码的整洁之道，更是高手的职场哲学。那些机械的重复劳动，无意义的情绪内耗，职场的琐碎扯皮，这些都是廉价的切面逻辑。千万别让它们污染了你的主线程，该用 AI 就用 AI，该给别人就给别人，给自己搞个动态代理，把这些杂质过滤掉。但更关键的是第二层独占，你对技术的把控能力，你解决复杂问题的直觉，你对未来的洞察，这些是你的核心业务逻辑。这一块代码你必须牢牢的把控在自己的手里，绝不能被任何工具或他人来代理。并且这些核心逻辑必须要不留余力的精益求精。真正的游刃有余不是什么都不做，而是对切面逻辑极度的懒惰，而对核心逻辑极度的贪婪。最后记得点赞关注收藏，如果你有任何相关的问题，记得留在评论区，我是楼兰，关注我，IT 路上一起进步。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 3835942,
+  "timings": {
+    "chunks_wall_seconds": 11.573129875,
+    "encode_seconds_sum": 1.3500755829999997,
+    "request_seconds_sum": 14.516020374,
+    "decode_seconds": 0.7795905,
+    "download_seconds": 2.345
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 359.423125,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7602237208497507647",
+  "title": "Spring AOP 一用就出错？问题全出在动态代理！ #程序员 #面试 #架构 #Spring",
+  "video_url": "https://www.douyin.com/video/7602237208497507647",
+  "source_duration": 359.422,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7602237208497507647: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

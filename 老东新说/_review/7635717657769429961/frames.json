@@ -1,0 +1,40 @@
+{
+  "video_url": "https://www.douyin.com/video/7635717657769429961",
+  "duration": 225.372993,
+  "interval": 5,
+  "truncated": true,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 5,
+      "file": "00005.00.png"
+    },
+    {
+      "time": 10,
+      "file": "00010.00.png"
+    },
+    {
+      "time": 15,
+      "file": "00015.00.png"
+    },
+    {
+      "time": 20,
+      "file": "00020.00.png"
+    },
+    {
+      "time": 25,
+      "file": "00025.00.png"
+    },
+    {
+      "time": 30,
+      "file": "00030.00.png"
+    },
+    {
+      "time": 35,
+      "file": "00035.00.png"
+    }
+  ]
+}

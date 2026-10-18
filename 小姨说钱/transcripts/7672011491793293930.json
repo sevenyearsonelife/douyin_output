@@ -1,0 +1,27 @@
+{
+  "text": "这个周末最大的消息就两个字，涨价。不过这次可不是菜市场，而是金子。先说存储芯片吧，固态硬盘、内存条全在往上走，原因很简单啊，库存清的差不多了，加上AI太火，大厂呢都在抢着囤货。接下来不管是装电脑还是买手机，可能都得比现在多掏一点了。啊，再说黄金，国际金价又创新高，白银也跟着涨。说白了就是大家心里没底儿了，钱都往硬通货上跑。你要是手里有黄金的，这波算是坐住车了。想上车的啊，建议别追高，等回调再看。啊，最后也说一句实在的啊，芯片涨价影响刚需，黄金涨价看的是情绪，刚需该买就买，投资嘛，悠着点儿。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 582995,
+  "timings": {
+    "chunks_wall_seconds": 4.608359083067626,
+    "encode_seconds_sum": 0.17421062500216067,
+    "request_seconds_sum": 3.8672525830334052,
+    "decode_seconds": 0.24447775003500283,
+    "download_seconds": 3.745
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 54.5450625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7672011491793293930",
+  "title": "周末最大的消息就是涨价#金价 #涨价 #股市行情 #股民交流 #理财知识",
+  "video_url": "https://www.douyin.com/video/7672011491793293930",
+  "source_duration": 54.6,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7672011491793293930: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

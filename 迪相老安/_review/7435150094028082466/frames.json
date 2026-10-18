@@ -1,0 +1,156 @@
+{
+  "video_url": "https://www.douyin.com/video/7435150094028082466",
+  "duration": 72.981,
+  "interval": 2,
+  "truncated": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 2,
+      "file": "00002.00.png"
+    },
+    {
+      "time": 4,
+      "file": "00004.00.png"
+    },
+    {
+      "time": 6,
+      "file": "00006.00.png"
+    },
+    {
+      "time": 8,
+      "file": "00008.00.png"
+    },
+    {
+      "time": 10,
+      "file": "00010.00.png"
+    },
+    {
+      "time": 12,
+      "file": "00012.00.png"
+    },
+    {
+      "time": 14,
+      "file": "00014.00.png"
+    },
+    {
+      "time": 16,
+      "file": "00016.00.png"
+    },
+    {
+      "time": 18,
+      "file": "00018.00.png"
+    },
+    {
+      "time": 20,
+      "file": "00020.00.png"
+    },
+    {
+      "time": 22,
+      "file": "00022.00.png"
+    },
+    {
+      "time": 24,
+      "file": "00024.00.png"
+    },
+    {
+      "time": 26,
+      "file": "00026.00.png"
+    },
+    {
+      "time": 28,
+      "file": "00028.00.png"
+    },
+    {
+      "time": 30,
+      "file": "00030.00.png"
+    },
+    {
+      "time": 32,
+      "file": "00032.00.png"
+    },
+    {
+      "time": 34,
+      "file": "00034.00.png"
+    },
+    {
+      "time": 36,
+      "file": "00036.00.png"
+    },
+    {
+      "time": 38,
+      "file": "00038.00.png"
+    },
+    {
+      "time": 40,
+      "file": "00040.00.png"
+    },
+    {
+      "time": 42,
+      "file": "00042.00.png"
+    },
+    {
+      "time": 44,
+      "file": "00044.00.png"
+    },
+    {
+      "time": 46,
+      "file": "00046.00.png"
+    },
+    {
+      "time": 48,
+      "file": "00048.00.png"
+    },
+    {
+      "time": 50,
+      "file": "00050.00.png"
+    },
+    {
+      "time": 52,
+      "file": "00052.00.png"
+    },
+    {
+      "time": 54,
+      "file": "00054.00.png"
+    },
+    {
+      "time": 56,
+      "file": "00056.00.png"
+    },
+    {
+      "time": 58,
+      "file": "00058.00.png"
+    },
+    {
+      "time": 60,
+      "file": "00060.00.png"
+    },
+    {
+      "time": 62,
+      "file": "00062.00.png"
+    },
+    {
+      "time": 64,
+      "file": "00064.00.png"
+    },
+    {
+      "time": 66,
+      "file": "00066.00.png"
+    },
+    {
+      "time": 68,
+      "file": "00068.00.png"
+    },
+    {
+      "time": 70,
+      "file": "00070.00.png"
+    },
+    {
+      "time": 72,
+      "file": "00072.00.png"
+    }
+  ]
+}

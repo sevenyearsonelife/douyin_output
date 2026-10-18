@@ -1,0 +1,27 @@
+{
+  "text": "凡是在背后议论你、嫉妒你、造谣你的人，通常有三个原因：第一，你触及了他的根本利益；第二，你颠覆了他的固有认知；第三，你拥有了他求而不得的东西。所以诋毁本身就是一种仰望，因为比你优秀的人都在忙着低头赶路，只有追不上你的，才会停下来朝你扔泥巴。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 300371,
+  "timings": {
+    "chunks_wall_seconds": 1.282295667,
+    "encode_seconds_sum": 0.115647416,
+    "request_seconds_sum": 1.161723875,
+    "decode_seconds": 0.12772641699999998,
+    "download_seconds": 4.321
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 28.0496875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7672356961296386489",
+  "title": "比你牛的人，没空搭理你 #感悟人生经典句子 #女性成长感悟 #感悟人生 #女性成长情感共鸣",
+  "video_url": "https://www.douyin.com/video/7672356961296386489",
+  "source_duration": 28.067,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7672356961296386489: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

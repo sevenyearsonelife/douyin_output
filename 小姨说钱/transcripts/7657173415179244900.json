@@ -1,0 +1,27 @@
+{
+  "text": "今天聊一个重要的话题啊，就是被动收入。先搞清楚什么叫被动收入，它不是股票涨了但你还没卖的那个数字，那个叫纸面上的富贵。被动收入是不用卖东西，不用辞职，每个月固定能打到你卡里的现金流，就像收房租一样啊。而工资呢，那是主动收入，用时间换的，一停工就没了。那为什么一定要建立被动收入呢？因为三十五岁以后，主动收入的能力呢是在下降的，职场有悬崖，薪资涨不动了，跳槽溢价变低，但支出反而在增加，像房贷、孩子教育、父母医疗一样都少不了。所以趁还有主动收入的时候，一定要把一部分钱转化成被动收入的资产。能产生被动收入的资产有哪些？四个方向啊。第一个，红利类的 E T F，比如像中证红利，股息率大概百分之五左右，每个月定投，等规模攒够了，每年的现金分红就是被动收入，本金还在。第二个呢，就是纯债或者中短债基金，年化在百分之二点五到三点五，比存款高，回撤小，流动性好，急用钱时呢能随时拿出来。第三个，储蓄国债，三年期年化百分之二左右，绝对安全，适合三五年内要用的钱。最后呢，给大家总结一下啊，被动收入的门槛不是本金多少，而是你开始没开始。钱存到银行，本金是在通胀里缩水的，让它进入能产生现金流的资产，时间才是复利的朋友。最好的开始时间是十年前，其次就是当下。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1255379,
+  "timings": {
+    "chunks_wall_seconds": 4.372790208000879,
+    "encode_seconds_sum": 0.892483749999883,
+    "request_seconds_sum": 3.239025667000533,
+    "decode_seconds": 0.6618967909998901,
+    "download_seconds": 1.183
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 117.6105,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7657173415179244900",
+  "title": "被动收入#学习理财知识 #被动收入 #投资思维",
+  "video_url": "https://www.douyin.com/video/7657173415179244900",
+  "source_duration": 117.634,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7657173415179244900: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

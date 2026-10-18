@@ -1,0 +1,28 @@
+{
+  "text": "今天红利板块集体补跌，不少朋友有点懵啊哈。我来说说自己的看法，纯复盘不构成任何投资建议啊，大家伙理性看待。导火索呢还是周末的那则公开的消息，三千亿的特别国债再加六百亿的啥来，记不清了，合计是三千六百亿给几家头部的大行啊补充资本金。一部分市场的参与者啊把这件事理解成对银行板块的承压，所以周一开盘之后啊银行板块直接下挫。前期呢咱和大家分享过，这个银行是红利板块的第一大权重，它一走弱啊，整个红利啊就被带下来了。往深里说，前期红利啊确实涨幅也不小了，尤其呢是七八月份的那一波。之前呢市场没有明确的方向，所以资金扎堆高分红的板块避险，红利的这个估值呢慢慢的慢慢的抬到了近几年的高位。获利盘多了之后呢，盘面稍有风吹草动啊，就会出现集中的落袋为安预期，这其实也是上涨之后啊市场正常的均值回归。总之呢这个大拉锯行情的中后期啊，就跟春节前咱们贴对联时候的那个打浆糊一般，一会儿高切低，一会儿低切高，没有啥规律可言。这不今天资金又从红利类的低波动防御品种里面抽出来，转头去抄底前几天超跌的这个科技成长了，所以盘面上芯片啦、CPU啦反弹力度很强。而与此同时呢，老股民心中的六个核桃，六个核桃集中拖后腿，这既是行情大拉锯的特点，也是市场打浆糊的风格使然。不过个人感觉类似今天的这种红利补跌啊，属于短期的资金再平衡，红利吃分红的长期逻辑并没有彻底坏掉。但是呢大家伙要心里有数啊，红利低波终归是股票，它不是你保本的理财，估值抬升风格一变，该有的回撤照样也躲不开。好，以上仅为个人复盘，不作为投资依据，股市有风险，入市需谨慎，感谢啊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1456979,
+  "timings": {
+    "chunks_wall_seconds": 5.25850725,
+    "encode_seconds_sum": 0.329179792,
+    "request_seconds_sum": 4.912247125,
+    "decode_seconds": 0.22276120800000004,
+    "download_seconds": 1.569
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 136.5115,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7682792805332307263",
+  "title": "红利板块，为何补跌？ ",
+  "video_url": "https://www.douyin.com/video/7682792805332307263",
+  "source_duration": 136.488,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7682792805332307263: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

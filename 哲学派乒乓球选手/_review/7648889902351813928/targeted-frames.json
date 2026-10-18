@@ -1,0 +1,87 @@
+{
+  "video_url": "https://www.douyin.com/video/7648889902351813928",
+  "duration": 119.189,
+  "target_terms": [
+    "大脚"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 70,
+      "file": "00070.00.png"
+    },
+    {
+      "time": 72,
+      "file": "00072.00.png"
+    },
+    {
+      "time": 74,
+      "file": "00074.00.png"
+    },
+    {
+      "time": 76,
+      "file": "00076.00.png"
+    },
+    {
+      "time": 78,
+      "file": "00078.00.png"
+    },
+    {
+      "time": 80,
+      "file": "00080.00.png"
+    },
+    {
+      "time": 82,
+      "file": "00082.00.png"
+    },
+    {
+      "time": 84,
+      "file": "00084.00.png"
+    },
+    {
+      "time": 86,
+      "file": "00086.00.png"
+    },
+    {
+      "time": 88,
+      "file": "00088.00.png"
+    },
+    {
+      "time": 90,
+      "file": "00090.00.png"
+    },
+    {
+      "time": 92,
+      "file": "00092.00.png"
+    },
+    {
+      "time": 94,
+      "file": "00094.00.png"
+    },
+    {
+      "time": 96,
+      "file": "00096.00.png"
+    },
+    {
+      "time": 98,
+      "file": "00098.00.png"
+    },
+    {
+      "time": 100,
+      "file": "00100.00.png"
+    },
+    {
+      "time": 102,
+      "file": "00102.00.png"
+    },
+    {
+      "time": 117,
+      "file": "00117.00.png"
+    }
+  ]
+}

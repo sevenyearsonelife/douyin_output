@@ -1,0 +1,27 @@
+{
+  "text": "年轻人一定不要碰一样东西，这东西可能会毁掉你的一生。我说的不是股市，不是创业，而是网贷。股市和创业的失败最多会让你一贫如洗，而网贷可能会让你这辈子都无法翻身。它会像滚雪球一样越滚越大，利息叠加违约金，短短几个月可能会翻几倍。你借五万，一年之后可能会变成十五万，三年之后可能会变成五十万。你拼命打工赚的钱全部填进去，本金却没有怎么减少。而且它不只是钱的问题，它会摧毁你的社会关系。催收电话打到公司，工作丢了；打到家里，父母亲你担心；打给朋友，朋友们都躲着你。你为了填一个窟窿去借另外一个窟窿，最后把自己活活的活成了一座孤岛。更可怕的是征信一旦花了，你以后买房子都贷不了款。如果成为了失信被执行人，那连子女的教育就业都会受到一定影响。所以如果现在你正深陷网贷里，别自己扛，别拆东墙补西墙，跟家里坦白，哪怕挨骂挨打也比你一个人硬撑着强。强制上岸，一家一家还，哪怕每个月只还一千，也是在往前推。别再借新还旧了，那是一条不归路，雪球只会越滚越大。年轻人阅历比较浅，不知道里边的风险，宁可在现实中穷一阵子，也不要乱借网贷。那些所谓的低息秒到账背后都藏着你这辈子无法承受的代价。好了，祝愿大家都能走稳每一步。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 831443,
+  "timings": {
+    "chunks_wall_seconds": 3.6031621670000002,
+    "encode_seconds_sum": 0.21553637499999995,
+    "request_seconds_sum": 3.376634125,
+    "decode_seconds": 0.15639625000000001,
+    "download_seconds": 1.304
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 77.8579375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7656366238990285513",
+  "title": "年轻人，千万别碰这样东西。#知识分享 #财富自由 #网贷的危害 #财经知识 #年轻人",
+  "video_url": "https://www.douyin.com/video/7656366238990285513",
+  "source_duration": 77.834,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

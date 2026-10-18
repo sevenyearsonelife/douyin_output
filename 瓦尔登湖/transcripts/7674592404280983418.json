@@ -1,0 +1,27 @@
+{
+  "text": "任何人，无论以什么身份与我们交集，本质是让我们完成自己的成长课题。有些人教会我们去爱，有些人教会我们独立，有些人只让我们看清人性的复杂。他们离开了，是因为我们的课题完成了，我们该往前走了。所以，放下吧，允许万物心中过，也允许万物不停留。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 273875,
+  "timings": {
+    "chunks_wall_seconds": 1.211216792,
+    "encode_seconds_sum": 0.16205091700000002,
+    "request_seconds_sum": 1.042723667,
+    "decode_seconds": 0.095384792,
+    "download_seconds": 3.246
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 25.588375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7674592404280983418",
+  "title": "所有相遇，都是成长课题。 #生活有用指南 #个人感悟分享 #女性成长 #生活感悟 #人生感悟",
+  "video_url": "https://www.douyin.com/video/7674592404280983418",
+  "source_duration": 25.634,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7674592404280983418: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

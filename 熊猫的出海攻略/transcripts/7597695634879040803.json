@@ -1,0 +1,32 @@
+{
+  "text": "别再瞎跑香港了。最近后台被同一个问题刷屏，现在去香港是不是一定要柜台排队？听说不去香港也能开户，真的假的？是不是至少要准备五十万才能办一张港卡？说实话，二零二六年的香港开户，早就不是去银行排队这么简单了。我把目前能走、靠谱、真实可落地的三条开户路径一次性给你讲。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 2205395,
+  "timings": {
+    "chunks_wall_seconds": 4.129578124993714,
+    "encode_seconds_sum": 1.560153165977681,
+    "request_seconds_sum": 2.5480097079998814,
+    "decode_seconds": 1.2626751659845468,
+    "download_seconds": 2
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 206.657625,
+  "review_status": "needs_review",
+  "warnings": [],
+  "video_id": "7597695634879040803",
+  "title": "别再白跑香港了！现在开港卡，其实只剩这 3 种方式\n2026 香港开户终极指南：从线下排队到远程 0 门槛，全在这了\n我把目前能走、靠谱、真实可落地的 3 条开户路径，一次性给你讲清楚。\n看完这篇，你一定能找到最适合自己的那条路。#香港银行 #香港银行开户指南 #香港银行卡 #资产配置 #香港汇丰",
+  "video_url": "https://www.douyin.com/video/7597695634879040803",
+  "source_duration": 206.681,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7597695634879040803: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "reviewed_at": "2026-09-10T21:03:07+08:00",
+  "review_scope": "逐条阅读转写正文，核对标题、开头、主题与长度；不是逐字听校，也不核实作者事实主张。",
+  "review_note": "仅公开试看部分。40秒画面出现购买后可看、购买完整版、390钻；付费部分不提取。",
+  "access_restriction": "paid_content",
+  "content_scope": "public_preview_only"
+}

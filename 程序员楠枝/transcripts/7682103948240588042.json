@@ -1,0 +1,27 @@
+{
+  "text": "先看效果，这是正式环境的支付展示。可以看到已经充值成功了。现在简单展示一下这个工具箱小程序的主要功能。短视频转文字可以提取视频中的文案，适合自媒体工作者。除了提取文案，还提供了提取视频封面的功能。其余都是我平常经常使用的功能，把它们集合到了一起，包括音频格式转换、生成二维码、单位换算、图片合成、PDF、Word转PDF等功能。单位换算支持长度、面积、体积、重量、密度、角度、热量、时间等种类。还可以查询历史今天发生的事。最后讲一下 iOS 端虚拟支付的注意事项。首先需要在虚拟支付的配置中开启苹果 IAP 支付，其次苹果端的最低金额要大于等于 0.99，并且小程序要配置简称。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 794963,
+  "timings": {
+    "chunks_wall_seconds": 2.308942958014086,
+    "encode_seconds_sum": 0.318452832987532,
+    "request_seconds_sum": 1.9802295830158982,
+    "decode_seconds": 1.797130165999988,
+    "download_seconds": 0.731
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 74.421375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7682103948240588042",
+  "title": "AI做的小程序，虚拟支付正式上线！ 由于要使用的工具要进场来回换软件于是用AI做了一个工具小程序，包含所有我常用的功能。欢迎体验。#ai开发 #小程序 #虚拟支付 #后端开发 #编程基础",
+  "video_url": "https://www.douyin.com/video/7682103948240588042",
+  "source_duration": 74.397,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7682103948240588042: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

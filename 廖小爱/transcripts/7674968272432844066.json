@@ -1,0 +1,25 @@
+{
+  "text": "你看今天，咱们先进封装是不是都快创新高了？马上创新高了。之前大跌的时候我说后面两三个跌停把我跌懵了，确实是跌懵了。你看现在是不是全部回来了？都回来了呀，马上创新高了。如果你按照我说的有这种系统，能在低位的时候捡尸体，那全部都创新高了。AI的这些龙头都会回来，时间问题。你看我们先进封装是最后两三天才补跌的，之前都很稳，然后反弹也是反弹的最快的，马上都要创新高了。所以呢，这个市场没有什么绝对的危，也没有什么绝对的机，就是看你有没有能力把危转换成机。股神最牛逼就牛逼在这里，他有持续的子弹，把任何时候的危都可以转换成机。涨跌是一定会经历的，腰斩也是一定会经历的，看你自己的子弹、认知、心态能不能把这个腰斩转换成你的机会。巴菲特第一次大翻身就是在经济危机的时候捡了大量的筹码，然后一把翻身。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 646355,
+  "timings": {
+    "chunks_wall_seconds": 6.940235166999999,
+    "encode_seconds_sum": 0.6305206670000001,
+    "request_seconds_sum": 4.852390416,
+    "decode_seconds": 0.3596044999999999,
+    "download_seconds": 0.25
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 60.489375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7674968272432844066",
+  "title": "打造持续子弹，把“危”变成“机”#投资 #财经 #商业思维 ",
+  "video_url": "https://www.douyin.com/video/7674968272432844066",
+  "source_duration": 60.489,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "extraction_method": "speech_recognition"
+}

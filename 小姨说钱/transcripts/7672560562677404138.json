@@ -1,0 +1,27 @@
+{
+  "text": "最近有一条新规啊，好多朋友呃弄不懂就慌了，以为场内纳指、标普以后全都不能交易了。今天我给大家用一句话来讲明白啊，千万别搞错了，交易所这份只是征求意见稿。商品期货LOF啊，QDII LOF最晚在二零二七年底关闭场内交易的通道。重点来了啊，它管的是LOF，ETF不受这条新规的约束。举个例子啊，像呃一六开头的纳指LOF、标普LOF啊，等到过渡期结束，股票账户呢就没法像股票一样买卖了，之后只能转到场外赎回持有。但是大家平时经常交易的五幺三幺零零纳指ETF、五幺三五零零标普五百ETF，它们是ETF，这类产品呢不受本次规则的影响。二零二七年之后，你的证券账户照样可以正常场内买卖，T加零交易，不用担心啊。再顺带说一句，这次退市只是关掉场内二级市场买卖通道，基金并不会直接清盘消失，资产还在。普通A股股票LOF只要规模达标，也没有强制二七年底退市这条时间要求。呃你就记住一句话区分口诀啊，海外ETF放心拿，海外LOF留意啊，二七年底过渡期。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 983507,
+  "timings": {
+    "chunks_wall_seconds": 4.988646875019185,
+    "encode_seconds_sum": 0.24612433300353587,
+    "request_seconds_sum": 4.691049207933247,
+    "decode_seconds": 0.2751816250383854,
+    "download_seconds": 1.334
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 92.115,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7672560562677404138",
+  "title": "LOF退市新规#理财知识分享 #新规来了 #LOF#股民交流 #场内基金",
+  "video_url": "https://www.douyin.com/video/7672560562677404138",
+  "source_duration": 92.134,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7672560562677404138: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

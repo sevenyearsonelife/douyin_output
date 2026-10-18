@@ -1,0 +1,27 @@
+{
+  "text": "你发现没有，很多人呢总觉得我工资不高，一个月呢只能攒一两千，什么时候才能到一百万？今天我就给大家算一笔账啊，你会发现普通人最可怕的嗯不是低收入，而是根本没有长期的积累。咱先用一个最笨的方法，只存钱不投资。如果你一个月硬攒一千块，一年就是一万二，一百万呢需要八十三年。也就是说单纯靠存，你可能一辈子很难到一百万。那如果一个月攒两千呢？一年两万四，一百万呢就是四十二年。三千呢？一年三万六，一百万需要二十八年。发现没？普通人光靠死存钱时间太长了。所以嗯真正厉害的人呢，不是攒钱，而是让钱帮你赚钱。那接下来呢我们再算定投，假设你每个月定投，长期年化收益按百分之五来算啊，这个收益其实一点都不夸张，很多宽基 E T F 呢长期都接近这个水平啊。如果你每个月定投一千，大概需要三十四年左右达到一百万。如果你每个月定投两千，时间直接缩短到二十四年左右。如果每个月定投三千，大概十九年左右就能做到一百万。你发现了没有？同样是一百万，死存钱一千块一个月要八十三年，但是定投呢直接缩短到三十四年，这中间最核心的差别就是复利。年轻的时候你可能感觉不到，但是当时间一拉长，钱会自己长大。很多人总嫌这个一千块钱太少了，但问题是，我们不是输在金额小，而是输在根本坚持不了十年。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1275731,
+  "timings": {
+    "chunks_wall_seconds": 4.6042511249997915,
+    "encode_seconds_sum": 0.277863334000358,
+    "request_seconds_sum": 3.9225979580005514,
+    "decode_seconds": 0.34322666600019147,
+    "download_seconds": 0.296
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 119.5145,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7644178348751314934",
+  "title": "攒够一百万需要多少年#股民交流 #攒钱 #复利 #投资",
+  "video_url": "https://www.douyin.com/video/7644178348751314934",
+  "source_duration": 119.567,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7644178348751314934: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

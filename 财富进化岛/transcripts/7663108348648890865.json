@@ -1,0 +1,30 @@
+{
+  "text": "投资大佬斌教授对全职炒股者的建议非常明确，最好不要炒股。他用鳄鱼进去，壁虎出来的比喻形象地描述了散户在股市中的处境，认为炒股对散户来说风险极高，赚钱的概率可能连十都不到。对于普通投资者，斌教授给出了更稳妥的投资建议：一、选择优质公司，可以投资美股七巨头这样的优质企业。二、投资ETF，这是更适合普通人的投资方式。看好某个行业如人工智能，就买对应的行业ETF，也可以选择更广泛的标普500 ETF。三、避免亲自选股，个股投资风险大，且中国市场商业模式变化快。斌教授特别强调，在中国市场投资要特别注意商业模式快速迭代的特点，建议通过ETF来分散风险，而不是试图挑选个股。最简单的投资方法就是像巴菲特建议的那样，直接投资标普500 ETF。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 558803,
+  "timings": {
+    "chunks_wall_seconds": 2.813992709008744,
+    "encode_seconds_sum": 0.1427538339921739,
+    "request_seconds_sum": 2.6681200839811936,
+    "decode_seconds": 0.13028079198556952,
+    "download_seconds": 2.82
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 52.291375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7663108348648890865",
+  "title": "投资大佬针对普通人的投资建议。#富人#穷人#投资建议#但斌",
+  "video_url": "https://www.douyin.com/video/7663108348648890865",
+  "source_duration": 52.292,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7663108348648890865: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "review_scope": "逐条正文主题、开头、长度及文件一致性校验；6条疑点补充画面抽查；非全片逐字听校，非事实核查",
+  "reviewed_at": "2026-09-10T22:37:29.429825+08:00",
+  "review_note": "已阅读正文，主题、开头和长度基础复核通过；文件与来源链接一致。"
+}

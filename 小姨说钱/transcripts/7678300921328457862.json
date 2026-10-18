@@ -1,0 +1,27 @@
+{
+  "text": "今天的视频是专给那些搞钱的朋友的。呃，我老挂在嘴边一句话就是说你永远挣不到脑子没想明白的那份钱。那怎么把脑子去喂饱呢？快速回血呢？除了我翻来覆去劝你们看书，还有一个贼好使的法子就是听播客。今儿就掏心窝子的甩几个我私藏的搞钱必听。第一个就是搞钱女孩，这个节目贼实在，每回请不同领域的姑娘把自己怎么从零挣到真金白银的路子掰开了揉碎了讲，我每回听完呢都跟被电了一下似的，启发特别大。第二个就是中欧基金的博客，这是我长期蹲守的，它最神的地方是把那些绕来绕去的投资道理用大白话给你捋顺了，听完你感觉自己那套投资小框架立马扎实不少。第三个厚雪长博，这个嘉宾的阵容五花八门，啥行业都有，聊投资的角度啊刁得很，老是能给你砸出点新脑洞。第四个就是知行小酒馆，聊的全是跟你钱包过日子贴得紧的事儿，比如怎么打理手头那点钱，咋省出一杯咖啡钱，咋往财富自由那儿蹭一蹭，特别接地气，拿来就能用。要是你觉得自个还是理财圈的小白，这几个博客麻溜的收藏好，没事就翻出来听听。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 974675,
+  "timings": {
+    "chunks_wall_seconds": 6.645929499994963,
+    "encode_seconds_sum": 0.30981754197273403,
+    "request_seconds_sum": 3.6106826670002192,
+    "decode_seconds": 0.3630907089682296,
+    "download_seconds": 0.595
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 91.2790625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7678300921328457862",
+  "title": "这几个博客比读书充电快#播客推荐 #认知提升 #充电知识 #投资理财",
+  "video_url": "https://www.douyin.com/video/7678300921328457862",
+  "source_duration": 91.3,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7678300921328457862: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

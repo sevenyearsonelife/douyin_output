@@ -1,0 +1,402 @@
+[
+  {
+    "url": "https://www.douyin.com/video/7588029795405925647",
+    "title": "2026年，祝看到视频的所有程序员都能晋升架构师！ 最想说的话，全在这里了。#程序员 #架构师"
+  },
+  {
+    "url": "https://www.douyin.com/video/7586319363364457774",
+    "title": "顶级程序员抬杠对线指南，从此吵架对线，天下无敌。 #程序员 #抬杠"
+  },
+  {
+    "url": "https://www.douyin.com/video/7570603205181082914",
+    "title": "DDD第1期|表结构设计别只凭经验了。DDD教你反范式表设计 #DDD #程序员 #架构设计#架构 #数据库"
+  },
+  {
+    "url": "https://www.douyin.com/video/7683820761924128038",
+    "title": "Kafka客户端协议新升级，支持上万消费者，AI时代新方向 #Kakfa #架构 #AI #程序员 #后端开发"
+  },
+  {
+    "url": "https://www.douyin.com/video/7683450580861259062",
+    "title": "英语到底要怎么学？我觉得最好的方案是把编程加进去。。。 #编程 #英语 #教育 #考试 #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7683089631616814336",
+    "title": "既要又要：RocketMQ文件存储如何即存得快又查得快？ #RocketMQ #架构 #程序员 #文件存储"
+  },
+  {
+    "url": "https://www.douyin.com/video/7682296759208512803",
+    "title": "揭开AI的底牌：如何给海量向量建立索引？ 理论很无聊，实战机会很少，但理论结合实战，就一定会很有趣。#向量 #索引 #AI #Redis #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7681662936556817714",
+    "title": "深度拆解DSH的PTC模式，硬核解读有想法，深入浅出刚刚好 #DeepSeek #AI #Agent #PTC #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7680898205751594278",
+    "title": "阿里云百炼平台大模型限流方案分享 #AI #阿里云百炼 #大模型 #限流 #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7680471463811386674",
+    "title": "你我都是普通人，拿什么对抗AI？ 不能再说了，再说你们要看不下去了#AI #程序员 #打工人 #工作 #心态"
+  },
+  {
+    "url": "https://www.douyin.com/video/7679691509393853748",
+    "title": "一套3+6公式，看懂所有Agent。 #Agent #AI #大模型 #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7678678869800439066",
+    "title": "让你的Agent更强大的，永远是你自己！ #DeepSeek #Agent #大模型 #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7678267626153348404",
+    "title": "原来IOC不只是一个面试题！技术也能很浪漫 #程序员 #架构 #DeepSeek #Agent"
+  },
+  {
+    "url": "https://www.douyin.com/video/7677471108055993651",
+    "title": "程序员的想象力，就是越浪漫，越幸运 #程序员 #想象力"
+  },
+  {
+    "url": "https://www.douyin.com/video/7676384896524258596",
+    "title": "DSH竟然是Agent版本的Spring？架构多重要你看懂没 #Deepseek #Harness #Agent #AI #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7676004216627825935",
+    "title": "刚开源！DeepSeek Harness 保姆级快速上手教程 #DeepSeek #Harness #AI #程序员 #Agent"
+  },
+  {
+    "url": "https://www.douyin.com/video/7674598025934785828",
+    "title": "深度拆解Redis Iris上下文引擎，看看啥叫新法编程 #Redis #程序员 #AI #架构"
+  },
+  {
+    "url": "https://www.douyin.com/video/7672651795633622335",
+    "title": "MCP协议2.0新版本到底升级了什么？对我们有什么影响？ #AI #MCP #程序员 #Agent"
+  },
+  {
+    "url": "https://www.douyin.com/video/7672324705751256346",
+    "title": "用DDD领域驱动来复刻SpringBoot，这事有搞头吗？ #程序员 #后端开发 #DDD #SpringBoot #AI"
+  },
+  {
+    "url": "https://www.douyin.com/video/7671910278400904463",
+    "title": "Rust复刻SpringBoot？现实吗？AI边界到底在哪？ #Java #Rust #SpringBoot #AI #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7670926685826567434",
+    "title": "探秘Kafka负载均衡机制。 和RocketMQ对比着来，比玩游戏还有趣。#Kafka #后端开发 #架构"
+  },
+  {
+    "url": "https://www.douyin.com/video/7670513820749581583",
+    "title": "Spring之父推出正统Agent框架，能不能拯救Java？ #大模型 #Agent #Java #EmBabel"
+  },
+  {
+    "url": "https://www.douyin.com/video/7669764559736966426",
+    "title": "新技术，新场景，新思路。RocketMQ的LiteTopic 真的绝了。 #程序员 #架构 #RocketMQ #LIteTopic #限流"
+  },
+  {
+    "url": "https://www.douyin.com/video/7668248259932032271",
+    "title": "一次讲透RocketMQ的负载均衡 难不难从来不是一个事实，而是一种态度。#程序员 #Java #后端开发 #RocketMQ #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7667211282478599467",
+    "title": "从SpringAI底层框架，看懂掌控AI的真正逻辑 #SpringAI #AI #Agent #程序员 #后端开发"
+  },
+  {
+    "url": "https://www.douyin.com/video/7666082708400950543",
+    "title": "大白话讲透线程、协程、虚拟线程。 #程序员 #后端开发 #并发编程 #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7664950867388271898",
+    "title": "传统技术如何拥抱AI？RocketMQ来打个样！ #Rocketmq #后端开发 #AI #架构设计 #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7664598124752686336",
+    "title": "AI时代，技术，既是一种能力，也是一种态度。 AI is the future,But you must be the Driver! #langchain #AI #Agent"
+  },
+  {
+    "url": "https://www.douyin.com/video/7663421964169579830",
+    "title": "做不好异常处理的码农，不是个好程序员！ #程序员 #Java #后端开发"
+  },
+  {
+    "url": "https://www.douyin.com/video/7663114514581277958",
+    "title": "能解决问题的手永远比只会说想法的嘴更值钱！ #程序员 #AI #职场"
+  },
+  {
+    "url": "https://www.douyin.com/video/7662245418431958326",
+    "title": "读写分离到底怎么做？这次跟着ShardingSpher学！ #读写分离 #程序员 #架构师 #后端开发 #shardingsphere"
+  },
+  {
+    "url": "https://www.douyin.com/video/7660437852555087147",
+    "title": "想提升技术？从学英语开始 #程序员 #架构师 #英语 #英语口语 #英语听力"
+  },
+  {
+    "url": "https://www.douyin.com/video/7658284793586584882",
+    "title": "SpringBoot AOT提前编译是什么秘密武器？ 背后的技术思维、架构思维和工作思维你看透了吗？ #SpringBoot #Aot #程序员 #架构 #Java"
+  },
+  {
+    "url": "https://www.douyin.com/video/7657814747399703835",
+    "title": "SpringBoot4的AOT提前编译你看懂了吗? #程序员 #SpringBoot#AOT #架构"
+  },
+  {
+    "url": "https://www.douyin.com/video/7655586941252996402",
+    "title": "MCP和微服务是同一个东西吗？站到太阳的高度硬核拆解MCP #MCP #大模型 #程序员 #微服务"
+  },
+  {
+    "url": "https://www.douyin.com/video/7653851891465588031",
+    "title": "还在刷\"问AI就行了\"？你已经输在危险线上了！ AI只是把\"会不会\"的门槛踩碎了，但\"职业化\"的壁垒，它一毫米都没动。#程序员 #AI编程 #职业发展 #码农日常"
+  },
+  {
+    "url": "https://www.douyin.com/video/7652710774602747142",
+    "title": "从Redis哨兵里看到的顶级架构思维 很多所谓的古法编程其实就是这样，里面藏着无数的巧思与权衡。你去好好挖掘，那就是你拿高薪的秘密武器。但是你要是漠不关心，那就只能学点皮毛，混口饭吃。就算现在有了AI，只要你还想要找工作挣钱，这个规律就不会变。#程序员 #架构 #Redis #Raft"
+  },
+  {
+    "url": "https://www.douyin.com/video/7651947010119060751",
+    "title": "RBAC 权限系统架构深度拆解，看懂程序员的架构思维 高并发架构面试合集。我是楼兰，关注我，IT路上一起进步。#程序员 #后端开发 #面试 #架构 #RBAC"
+  },
+  {
+    "url": "https://www.douyin.com/video/7649365915930234158",
+    "title": "详解SpringBoot、Nacos与MyBatis解耦 有用的从来不是那些干巴巴的八股，而是解决问题的架构 #程序员 #SpringBoot #后端开发 #架构 #系统解耦"
+  },
+  {
+    "url": "https://www.douyin.com/video/7647801646386302248",
+    "title": "从《丧尸清道夫》看AI时代，程序员如何破局？ #程序员 #AI大模型 #丧尸清道夫 #架构思维"
+  },
+  {
+    "url": "https://www.douyin.com/video/7647154355006639369",
+    "title": "Ragas 核心指标全拆解，自动化评测落地 #ai大模型 #Ragas #模型评测 #后端开发"
+  },
+  {
+    "url": "https://www.douyin.com/video/7646756099533622547",
+    "title": "看懂 LangChain，搞懂新一代 AI 产品架构思维 #架构 #AI #LangChain#后端开发 #程序员面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7646066362195954990",
+    "title": "AI在替代人类之前，可能要先累死人类了 AI在抢你饭碗的同时，也在给你准备新的饭碗。#AI #大模型 #幻觉"
+  },
+  {
+    "url": "https://www.douyin.com/video/7645180965324721460",
+    "title": "云原生实战：3 步让微服务边跑边拆分 #架构师 #云原生 #微服务 #DDD"
+  },
+  {
+    "url": "https://www.douyin.com/video/7644904744091241770",
+    "title": "解析三角洲 OBS 外挂，聊聊VibeCoding底层思路 #vibecoding大赏 @抖音科技 #三角洲OBS #编程思维"
+  },
+  {
+    "url": "https://www.douyin.com/video/7643743757657066788",
+    "title": "有了VibeCoding，程序员的工作要求到底怎么样了？ #程序员 #VibeCoding #AI #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7642721349454040320",
+    "title": "后端必学微服务架构，核心技术一次性讲透 详细拆解微服务核心技术蒂娜，后端开发、求职面试都能用。#程序员 #架构 #微服务 #面试 #后端开发"
+  },
+  {
+    "url": "https://www.douyin.com/video/7642223858556128512",
+    "title": "Java程序员理想的编程AI是什么样？飞算JavaAI打个样 #程序员 #Java #AI编程 #编程"
+  },
+  {
+    "url": "https://www.douyin.com/video/7641902151450578217",
+    "title": "不想卷 Java 后端！程序员转型 AI 大模型正确路径！ 普通人转行 AI 不用瞎学！从 Java 平稳过渡到大模型开发，零基础也能跟着走，收藏少走弯路#程序员 #AI #大模型 #后端开发 #编程学习"
+  },
+  {
+    "url": "https://www.douyin.com/video/7641491959466528000",
+    "title": "别再被误导！互联网架构正确演进路线 程序员避坑干货，建议收藏对照学习，欢迎评论区交流看法～#程序员 #架构 #面试 #后端开发 #编程干货"
+  },
+  {
+    "url": "https://www.douyin.com/video/7641100083018157327",
+    "title": "如何优雅防止重复下单？程序员就是前期拼技术，后期拼态度！ #后端开发 #系统架构 #接口防重 #程序员 #职场"
+  },
+  {
+    "url": "https://www.douyin.com/video/7640038417656483118",
+    "title": "把能量聚拢，砸向一个点，你就是那个天才！ #程序员 #AI #木桶理论"
+  },
+  {
+    "url": "https://www.douyin.com/video/7639262766900989218",
+    "title": "飞书群聊已读机制如何设计？ 架构思维，从不是说说而已。#程序员 #架构 #面试 #飞书 #群聊"
+  },
+  {
+    "url": "https://www.douyin.com/video/7637398426988154153",
+    "title": "给你最强的AI，你能设计出飞书消息已读功能吗？ #程序员 #架构 #面试 #飞书 #AI"
+  },
+  {
+    "url": "https://www.douyin.com/video/7636651484083391798",
+    "title": "有了VibeCoding和Harness，程序员就能躺平了？ #程序员 #AI #Harness #Vibecoding"
+  },
+  {
+    "url": "https://www.douyin.com/video/7634381150202449171",
+    "title": "从架构视角梳理下SpringBoot与Spring #程序员 #面试 #架构 #SpringBoot #Spring"
+  },
+  {
+    "url": "https://www.douyin.com/video/7633733790229155112",
+    "title": "分库分表是架构能力，不只是技术能力！ #程序员 #架构 #面试 #分库分表 #shardingsphere"
+  },
+  {
+    "url": "https://www.douyin.com/video/7631452847493926186",
+    "title": "服务端推模式与拉模式到底怎么玩？跟RocketMQ来学学。 #程序员 #架构 #面试 #RocketMQ"
+  },
+  {
+    "url": "https://www.douyin.com/video/7628853335507995910",
+    "title": "你们要求的MVCC深度拆解来了。 #程序员 #架构 #面试 #MySQL #MVCC"
+  },
+  {
+    "url": "https://www.douyin.com/video/7628852798783819049",
+    "title": "AI时代脑子争夺战的三个法宝 #程序员 #架构 #AI"
+  },
+  {
+    "url": "https://www.douyin.com/video/7626622969376230719",
+    "title": "从问题出发，拆解分布式系统的定海神针Raft协议。 #程序员 #架构 #面试 #Raft #分布式"
+  },
+  {
+    "url": "https://www.douyin.com/video/7624502291747572998",
+    "title": "ClaudeCode代码泄漏，你怎么看？ #程序员 #架构 #ClaudeCode #热点"
+  },
+  {
+    "url": "https://www.douyin.com/video/7623782366024109318",
+    "title": "这就是小龙虾的SKILL？ #程序员 #AI #小龙虾 #SKILL #openclaw"
+  },
+  {
+    "url": "https://www.douyin.com/video/7623751473863675199",
+    "title": "比Redis还强？RocksDB凭什么？ #程序员 #架构 #面试 #Redis #RocksDB"
+  },
+  {
+    "url": "https://www.douyin.com/video/7622583803525057801",
+    "title": "揭秘Kafka 4.x新特新-共享组。 #程序员 #kafka #架构 #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7621433329543318827",
+    "title": "RocketMQ消息积压到底有多大影响？ #程序员 #架构 #RocketMQ #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7621194530909359414",
+    "title": "小龙虾OpenClaw背后的底层逻辑 #程序员 #架构 #openclaw #小龙虾 #产品思维"
+  },
+  {
+    "url": "https://www.douyin.com/video/7619951189920075051",
+    "title": "从RocketMQ源码看线程池优化 #程序员 #架构 #面试 #RocketMQ #线程池"
+  },
+  {
+    "url": "https://www.douyin.com/video/7619204918057930025",
+    "title": "跟RocketMQ学学如何设计延迟任务 #程序员 #架构 #面试 #延迟消息 #RocketMQ"
+  },
+  {
+    "url": "https://www.douyin.com/video/7618495153602432256",
+    "title": "微信多端聊天怎么做？AI时代开发新方向 #程序员 #架构 #面试 #微信功能"
+  },
+  {
+    "url": "https://www.douyin.com/video/7618485542451268916",
+    "title": "手撕微信红包架构，挑战三高业务场景 #程序员 #面试 #微信 #红包 #架构"
+  },
+  {
+    "url": "https://www.douyin.com/video/7617730759415074083",
+    "title": "动作和状态玩熟了，架构设计你就通了一半了 #程序员 #架构 #面试 #架构设计 #Java"
+  },
+  {
+    "url": "https://www.douyin.com/video/7617353717049871679",
+    "title": "高并发海量数据架构要怎么设计？HBase背后的LSM树解密 #程序员 #架构 #HBase #高并发 #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7615986800603024680",
+    "title": "三大核心问题，解密Kafka生产者高并发架构思想 #程序员 #架构 #面试 #Kafka"
+  },
+  {
+    "url": "https://www.douyin.com/video/7614106828061871398",
+    "title": "大白话讲解大厂基于AES和RSA的互联网数据加密策略 #程序员 #AES #RSA #加密 #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7613368236914068790",
+    "title": "AI时代还在死磕代码？程序员这5个能力才能保命！ #程序员 #AI #竞争力 #IT"
+  },
+  {
+    "url": "https://www.douyin.com/video/7613327574785166634",
+    "title": "深度拆解 Kafka KRaft 架构：为什么放弃 ZooK #程序员 #Kafka #架构 #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7613022037484850438",
+    "title": "DDD 科普第十期：系统抗老化的底层逻辑 #程序员 #DDD #系统架构 #架构设计"
+  },
+  {
+    "url": "https://www.douyin.com/video/7612538272224414982",
+    "title": "微服务网关到底怎么构建？ #程序员 #架构 #面试 #网关"
+  },
+  {
+    "url": "https://www.douyin.com/video/7611426939928104244",
+    "title": "SaaS架构实战：共享与隔离的平衡术 #程序员 #架构 #SAAS #Java"
+  },
+  {
+    "url": "https://www.douyin.com/video/7611045349347577128",
+    "title": "代码写得好，不如职场混得好 #程序员 #编程 #IT #职场干货"
+  },
+  {
+    "url": "https://www.douyin.com/video/7605864860022295842",
+    "title": "别再乱写订单超时取消！这才是生产级方案！ #程序员 #架构 #面试 #项目实战 #后端开发"
+  },
+  {
+    "url": "https://www.douyin.com/video/7606213148835597587",
+    "title": "AQS 到底有多重要？懂它 = 通关Java并发！ #程序员 #面试 #并发编程 #架构"
+  },
+  {
+    "url": "https://www.douyin.com/video/7605241496740138255",
+    "title": "手把手搭建金融级风控引擎｜后端架构 + 规则引擎实战教程 全套金融级风控引擎从 0 到 1 搭建，包含架构设计、规则引擎落地、实战思路，适合后端开发、架构师学习。 内容干货很足，建议收藏慢慢看，有收获可以点个赞～#程序员 #架构 #项目实战 #规则引擎#架构师"
+  },
+  {
+    "url": "https://www.douyin.com/video/7603756866673347881",
+    "title": "阿里千问被一杯奶茶搞崩了？技术进步还是科幻提前了？ #ai大模型 #千问"
+  },
+  {
+    "url": "https://www.douyin.com/video/7603349150075276550",
+    "title": "从简单CRUD到高并发：Epoll到底解决了什么？ #程序员 #架构 #面试 #Epoll"
+  },
+  {
+    "url": "https://www.douyin.com/video/7603641840616656147",
+    "title": "2026年，到底需要什么样的AI？ #程序员 #AI #AI大模型 #Agentskill"
+  },
+  {
+    "url": "https://www.douyin.com/video/7602237208497507647",
+    "title": "Spring AOP 一用就出错？问题全出在动态代理！ #程序员 #面试 #架构 #Spring"
+  },
+  {
+    "url": "https://www.douyin.com/video/7601391169636994345",
+    "title": "如何快读统计网站日活？高手VS菜鸟的不同思路。 #程序员 #架构 #面试 #Redis#Redis"
+  },
+  {
+    "url": "https://www.douyin.com/video/7600781118920461587",
+    "title": "DDD第九期：架构选型必看！DDD适用场景全解 #程序员 #架构 #DDD #程序设计 #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7600750856685817130",
+    "title": "小白闯AI-Llama模型Lora中文微调实战 #大模型 #微调 #Lora #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7598516478140255524",
+    "title": "RabbitMQ三大队列：你真的会用吗？ #程序员 #架构 #RabbitMQ #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7598496300492934406",
+    "title": "快速成就科技自煤体？自霉体？自媒体！ #程序员 #自媒体 #AI"
+  },
+  {
+    "url": "https://www.douyin.com/video/7597418213294591275",
+    "title": "用连连看的方式深度拆解Transformer是什么感觉？ #程序员 #大模型 #架构 #transformer神经网络架构"
+  },
+  {
+    "url": "https://www.douyin.com/video/7595905546000076084",
+    "title": "高可用架构的设计艺术 #程序员 #架构 #高可用架构 #面试"
+  },
+  {
+    "url": "https://www.douyin.com/video/7595475676396932395",
+    "title": "JVM调优没用？看RocketMQ大神怎么进行JVM调优！ #编程 #程序员 #架构 #RocketMQ #知识前沿派对"
+  },
+  {
+    "url": "https://www.douyin.com/video/7592989594996591913",
+    "title": "Redis10分钟替代MySQL/ES，速度快 10 倍！ #程序员 #编程 #缓存 #知识前沿派对"
+  },
+  {
+    "url": "https://www.douyin.com/video/7592975605092732202",
+    "title": "StackOverFlow凉了，元芳，你怎么看？ #程序员 #编程 #知识前沿派对"
+  },
+  {
+    "url": "https://www.douyin.com/video/7592223185437838634",
+    "title": "DDD第8期|微服务拆错必崩！DDD微服务设计新思路 #程序员 #微服务 #DDD #架构设计#抖音合集升级计划"
+  },
+  {
+    "url": "https://www.douyin.com/video/7591808824613326080",
+    "title": "MySQL+RamDisk=Redis吗？评论区聊聊你的想法 #编程 #学习 #程序员 #架构"
+  }
+]

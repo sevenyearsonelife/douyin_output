@@ -1,0 +1,30 @@
+{
+  "text": "股票投资要实现盈利只有两种有效途径：长期空仓和长期满仓。通过频繁调整仓位来获取收益的做法从未被证明是成功的，市场上没有出现过通过巨大仓位波动赚钱的案例。长期空仓策略的核心在于不区分牛市熊市，只关注是否存在可操作机会，看准时机果断出手，达到预期收益立即撤离。熊市期间保持观望，直到交易量显著放大时快速出击，通常持续一周左右。牛市期间则持续参与，充分利用成交量放大的机会。成功的游资投资者都遵循这个原则，他们眼中没有牛熊市的区分，只判断市场是否具备操作性。关键在于市场下跌时亏损幅度小于指数，市场上涨时收益超过指数。试图在市场底部空仓、顶部满仓的理想化操作是不可能实现的，这违背了市场运行的基本规律。有效的投资策略应该是保持稳定的仓位管理方式，而不是试图精准预测市场波动。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 693203,
+  "timings": {
+    "chunks_wall_seconds": 2.1400429170171265,
+    "encode_seconds_sum": 0.17193924999446608,
+    "request_seconds_sum": 1.9634039170050528,
+    "decode_seconds": 0.1667238750087563,
+    "download_seconds": 0.178
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 64.9011875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7659552631975976625",
+  "title": "股票投资的两种策略长期空仓和长期满仓。\n#投资#股票投资#满仓#空仓",
+  "video_url": "https://www.douyin.com/video/7659552631975976625",
+  "source_duration": 64.876,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7659552631975976625: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "review_scope": "逐条正文主题、开头、长度及文件一致性校验；6条疑点补充画面抽查；非全片逐字听校，非事实核查",
+  "reviewed_at": "2026-09-10T22:37:29.429825+08:00",
+  "review_note": "已阅读正文，主题、开头和长度基础复核通过；文件与来源链接一致。"
+}

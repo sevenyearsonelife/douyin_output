@@ -1,0 +1,29 @@
+{
+  "text": "这次马龙跟许昕双打夺冠了之后，可以说是又喜又忧啊，喜的是这两个人回归之后还能拿到冠军，忧的是梯队建设堪忧。但是总体来讲，我认为马龙跟许昕两个人双打夺冠是比较正常的。为什么会这么讲呢？因为本身来讲双打跟单打它是不一样的，就是单打它的节奏会更快一些，但是双打它的节奏会更慢一些，因为双打是两个人，它牵扯到两个人之间需要互相的让位，所以整体来讲，整个球的节奏会放慢，所以这个对于老将来讲，它是特别好的。所以说当你整个比赛的节奏放慢了之后，就会无限制的放大你的正手能力，就是你的正手越好，你就越占便宜。我们说偏偏马龙跟许昕他们两个人的正手都是很顶级的，所以在双打当中他的优势非常大。而且我们说由于双打它的这种节奏比较慢，就很容易会到这种中远台相持的阶段。那我们说现在的年轻运动员，他的正手是很难与马龙许昕他们的正手进行一个对抗的，那这里说的是双打，啊不是单打，因为我们说双打节奏慢，马龙许昕他们那个时候的正手相对来讲动作都是比较大的，啊比较舒展，这种在中远台它的优势就非常大，既有稳定性又有杀伤力。我们说现在的运动员，他的正手动作的结构都是比较小的，比较紧凑的，啊他是为了应对单打当中这种快速的近台的衔接，确实是非常有优势，但是你到了中远台，它的劣势就出来了，无论是稳定性还是质量都不如这种动作比较大的，比较舒展的好。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 864851,
+  "timings": {
+    "chunks_wall_seconds": 3.348469083,
+    "encode_seconds_sum": 0.21710916699999994,
+    "request_seconds_sum": 3.114244625,
+    "decode_seconds": 0.15043429199999997,
+    "download_seconds": 0.384
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 80.969375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7664463878591483146",
+  "title": "乒乓球马龙许昕双打夺冠 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7664463878591483146",
+  "source_duration": 80.945,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7664463878591483146: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "如果一个人特别瘦，并且怎么吃也吃不胖，是不是得了某种病呢？如果你家里也有身形特别单薄，平时没有力气，容易累，还容易发脾气的人，真的别再总劝他多吃饭了。他之所以瘦，不是因为吃的不够多，而是吸收跟不上。这时候单靠饮食补充，就算吃太多也难被利用，就像一个破口袋，装再多的钱也留不住是一个道理。这时候朋友想改变，我教你一个小妙招，每天早晚饭后来杯复合营养粉，但不是普通的，认准这款 Four Years 蛋白营养粉。不仅每百克高达四百大卡充足高能量，就这一杯相当于十二只大虾加两碗米饭的营养，轻松满足瘦子的热量营养缺口。更是搭配了老辈子的三大王牌，给你脆弱的肠胃加油打气。再复配了多重专利益生元、益生菌矩阵，管吃又管用，可以说是点对点解决了瘦子不吸收的问题。趁着有活动，三盒周期装更适合长期瘦的朋友，家里有瘦子的朋友真的可以试试。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 612179,
+  "timings": {
+    "chunks_wall_seconds": 2.600440666,
+    "encode_seconds_sum": 0.16497754199999998,
+    "request_seconds_sum": 2.4275537920000003,
+    "decode_seconds": 0.11375333300000001,
+    "download_seconds": 6.404
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 57.283625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7688293662517636762",
+  "title": "瘦了很多年怎么吃都不长的，很可能是这个原因 #干货 #瘦子增重 #FoYes蛋白营养粉",
+  "video_url": "https://www.douyin.com/video/7688293662517636762",
+  "source_duration": 57.284,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

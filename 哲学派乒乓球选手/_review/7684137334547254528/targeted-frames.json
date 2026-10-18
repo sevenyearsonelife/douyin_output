@@ -1,0 +1,87 @@
+{
+  "video_url": "https://www.douyin.com/video/7684137334547254528",
+  "duration": 76.023,
+  "target_terms": [
+    "铁搓档"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 13,
+      "file": "00013.00.png"
+    },
+    {
+      "time": 15,
+      "file": "00015.00.png"
+    },
+    {
+      "time": 17,
+      "file": "00017.00.png"
+    },
+    {
+      "time": 19,
+      "file": "00019.00.png"
+    },
+    {
+      "time": 21,
+      "file": "00021.00.png"
+    },
+    {
+      "time": 23,
+      "file": "00023.00.png"
+    },
+    {
+      "time": 25,
+      "file": "00025.00.png"
+    },
+    {
+      "time": 27,
+      "file": "00027.00.png"
+    },
+    {
+      "time": 29,
+      "file": "00029.00.png"
+    },
+    {
+      "time": 31,
+      "file": "00031.00.png"
+    },
+    {
+      "time": 33,
+      "file": "00033.00.png"
+    },
+    {
+      "time": 35,
+      "file": "00035.00.png"
+    },
+    {
+      "time": 37,
+      "file": "00037.00.png"
+    },
+    {
+      "time": 39,
+      "file": "00039.00.png"
+    },
+    {
+      "time": 41,
+      "file": "00041.00.png"
+    },
+    {
+      "time": 43,
+      "file": "00043.00.png"
+    },
+    {
+      "time": 45,
+      "file": "00045.00.png"
+    },
+    {
+      "time": 74,
+      "file": "00074.00.png"
+    }
+  ]
+}

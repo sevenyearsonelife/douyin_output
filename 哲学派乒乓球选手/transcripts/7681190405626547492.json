@@ -1,0 +1,29 @@
+{
+  "text": "纯业余练球，如果想冲击上限的话，一定是先固定框架，再练前三板的一些技术。为什么会这么讲呢？假如说我们在初期，你还是一张白纸，就是你前三板技术也不会，你框架也没有形成。这个时候如果说你先去接触一些比赛的东西，就是前三板的东西，这个时候对你形成框架是非常不利的，它的影响是非常大的。但是假如说你是先把框架养成了，再去接触前三板的东西，这个时候是没有什么影响的。因为你的框架已经固定了，不管你前三板你怎么练，你的框架它都不会乱。纯业余之所以说这个框架它很难形成，就是在初期的时候你找了太多这种老油条去打比赛。所谓的老油条就是发球很好，啊接发球也很好，打球非常油的这种，你跟他们去打，开始肯定会被玩的死去活来的。所以说在初期建立动作框架的时候，一定不要去找这种老油条去打球。开始尽量去找这种动作比较正规的，跟你差不多的。然后等你框架稳定了之后，你可以随便找什么人打。啊特别是要找这种老油条打，经验特别丰富的，发球接发球都很好的。这个时候不管你怎么打，你的框架都不会有问题。这个时候你的上限相对来说它是比较高的。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 697427,
+  "timings": {
+    "chunks_wall_seconds": 3.162752459,
+    "encode_seconds_sum": 0.17508416700000007,
+    "request_seconds_sum": 2.9793455829999997,
+    "decode_seconds": 0.12432254100000001,
+    "download_seconds": 0.167
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 65.2726875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7681190405626547492",
+  "title": "乒乓球想要上限高练习顺序很重要 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7681190405626547492",
+  "source_duration": 65.248,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7681190405626547492: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

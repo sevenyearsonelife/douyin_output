@@ -1,0 +1,57 @@
+{
+  "video_url": "https://www.douyin.com/video/7680423070984572212",
+  "duration": 127.223,
+  "target_terms": [
+    "高调",
+    "反思"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 2,
+      "file": "00002.00.png"
+    },
+    {
+      "time": 4,
+      "file": "00004.00.png"
+    },
+    {
+      "time": 6,
+      "file": "00006.00.png"
+    },
+    {
+      "time": 8,
+      "file": "00008.00.png"
+    },
+    {
+      "time": 10,
+      "file": "00010.00.png"
+    },
+    {
+      "time": 12,
+      "file": "00012.00.png"
+    },
+    {
+      "time": 14,
+      "file": "00014.00.png"
+    },
+    {
+      "time": 16,
+      "file": "00016.00.png"
+    },
+    {
+      "time": 18,
+      "file": "00018.00.png"
+    },
+    {
+      "time": 20,
+      "file": "00020.00.png"
+    }
+  ],
+  "error": "page.waitForFunction: Timeout 15000ms exceeded."
+}

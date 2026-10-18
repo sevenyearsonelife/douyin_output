@@ -1,0 +1,27 @@
+{
+  "text": "大家好，这是我的第一条口播视频。呃，从我想做口播视频开始，已经有了半年的时间，一直想做，但是每次开始录制的时候，要么是觉得自己的脸有些肿，要么是觉得自己的表达有问题，每次都会找各种的原因，然后做不成这件事。这种想做但是一直做不成的感受让我特别有挫败感。所以说我今天一定要把这个事情办了，先完成再完美，加油！",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 346451,
+  "timings": {
+    "chunks_wall_seconds": 1.669439167,
+    "encode_seconds_sum": 0.11961795800000002,
+    "request_seconds_sum": 1.5441997499999998,
+    "decode_seconds": 0.12568012499999998,
+    "download_seconds": 3.091
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 32.368625,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7665673922620723707",
+  "title": "无论如何，先把今天这条发出去，加油！ #练嘴日常记录 #女性成长自学",
+  "video_url": "https://www.douyin.com/video/7665673922620723707",
+  "source_duration": 32.4,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7665673922620723707: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

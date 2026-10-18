@@ -1,0 +1,29 @@
+{
+  "text": "今天这节课咱们来聊聊定投，这可能是普通投资者最适合的投资方式，没有之一。我知道很多人听到定投两个字就觉得太简单了，不就是定期买入吗？有什么好讲的？但我要告诉你，定投看似简单，里面门道很多。同样的定投，有人能赚百分之二十，有人却亏百分之十，差别就在于方法和心态。今天我会教你三种定投方式，从简单到复杂，从手动到自动，总有一款适合你。先说第一种，手动定投。手动定投的核心是不是无脑定期买入，而是先看K线，判断高低位，在相对低位开始建仓。具体操作步骤如下，第一步，看指数K线判断高低位。\n嗯。\n嗯。",
+  "chunks": 3,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 5405817,
+  "timings": {
+    "chunks_wall_seconds": 5.387196166,
+    "encode_seconds_sum": 0.868946958,
+    "request_seconds_sum": 8.449418082000001,
+    "decode_seconds": 0.6998471249999999,
+    "download_seconds": 1.593
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 506.496875,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7630712736430820646",
+  "title": "第13课：定投策略 三种方式降低持仓成本",
+  "video_url": "https://www.douyin.com/video/7630712736430820646",
+  "source_duration": 506.521,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7630712736430820646: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

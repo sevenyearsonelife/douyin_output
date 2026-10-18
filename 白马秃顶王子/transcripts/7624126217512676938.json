@@ -1,0 +1,27 @@
+{
+  "text": "我最近发现很多人同时在买恒生科技和纳斯达克一百，但其实这两个东西根本不是一类资产。我们先来说纳斯达克一百啊，它里面大多数是已经比较成熟的科技公司，整体盈利能力也相对更稳定，现金流质量也更高。长期来看它的特点是大方向是往上走，但中间呢也会有明显的回调，比如市场情绪变差的时候也可能出现比较大的下跌，但核心逻辑是优质公司持续成长。那我们再来看一下恒生科技，它更像是一个情绪的放大器，市场一乐观它涨得会比较猛，市场一悲观它也会跌得很快，而且很多公司还在成长阶段，整体的盈利波动会更大一些，对资金和情绪的敏感度也更高。所以你会发现一个本质区别，纳斯达克一百更像是长期稳中向上，但中间仍存在波动的成熟老大哥。那恒生科技呢更像是弹性更大，上下波动都更极端的年轻小伙子。所以如果你只把它们当成普通的科技指数来配置，那很容易在不同的市场环境下做出完全相反的判断。下期想看哪个指数对比，我继续帮你们拆解，OK？Peace。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 724691,
+  "timings": {
+    "chunks_wall_seconds": 2.91151,
+    "encode_seconds_sum": 0.201186541,
+    "request_seconds_sum": 2.69625375,
+    "decode_seconds": 0.47693879199999994,
+    "download_seconds": 0.538
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 67.826875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7624126217512676938",
+  "title": "恒生科技和纳斯达克100，根本不是一类资产#财经 #恒生科技 #纳斯达克100 #理财 #科普",
+  "video_url": "https://www.douyin.com/video/7624126217512676938",
+  "source_duration": 67.803,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7624126217512676938: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

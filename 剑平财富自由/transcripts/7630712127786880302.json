@@ -1,0 +1,29 @@
+{
+  "text": "今天这节课我要给大家介绍两个 A 股市场上的宝藏 E T F，红利 E T F 和现金流 E T F。为什么说它们是宝藏？因为它们可能是整个 A 股市场上最适合无脑长期持有的品种，长期年化收益能做到百分之十左右，而且波动相对较小。我知道很多人听到百分之十年化觉得不高，毕竟 A 股市场上动不动就有人吹自己一年翻倍。但你要知道，能长期稳定做到百分之十年化，在复利的作用下，七年就能翻倍，十四年就能翻四倍，而那些一年翻倍的人，往往第二年就亏回去了。更重要的是，红利 E T F 和现金流 E T F 的持有体验非常好，它们有一个共同的特点，熊市的时候相对抗跌，甚至还能赚钱。\n嗯。\n嗯。",
+  "chunks": 3,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 7119993,
+  "timings": {
+    "chunks_wall_seconds": 10.425455750000001,
+    "encode_seconds_sum": 1.964458626,
+    "request_seconds_sum": 23.365460583,
+    "decode_seconds": 0.830793584,
+    "download_seconds": 2.744
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 667.2021875,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7630712127786880302",
+  "title": "第11课：红利ETF与现金流ETF 躺着赚钱的双雄",
+  "video_url": "https://www.douyin.com/video/7630712127786880302",
+  "source_duration": 667.226,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7630712127786880302: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

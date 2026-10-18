@@ -1,0 +1,374 @@
+{
+  "author": "迪相老安",
+  "public_douyin_id": "zgcj186",
+  "selected_count": 100,
+  "unique_video_ids": 100,
+  "scope": "主页视觉顺序前100条，包含置顶，跳过图文；用户要求放弃付费/会员视频后排除12条，不向后补足。",
+  "text_review_count": 95,
+  "text_review_scope": "已逐条完整阅读95份识别稿，核对标题、开头、主题和长度；未对全部视频逐字人工听校。",
+  "paid_excluded_indexes": [
+    6,
+    7,
+    9,
+    10,
+    13,
+    59,
+    65,
+    71,
+    82,
+    85,
+    88,
+    90
+  ],
+  "raw_asr_sha256": {
+    "7435150094028082466.json": "0c11b1c5086b20fb1729f02bdef408cc51b1f3ad22a667d1de8dfdf5733bd95b",
+    "7428415400930446633.json": "220e1becac1d6334117bb12363ce246b9a5f30b5bf157aec2b32578c1d5e60a9",
+    "7675191649554763050.json": "71b6ef7dbd74b69e80d73376fce6aba14132344460400a5b85472fa760bad52a",
+    "7692657618443177262.json": "800bd95e9f2d023bb747f4f24c7d5afd29492c89222f8027cfa414ac98a294b9",
+    "7691999241878703386.json": "207e8e257c5729cad7bec2312f3295e800db74680a3009c3c73643c7adde68fd",
+    "7691267012521250098.json": "e4dace965c3e8d4343f5b7e6ed30925a2a0443de8b7600e289054aa5dab13c23",
+    "7690413804567481609.json": "a1d9ed2fe4e6fd2347a21befdf889a4a04b3eb3636cf48c777875f15354e8693",
+    "7690178257588718899.json": "9d91c91805266aeeb9fe747aba55ed718c0085b8763c416f7a87fa8cf3f52cb7",
+    "7689821845633125678.json": "dcf51a6e1c30b2204abdfc523c8d0888d62637d4e8887a2aea0faa799acc9df9",
+    "7689310116499658102.json": "b442ab3f788aafd69cb1d57b6842b4d0daadc443998bac53d88e53ce1c619da9",
+    "7689307900795486628.json": "b3eea0eecb7812ec01127a1d4d483d5f4995ef76356633b743fd36c0aa7b095f",
+    "7688932834652361067.json": "398283e16835c91355f83897f1e7548652746b6fe68037dbfdfab1581503790a",
+    "7688607946137177353.json": "51af754c6a5f56f87382cd50ec92f554e5c78d179ebc0204a04db409d8420def",
+    "7688255233767525673.json": "08821b389468c3ecd5dfa258a1617bf6103f52b0c45d96cb9b8dcb1f83ab1d45",
+    "7687961368972053795.json": "f3abf112cc1dae932a9e0c5de13581232c62ce49f46b3dadeac97b9969489ceb",
+    "7687534194687298850.json": "5fe6d970db214a88d4eab6fdd70dd595e1463f4adbe16860d879a9e7c0ecf1d4",
+    "7687239746489306387.json": "f675c222a90684c063cf918991efa80827292a58170086666fa1cbac86a8dc1e",
+    "7686850526889250100.json": "b175331c0991f7e14b606935917f295e3b83344a20304a41b03dc18e02e98bf5",
+    "7686745930968477366.json": "e1ee1987343f0f0842647e2768b0236cb6a80982a0ff376b25a9e881b5abd7a6",
+    "7686692805162356031.json": "f1316f572fe4aec5c281c653ad60aebeefa838121218f84a1ceac70751246cde",
+    "7686441181630188835.json": "a9fafa960350143a220efeb28c58291b26c32279357c2a9435da37fe4dc165b9",
+    "7686309311190529606.json": "ed0b1c2d348c668101ad1e7a728a151888abd1bdd45f266599a7d64a25c06b3b",
+    "7686070702931266868.json": "127621f35eb9e6134d88eac0036d59249a00b925b6b783d19a98b98872a5dd2b",
+    "7686014045367425670.json": "03907a125838aedda5ecb27804dd8c282f08a1f910a345662dbdc548482e7228",
+    "7685962356567887144.json": "11b9ae486db445d5106128cf851d5706feaa94a13cd1ba9b14c3e74ecb0cb04e",
+    "7685714153524235546.json": "bd0f4edf27440c0851200b1800986227c2980054d2ab9aef2f449bb2de729845",
+    "7685669191277481256.json": "d8e7db304a31de292d8bfc25e29bf3b1c4f10b4bababcc98187444e7d78a351d",
+    "7685572532543573299.json": "55335003c7e5a7fc6afe8445be9deca15b6ff5bbc1b5b7ef62fd8f857d092219",
+    "7685345624501341450.json": "7d4cb8b46cfdf956b79e4a90890aff44342d482a08fafedb04a636caf72ac706",
+    "7685208816660598058.json": "79a35d98e6e61b049731f270f870f5d9ade189ce423fa19a5e4ab84c617129f6",
+    "7684840602518115178.json": "6af44e7f386c6bdeba6c681e5d31b1636f261975a787016262277ccf42100fd5",
+    "7684439889685208804.json": "300400b03bf14a8dc7f4f99ff399cc0c46c3b664fc90a4148def9d87daa0c3ab",
+    "7684240141921176867.json": "6411ac449184d5a981a9c4f3a325db6aa589b77c5cfd63ec949a2aa076459bd4",
+    "7683880876379327794.json": "916d8d9ad236a226cf56581487ba8d9f21750745f5f1bef97f32557f5eb46ed6",
+    "7683521744971386162.json": "67dd36addcf240d7f700e24398c96a99cbb185ce1e87e9079f898092c84b0b26",
+    "7683503723879992627.json": "059c91caa82d0492b4a5168df9f06c6996260ec4d1ce4473ddc1fa265218a0d0",
+    "7683113247599316270.json": "2b0d87ca6240f832d2486ecba7b13a57aa550e9f1ae964e752a6137af70e70b5",
+    "7682792805332307263.json": "0a4a3cbf81d22e6961c9c381819747af640f45b9f203ff59f3518bc4080c17cd",
+    "7682695133279587599.json": "24a5ccf5d40b583a7634ce424895b821d3e0bec71cfea98e050f9905a1335902",
+    "7682371816567934258.json": "1ecaac4cd4c5150f0388a90aad869966a88c908d090445d2253f327a48678359",
+    "7681645926603132196.json": "fd615938e86917495b67867bb078df88d1a130e10730e438fb652fad07e45e6e",
+    "7681523820720557348.json": "474abaa3746bd09eaf3ea0e2e78ef9e01509b3dac9bdffb44ae7a81c806b7bbd",
+    "7681257195341712649.json": "f360abe710e528773d47ee35911ebfac6ff8f2128e5820638715a232ff0ecff5",
+    "7681197747399036212.json": "7b414a67c5f8f90769d753763cdfe7a082bfd3ecbd615c7b9a2e79f864c0ca88",
+    "7681139251991432458.json": "e16b2e5b26dabc2482340ce4199c4937f549caa132583bd50800c06dd32f3da4",
+    "7680886599344753946.json": "a638f134ca81c723f23652058438e849848ad54bc4fa6876913554c5caeef9be",
+    "7680768877013388607.json": "6bc66f0825b19038f129b867b5f247576f2d97adc07e8ab9f5025a0fe454b499",
+    "7680109631389076742.json": "d7000eb61632a9d959801a5aed1edfe91e6b23932252503abf732c9a4351daf0",
+    "7679653796082961683.json": "30df6e37fab035a27fe4768e4a9e2e347871433f0841740e5f568f6d3041644f",
+    "7679452855736077608.json": "1256478b8504774757a1a8b4434dbafcf700c3d76b376d8dcbd8d48a02e6cd3e",
+    "7679368268352878326.json": "8ddbcab31fe20dbfd83de10c8beacbaa262bd46e2fac4b1f620d11947d0c5a08",
+    "7679258383433633030.json": "8ab047f7fe3d7f721e848d0aa489660228427c8c0c9bc8e81e67a7c09525894d",
+    "7678930348234902794.json": "5a0844a4ae099cfd217ba4a5001a25ec4f0ad0a190476e2dc9600da64267e040",
+    "7678704724438256896.json": "35d722400229a0b71493058f64673fcf0425485368046a42984caf84b5ac85e7",
+    "7678237477643078962.json": "f17803395a599ec16288e84ce884e12cc6346e4f32f9715c5cb82f30f15ccf76",
+    "7678174755769371910.json": "5af72535aeef2873648481aaee69aea16ed7fc1962f8ecf1d244b087ed75f01b",
+    "7677910834378558735.json": "e7205fda09bccf18d1095b69ceb0442dc5d5630e1ceadf2ba7964d83c4b8bbd9",
+    "7677822229240892687.json": "6812388760f05d4353188c034a2f7a89b85137ccd5f56d64e307072dd27e5bca",
+    "7677523760106310964.json": "63502e2c0c46ab42bdcdd3353592ff7ca8b3fbe5a006cc8e8db57096a7f4505b",
+    "7677434508861558051.json": "cf748b686938ba816865f6e1c6e1bf59e245d06c0874919111ef39934ab56766",
+    "7676843836701822262.json": "44660260989d2b6e2be4625c8fdddc0770b6f259af1d22e0f36ea6856ebb3daf",
+    "7676744510595943715.json": "fa60f4ad1986187e07533e57747c948dd495f3bc663ecc08228e4aeaf15c0f0b",
+    "7676424167754927403.json": "772d43f9f1cefec70c3752411ab94bf9160ec86515efa821006947c1c74f8df2",
+    "7676323646935256363.json": "f1d1787c939f44fd47491b80fce47b7b873e0bf6de55c9a6a980d54c405b2395",
+    "7676048636429618451.json": "75fde8bfc93c06c8f9b25de5eb879e5c992aed9bfceba7ac1cdbc5dc01b7c608",
+    "7676001658517671219.json": "ff80bcdcdc50505a580de48baf076e126f7574df948a6a9448d625362f574c02",
+    "7675996347140459803.json": "edd5d104fea76abfec6fcfd4e5e504956c8b476609cac6f51197e0d2f433a24f",
+    "7675939653521886514.json": "8ee3f21d58e16ff738519cfcf2c55a3bf9714c93ffb7a6683392e050531c0bc1",
+    "7675724514260569394.json": "935be9e1857e4cd869fbc937d19cd5f21b363b936e21e32baa5e0af408445ccd",
+    "7675570642678320411.json": "cff60259047a33d75e2d5ead5094f931281d985a298398080e8bd4d58af93a94",
+    "7675310982968708362.json": "4317a046cba29b94cf052ea247eb944508e62cc1227d0ed305e9d5fd28e7fb80",
+    "7675226000476671242.json": "ae556b2bd5a628dd00e141402251d082ef29ea557c1cf8452bbd7ed43d732b8f",
+    "7674911134691888427.json": "df01142b28a76d6176e303e86c5c5aabc606555c96c5fa604c9469af18edf278",
+    "7674569914081955087.json": "17179b23a0e898bddd68528c055137ffaa47f66944f01199f0f23283bdc4f21f",
+    "7674197617156361482.json": "995ee832c21548b72cc4576aa5aa337728033388873e7531305dcb43f20f2282",
+    "7673886190415695123.json": "614e91f7b0a1b531f5bcd682b78e606c3885ab84c42e96e081fd99cacf4380cb",
+    "7673435719859227930.json": "efa9c2a4723e7483f9e95623c13a9654c65820593c9eb3df887035ea14be2e78",
+    "7673090330656329010.json": "88a9a3b0ffc5016496181f7f1a6484cf2e596a0a1587ce3485d974945f258428",
+    "7672719701323107627.json": "a979f49d67e430036988f754a5b2ef8278031c2bc1850c29f38e77ee70b76bce",
+    "7670490298132270345.json": "7dd1943824a88b151a42a8c072f0777bf6c12acbea622b8b77893ac2705be39c",
+    "7670162029197495587.json": "96339b6ffe8071ad38094c9e830b15907d65c686f87c7bfb62b795d98ccf9642",
+    "7669649892721118527.json": "1f879525478dc2c101948c5a403b1ca860943f743c0726b23ed6b27431897983",
+    "7668678859088317722.json": "d9c64ebab2cbee77d6fb3e66fd3bdf62a4eca033872f56f7d44b2c9990dd33f2",
+    "7668540916386368774.json": "b4bb60a7ffeeb05a307c2ded5bbb716eb3f1d2ffb016f2b6dfb419c3971753a3",
+    "7668290575434517786.json": "38374b0bc93864e889f6a1f6a29e0faeb9f05ade3391b0023a4e889ff4297966",
+    "7668148376566861075.json": "22706c40c4668e9b58b8ade868208527201d174211fe6f4f7dec3496e76d2879",
+    "7667509624911793414.json": "2d8d70c8c3fe3882c52a2ea92207646312de1af3e694ff83cb15b901016a1560",
+    "7666735846296489256.json": "b6728757cb27ebcadab967e5f4845b555284bd4beff7c77864058a3e23a6d406",
+    "7666480603818167595.json": "8df4d3d91a1215c112878edb4c2b1172164c9fdfeb48dd427eb184e9ad9dfd46",
+    "7666293800175783203.json": "e53027c2370ba2d5c845ab8724ffe377abb1db3adad05b5c190910c2224613a7",
+    "7665968462593821967.json": "e4b61779ee96809636282c5ee02b1d46162c1a8f8724ebbdc05ae01ac56d13b3",
+    "7665876654379552027.json": "d108d72b883d9c96957b6ef8f18c86ece2a4fc083fe0cabcdfed0cb1cf21ecd3",
+    "7665576485561830719.json": "35f75d64dc0f115af9262d3525f853c2a15e3b509373d5e7ae32cb3fc883736a",
+    "7665327710025174314.json": "b70ebf885f943ba0cf16f93d47eb9c3b711a1ee4f2a9f0fb90e333ee77d4738b",
+    "7664953922959822116.json": "72c8f2791354e115ac88b3e7379a26cef82730ac21fae66784fee9c5cc3b3381"
+  },
+  "changes": [
+    {
+      "homepageIndex": 0,
+      "video_url": "https://www.douyin.com/video/7435150094028082466",
+      "reason": "依据52、54、56、68秒实际字幕；提取可见字幕，不补未显示的口语。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 2,
+      "video_url": "https://www.douyin.com/video/7675191649554763050",
+      "reason": "15秒实际字幕确认“迪相老安”，旧名依据原发布标题“迪相财经”修正。其余识别文字未逐字听校。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 6,
+      "video_url": "https://www.douyin.com/video/7690891035374931241",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": false
+    },
+    {
+      "homepageIndex": 7,
+      "video_url": "https://www.douyin.com/video/7690540671828053289",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": false
+    },
+    {
+      "homepageIndex": 8,
+      "video_url": "https://www.douyin.com/video/7690413804567481609",
+      "reason": "已排除背景歌词，提取主标题；画面中的部分装饰文字较小，未宣称全部提取。每15秒采样覆盖全片。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 9,
+      "video_url": "https://www.douyin.com/video/7690178257588718899",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 10,
+      "video_url": "https://www.douyin.com/video/7689821845633125678",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 11,
+      "video_url": "https://www.douyin.com/video/7689310116499658102",
+      "reason": "原音频为中秋祝福，与菜园画面正文不同，改取画面文字。个别艺术字体无法确定，使用缺字标记，保留原片不自然句式。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 12,
+      "video_url": "https://www.douyin.com/video/7689307900795486628",
+      "reason": "全片每2秒采样，实际画面6秒确认文字；排除背景歌曲。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 13,
+      "video_url": "https://www.douyin.com/video/7688957943311535396",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": false
+    },
+    {
+      "homepageIndex": 14,
+      "video_url": "https://www.douyin.com/video/7688932834652361067",
+      "reason": "全片每2秒采样，未发现正文字幕；原识别为背景歌词或无意义的“嗯”，不作为作者文案。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 53,
+      "video_url": "https://www.douyin.com/video/7679368268352878326",
+      "reason": "全片每2秒采样，未发现正文字幕；原识别为背景歌词或无意义的“嗯”，不作为作者文案。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 59,
+      "video_url": "https://www.douyin.com/video/7677910834378558735",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 65,
+      "video_url": "https://www.douyin.com/video/7676424167754927403",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 68,
+      "video_url": "https://www.douyin.com/video/7676001658517671219",
+      "reason": "全片每2秒采样，20秒字幕确认“惟余正道是长谋”；16秒原片写“无铁卷”，保留该原片写法，不改为“铁券”。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 71,
+      "video_url": "https://www.douyin.com/video/7675724514260569394",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 82,
+      "video_url": "https://www.douyin.com/video/7672348268407344430",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": false
+    },
+    {
+      "homepageIndex": 85,
+      "video_url": "https://www.douyin.com/video/7669649892721118527",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 88,
+      "video_url": "https://www.douyin.com/video/7668290575434517786",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": true
+    },
+    {
+      "homepageIndex": 90,
+      "video_url": "https://www.douyin.com/video/7667898652911832370",
+      "reason": "用户明确放弃付费或会员视频；不交付已有试看文字，不继续抽帧或转写。",
+      "raw_preserved": false
+    },
+    {
+      "homepageIndex": 97,
+      "video_url": "https://www.douyin.com/video/7665576485561830719",
+      "reason": "全片每2秒采样；依据0、2秒实际文字卡片。排除背景歌曲及同步歌词，不冒充口播。",
+      "raw_preserved": true
+    }
+  ],
+  "frame_coverage": [
+    {
+      "homepageIndex": 0,
+      "video_url": "https://www.douyin.com/video/7435150094028082466",
+      "duration": 72.981,
+      "interval": 2,
+      "frame_count": 37,
+      "truncated": false,
+      "last_sample": 72
+    },
+    {
+      "homepageIndex": 1,
+      "video_url": "https://www.douyin.com/video/7428415400930446633",
+      "duration": 291.619977,
+      "interval": 15,
+      "frame_count": 20,
+      "truncated": false,
+      "last_sample": 285
+    },
+    {
+      "homepageIndex": 2,
+      "video_url": "https://www.douyin.com/video/7675191649554763050",
+      "duration": 107.667,
+      "interval": 15,
+      "frame_count": 8,
+      "truncated": false,
+      "last_sample": 105
+    },
+    {
+      "homepageIndex": 8,
+      "video_url": "https://www.douyin.com/video/7690413804567481609",
+      "duration": 593.9,
+      "interval": 15,
+      "frame_count": 40,
+      "truncated": false,
+      "last_sample": 585
+    },
+    {
+      "homepageIndex": 11,
+      "video_url": "https://www.douyin.com/video/7689310116499658102",
+      "duration": 25.982993,
+      "interval": 2,
+      "frame_count": 13,
+      "truncated": false,
+      "last_sample": 24
+    },
+    {
+      "homepageIndex": 12,
+      "video_url": "https://www.douyin.com/video/7689307900795486628",
+      "duration": 14.066667,
+      "interval": 2,
+      "frame_count": 8,
+      "truncated": false,
+      "last_sample": 14
+    },
+    {
+      "homepageIndex": 14,
+      "video_url": "https://www.douyin.com/video/7688932834652361067",
+      "duration": 15.433333,
+      "interval": 2,
+      "frame_count": 8,
+      "truncated": false,
+      "last_sample": 14
+    },
+    {
+      "homepageIndex": 21,
+      "video_url": "https://www.douyin.com/video/7686745930968477366",
+      "duration": 166.334,
+      "interval": 15,
+      "frame_count": 3,
+      "truncated": false,
+      "last_sample": 30
+    },
+    {
+      "homepageIndex": 47,
+      "video_url": "https://www.douyin.com/video/7681139251991432458",
+      "duration": 346.489,
+      "interval": 15,
+      "frame_count": 14,
+      "truncated": false,
+      "last_sample": 195
+    },
+    {
+      "homepageIndex": 53,
+      "video_url": "https://www.douyin.com/video/7679368268352878326",
+      "duration": 28.9,
+      "interval": 2,
+      "frame_count": 15,
+      "truncated": false,
+      "last_sample": 28
+    },
+    {
+      "homepageIndex": 68,
+      "video_url": "https://www.douyin.com/video/7676001658517671219",
+      "duration": 21.71,
+      "interval": 2,
+      "frame_count": 11,
+      "truncated": false,
+      "last_sample": 20
+    },
+    {
+      "homepageIndex": 97,
+      "video_url": "https://www.douyin.com/video/7665576485561830719",
+      "duration": 58.366667,
+      "interval": 2,
+      "frame_count": 30,
+      "truncated": false,
+      "last_sample": 58
+    }
+  ],
+  "unresolved": {
+    "1": "逐条阅读发现“北加五零”“艾草”等词疑似误识别，已采样画面但未确认这些词，保留识别稿。原片165秒字幕也写“富二代”，不凭常识替换。",
+    "8": "已排除背景歌词，提取主标题；画面中的部分装饰文字较小，未宣称全部提取。每15秒采样覆盖全片。",
+    "11": "原音频为中秋祝福，与菜园画面正文不同，改取画面文字。个别艺术字体无法确定，使用缺字标记，保留原片不自然句式。",
+    "23": "末段“无子弟”疑似误识别，保留原文，尚未确认实际原话。",
+    "47": "末段“构成任何投资建议”疑似漏否定词。复核页面采样未完成，保留原文，未自动补“不”。",
+    "48": "开头“两亿以内”的成交量单位疑似漏字。复核页面加载超时，保留识别稿，未凭常识改数字。",
+    "49": "“京落／经络”等词疑似术语误识别，未取得确认画面，保留原文。",
+    "83": "玄幻修炼比喻中的专业名词多处疑似误识别，未确认原片，不凭推测替换。",
+    "94": "家庭记录包含亲子对话、导航提示等不同声音，部分口语不清；保留多人记录，不能视为作者独白。"
+  },
+  "process_changes": {
+    "homepage_initial_wait": "首次导航和单次刷新后均执行等待；正常主页实测采集恢复。",
+    "paid_preview_guard": "识别播放器付费/会员、试看倒计时和购买控件组合；真实会员页面拦截，公开页面正常。",
+    "tests": "33项JavaScript测试、20项Python测试及语法检查通过。"
+  }
+}

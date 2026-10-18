@@ -1,0 +1,27 @@
+{
+  "text": "你有没有发现一个特别诡异的现象？你手里有一只票，亏了百分之二十，你纹丝不动，心里想反正没卖，就不算亏，放着呗。结果跌到了百分之四十，你直接装死了，连账户都不再打开了。但反过来呢，有一只票赚了百分之十，你心里就开始痒了，差不多了吧，别一会儿又跌回去了。赚了百分之二十，你基本就卖了，卖完看着它继续涨，拍断了大腿。其实人性啊就两个字，怕亏更怕少赚。亏钱的时候呢，你特别能扛，因为你不甘心呐，心理学上这叫损失厌恶，亏一百块钱的痛苦比赚一百块钱的快乐要强烈两倍，所以你死扛，这叫逃避。赚钱的时候呢，你特别怕它跌回去，大脑会告诉你落袋为安，你以为这是理智，其实是恐惧，你怕到手的鸭子飞了，所以你跑得比谁都快，这叫贪婪和恐惧一起来，赚了想保住，亏了想逃避，结果永远是小赚大亏。那真正赚钱的人是怎么做的呢？反过来啊，他们亏的时候不扛，设好止损线，到了就走，不跟市场较劲，他们赚的时候反而能拿得住，让利润奔跑，让子弹再飞一会儿，直到这个趋势结束了。说白了，输不起的人永远赢不大。你想想，你是不是那个一亏就死扛，一赚就跑路的人？咱们评论区聊聊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1074899,
+  "timings": {
+    "chunks_wall_seconds": 5.014612249999118,
+    "encode_seconds_sum": 0.3598168339995027,
+    "request_seconds_sum": 4.037622957999702,
+    "decode_seconds": 0.47246058299970173,
+    "download_seconds": 1.098
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 100.6599375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7661456824587282310",
+  "title": "亏钱硬扛赚钱手痒，这个毛病要改#理财观念普及 #股民交流 #投资 #认知提升 #理财技巧",
+  "video_url": "https://www.douyin.com/video/7661456824587282310",
+  "source_duration": 100.667,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7661456824587282310: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

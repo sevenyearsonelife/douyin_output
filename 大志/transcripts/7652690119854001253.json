@@ -1,0 +1,27 @@
+{
+  "text": "我看到很多人都在争论是老灯股好还是小灯股好。其实这个话题永远也争论不明白，因为争论的双方就不在一个频道上，本质就不是什么股好的问题，本质是价值观的问题。你到股市里来是来投资的还是来投机的？如果是来投机的，那想买什么买什么，反正大多数人都在投机，谁也猜不到涨跌，赌运气呗。如果是来投资的，那很简单，假如从明天开始股市关门了，不管谁手里的股票都只能拿着，不能卖给下一个接盘侠。那在这种情况下，你愿意持有什么股票呢？老灯还是小灯？心中有答案了吧？",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 426323,
+  "timings": {
+    "chunks_wall_seconds": 7.477829499985091,
+    "encode_seconds_sum": 0.2155446249525994,
+    "request_seconds_sum": 6.761194542050362,
+    "decode_seconds": 0.5642012079479173,
+    "download_seconds": 4.776
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 39.8700625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7652690119854001253",
+  "title": "老登好还是小登好 #股票 #股民 #股市 #大盘 #价值投资",
+  "video_url": "https://www.douyin.com/video/7652690119854001253",
+  "source_duration": 39.9,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7652690119854001253: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

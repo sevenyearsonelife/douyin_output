@@ -1,0 +1,128 @@
+{
+  "video_url": "https://www.douyin.com/video/7484498624831933733",
+  "duration": 726.552993,
+  "interval": 25,
+  "truncated": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 25,
+      "file": "00025.00.png"
+    },
+    {
+      "time": 50,
+      "file": "00050.00.png"
+    },
+    {
+      "time": 75,
+      "file": "00075.00.png"
+    },
+    {
+      "time": 100,
+      "file": "00100.00.png"
+    },
+    {
+      "time": 125,
+      "file": "00125.00.png"
+    },
+    {
+      "time": 150,
+      "file": "00150.00.png"
+    },
+    {
+      "time": 175,
+      "file": "00175.00.png"
+    },
+    {
+      "time": 200,
+      "file": "00200.00.png"
+    },
+    {
+      "time": 225,
+      "file": "00225.00.png"
+    },
+    {
+      "time": 250,
+      "file": "00250.00.png"
+    },
+    {
+      "time": 275,
+      "file": "00275.00.png"
+    },
+    {
+      "time": 300,
+      "file": "00300.00.png"
+    },
+    {
+      "time": 325,
+      "file": "00325.00.png"
+    },
+    {
+      "time": 350,
+      "file": "00350.00.png"
+    },
+    {
+      "time": 375,
+      "file": "00375.00.png"
+    },
+    {
+      "time": 400,
+      "file": "00400.00.png"
+    },
+    {
+      "time": 425,
+      "file": "00425.00.png"
+    },
+    {
+      "time": 450,
+      "file": "00450.00.png"
+    },
+    {
+      "time": 475,
+      "file": "00475.00.png"
+    },
+    {
+      "time": 500,
+      "file": "00500.00.png"
+    },
+    {
+      "time": 525,
+      "file": "00525.00.png"
+    },
+    {
+      "time": 550,
+      "file": "00550.00.png"
+    },
+    {
+      "time": 575,
+      "file": "00575.00.png"
+    },
+    {
+      "time": 600,
+      "file": "00600.00.png"
+    },
+    {
+      "time": 625,
+      "file": "00625.00.png"
+    },
+    {
+      "time": 650,
+      "file": "00650.00.png"
+    },
+    {
+      "time": 675,
+      "file": "00675.00.png"
+    },
+    {
+      "time": 700,
+      "file": "00700.00.png"
+    },
+    {
+      "time": 725,
+      "file": "00725.00.png"
+    }
+  ]
+}

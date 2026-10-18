@@ -1,0 +1,28 @@
+{
+  "text": "美丽的泡沫，虽然一刹花火，你所有承诺，虽然都太脆弱。爱本是泡沫，如果能够看破，有什么难过？美丽的泡沫，虽然一刹花火，你所有承诺，虽然都太脆弱。爱本是泡沫，如果能够看破，有什么难过？美丽的泡沫。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 614483,
+  "timings": {
+    "chunks_wall_seconds": 2.661221666,
+    "encode_seconds_sum": 0.16700645800000002,
+    "request_seconds_sum": 2.485006125,
+    "decode_seconds": 0.12472433300000002,
+    "download_seconds": 8.415
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 57.5158125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7690499149381130486",
+  "title": "美联储加息股市暴跌虽然不认可，但必须保持同步周边板块需要收拢 前面听进去的已经跑了，没跑的，大部分跌幅已经硬抗了，就没所谓了，希望大家都好，晚上美股也不一定好过，相关技术指标开始开口，大家注意安全，留有一到两成现金，谨慎看多，我水一期，发其他账户截图的会不过绅，没所谓了，反正意思到了就行，如果转回加息周期，只有盈利收益率高的才能抗住，暂时美股性价比更高一点，#黄金 #原油#原油 #大宗商品#纳斯达克 ",
+  "video_url": "https://www.douyin.com/video/7690499149381130486",
+  "source_duration": 57.516,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7690499149381130486: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

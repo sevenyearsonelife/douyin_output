@@ -1,0 +1,31 @@
+{
+  "text": "为什么现在很多朋友都感觉这个开球网的比赛越来越难打了？可能说原来一千七的水平现在已经掉到一千六了，原来一千六百多现在掉到一千五了。不是说你的水平下降了，而是整体的水平提高了。我们说业余高手总体来讲它可以分两种类型，就是第一种是发球抢攻型的，这种都是发球比较好，抢攻比较好的。那么第二种它是属于偏稳定型的，就是他打的都是一些中性球，就稳定性特别高，这个球呢质量不低，它也不高，就是稳定性特别强。我们说的铁搓档从本质上来讲它是属于第二种，它是属于稳定型的选手。那么现在业余打球有一个什么趋势呢？就是越来越正规化。我们说在低分段，比如说一千四五这个分段，充斥着大量的基本功不错的这种业余爱好者，他们的正反手的这种框架都是不错的。啊，如果说对方的这个球路能够对上他这个点的话，他打起来就非常猛，你看起来根本就不像一千四五这个分段。但是一旦他碰上对不上点的，可能会输的非常惨。那么这种人他碰到第一种就是发球抢攻型的，实际上他们是不好打的。但是当他们碰到第二种就是打中性球为主的，打稳定为主的人的时候，他们的整体实力就会充分的爆发出来。所以这种打中性球的人他就特别怕这种低分段的基本功好的人，因为一旦对上他的点，对方的这种火力还是很猛的，看起来根本就不像一千四五这个分段。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 812243,
+  "timings": {
+    "chunks_wall_seconds": 3.4741044169999995,
+    "encode_seconds_sum": 0.29851412499999985,
+    "request_seconds_sum": 3.162998667,
+    "decode_seconds": 0.204319708,
+    "download_seconds": 0.88
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 76.04675,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7684137334547254528",
+  "title": "乒乓球业余打法类型 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7684137334547254528",
+  "source_duration": 76.023,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7684137334547254528: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。",
+  "review_notes": "31秒画面明确为“铁搓党”，将ASR“铁搓档”修正为“铁搓党”。",
+  "review_evidence": "_review/7684137334547254528/00031.00.png"
+}

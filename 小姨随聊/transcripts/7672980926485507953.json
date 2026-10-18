@@ -1,0 +1,27 @@
+{
+  "text": "恒生科技指数要搞大事情了，推出了六年以来最大的一次扩容，三十只变成五十只。之前恒生科技被嘲讽说它是外卖指数，完全错过了这一轮的AI科技行情，所以这一波规则调整就是要降低互联网老登们的权重，增加小登的比重。本次规则啊调整十二月份生效，到时候持有恒生科技ETF的不用操作，底层自动调整持仓。新规两个核心调整你记住就行了啊，第一，不只看市值了，以前谁大谁上，现在留出十个名额专门给收入增长快的公司，新增的那十只啊营收增长中位数百分之八十二，老成分股呢只有百分之十三点八，差距肉眼可见。第二就是它覆盖更宽了，科技主题从十六个扩到二十四个，人工智能生成了独立的大主题，还新增了前沿科技，量子计算、脑机接口、航天卫星啊都往里边装了，先进硬件从五只变了成十五只，AI呢从三只变成了六只，权重也更散了，前十占比从百分之七十降到了百分之六十六。现在追踪这个指数的被动资金四百零四亿的美元，折合两千七百二十五亿人民币，这一条呀大资金得跟着重新配。啊总结一下就是恒生科技指数正在从互联网消费指数变成了一个真正的科技宽基，投资逻辑要重写了。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1097555,
+  "timings": {
+    "chunks_wall_seconds": 4.520503875000941,
+    "encode_seconds_sum": 0.2860502080002334,
+    "request_seconds_sum": 3.3156946660001267,
+    "decode_seconds": 0.3600288329998875,
+    "download_seconds": 0.875
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 102.796125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7672980926485507953",
+  "title": "恒科大扩容#股票投资 #恒生科技 #股市行情分析 #股民交流",
+  "video_url": "https://www.douyin.com/video/7672980926485507953",
+  "source_duration": 102.834,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7672980926485507953: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

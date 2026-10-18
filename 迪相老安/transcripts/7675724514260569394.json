@@ -1,0 +1,30 @@
+{
+  "text": "来看看这条留言啊，兄弟们，为什么每次指数大跌的时候，银行股总能逆势翻红呢？首先啊咱得给这位老弟纠正一下哈，银行股可不是每次大跌的时候总能逆势翻红的。我约摸着啊，可能是因为您开户的时间不久，比如说你是不是入市还没有满。\n嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。嗯。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 4583206,
+  "timings": {
+    "chunks_wall_seconds": 4.871637833,
+    "encode_seconds_sum": 0.7687167510000004,
+    "request_seconds_sum": 6.603969001000001,
+    "decode_seconds": 4.309867625000001,
+    "download_seconds": 18.955
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 429.4989375,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7675724514260569394",
+  "title": "银行破净那年，我在想什么？黑暗 4 年的真实持仓 #反思 #持仓经历 #黑暗4年",
+  "video_url": "https://www.douyin.com/video/7675724514260569394",
+  "source_duration": 429.5,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7675724514260569394: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

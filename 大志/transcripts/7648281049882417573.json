@@ -1,0 +1,27 @@
+{
+  "text": "我发现了一件特别神奇的巧事儿。今天是二零二六年六月六日，星期六，连着四个六。据说上次出现这种日期还是一九一六年，相隔整整一百一十年。下一次要等到二一三六年，还要等一百一十年，一辈子只能碰上一回的好日子。但更神奇的是，我突然发现我的粉丝数量也涨到了六万六，昨天还六万五呢，今天刚好涨到六万六。加上这两个六，正好凑成六个六，这是天意吗？嗯。所以今天一定要发个祝福视频，祝大家六六大顺，万事顺心，早日实现财富自由。愿我们都能学习八毛的理念，收获八毛的财富，最后活到八毛的岁数。感谢所有老铁对大志的支持。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 465107,
+  "timings": {
+    "chunks_wall_seconds": 3.6801012080395594,
+    "encode_seconds_sum": 0.2702634159941226,
+    "request_seconds_sum": 3.3311277499888092,
+    "decode_seconds": 0.6204373750369996,
+    "download_seconds": 5.554
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 43.492375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7648281049882417573",
+  "title": "六六大顺日 #大志",
+  "video_url": "https://www.douyin.com/video/7648281049882417573",
+  "source_duration": 43.534,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7648281049882417573: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

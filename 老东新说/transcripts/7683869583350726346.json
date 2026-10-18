@@ -1,0 +1,27 @@
+{
+  "text": "我为什么不买四大行靠吃股息来养老呢？很简单，因为风险太大了。很多人觉得买四大行的股票拿分红，啊，股息率百分之五左右，比国债还高，拿着不动每年收钱，这不就是最理想的养老方案吗？但我的答案是否定的，因为我有两个疑问解决不了。第一个，四大行将来一定很稳吗？万物皆有周期，银行也不例外，银行的分红是从利润里拿出来的，一旦银行的利润下滑，分红随时可能跟着降，甚至归零。二零二六年的上半年，光大银行规模净利润同比大降百分之二十四，不良贷款率还上升了，民生银行的净利润也同比下滑了百分之八点六，将来会不会轮到四大行，谁也说不准。我第二个疑问就是股价会不会降？绝对不能只看股息不看股价，四大行的市净率，工行零点七四倍，建行零点八一，农行零点八五，中行零点七九，全部跌破净资产，这种破净状态本身就是市场对银行未来担忧的定价，账面一元的资产，市场只愿意出价七八毛，那又怎么去支撑股价呢？而且你的养老钱也不能全部砸在单一资产上，如果股价跌百分之二十，你拿着每年百分之五的分红，要四五年才能把本金的亏损补回来，这还没算通胀。所以老东认为，攒股收息这个方式肯定是没问题的，但不能攒股票，因为风险太大。我说的是普通人啊，不包括高手，如果你认为自己是个高手，那你随便。而对于普通人来说，红利 E T F 更合适，股息率又高，行业又分散，风险还小。朋友们，你们觉得呢？咱们评论区聊一聊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1022291,
+  "timings": {
+    "chunks_wall_seconds": 4.157327208,
+    "encode_seconds_sum": 0.26391166600000016,
+    "request_seconds_sum": 3.88048925,
+    "decode_seconds": 0.377612375,
+    "download_seconds": 0.795
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 95.7373125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7683869583350726346",
+  "title": "攒股收息，我为什么不买四大行？#理财 #定投 #投资 #复利 #干货分享",
+  "video_url": "https://www.douyin.com/video/7683869583350726346",
+  "source_duration": 95.713,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

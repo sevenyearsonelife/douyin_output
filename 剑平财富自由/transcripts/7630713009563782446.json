@@ -1,0 +1,29 @@
+{
+  "text": "朋友们，今天这节课咱们要聊一个进阶策略网格交易。如果你经历过 A 股的震荡市，一定有过这种感受。市场涨几天跌几天，来回折腾，账户资金却不见增长。这种行情最折磨人，追涨杀跌容易两面挨打，长期持有又看不到收益。网格交易就是专门应对这种行情的利器。它的核心思想是不预测方向，只赚取波动，跌了就买，涨了就卖，在震荡中不断累积收益。先说一个问题，为什么网格交易最适合用 E T F 来做？第一，E T F 不会退市，网格交易需要频繁买卖，如果你用个股做网格，一旦遇到退市风险，整个策略就崩盘了。而 E T F 是指数基金，永远不会退市，你可以放心的。\n嗯。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 5082022,
+  "timings": {
+    "chunks_wall_seconds": 7.341369792,
+    "encode_seconds_sum": 0.6919421240000001,
+    "request_seconds_sum": 12.1371855,
+    "decode_seconds": 0.9643695,
+    "download_seconds": 1.768
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 476.24125,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7630713009563782446",
+  "title": "第14课：网格交易 震荡市的自动赚钱机器",
+  "video_url": "https://www.douyin.com/video/7630713009563782446",
+  "source_duration": 476.265,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7630713009563782446: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

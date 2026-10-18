@@ -1,0 +1,27 @@
+{
+  "text": "最近评论区太多求带的，我就想问你一句话啊，你是想学投资呢，还是只想要代码？你是想学捕鱼，还是只想让我把鱼烤好了塞你嘴里？买卖点技巧这些啊，咱们都能掰开了讲，但真正到动手那一下得你亲自来。要是只想闭着眼抄答案，那你走错门了，隔壁作业帮老师排着队等呢。我这儿画风不一样啊，进门先交的不是学费，是脑子。不好意思，在我这儿混得带脑子上课，咱这是财商课，投资课。你想瘦，我能教你怎么练，你想躺瘦，出门右转买减肥药。最后借用网友的一句话，一天亏没了三千块，肉疼的呀，不如买排骨吃，没毛病吧，就这理儿。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 552275,
+  "timings": {
+    "chunks_wall_seconds": 3.0029632089990628,
+    "encode_seconds_sum": 0.19017441699907067,
+    "request_seconds_sum": 2.403269124999497,
+    "decode_seconds": 0.15964520800116588,
+    "download_seconds": 6.255
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 51.6658125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7654554757319260773",
+  "title": "学投资和拿代码是选择了两条不同的赛道#新手学股票 #理财知识 #投资 #股民交流学习",
+  "video_url": "https://www.douyin.com/video/7654554757319260773",
+  "source_duration": 51.7,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7654554757319260773: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

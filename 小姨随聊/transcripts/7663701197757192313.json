@@ -1,0 +1,27 @@
+{
+  "text": "市场连续下挫，让不少投资者呢陷入了恐慌。但市场它从来不是单边运行的，越是在情绪极端的时候呢，越容易孕育新的转机。恐惧释放之后，资金会寻找新的机会，调整结束之后呢，趋势也可能重新开启。这一次反弹的号角是否已经临近？保持关注，我们保持冷静。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 259283,
+  "timings": {
+    "chunks_wall_seconds": 1.2624614579999616,
+    "encode_seconds_sum": 0.10734758399848943,
+    "request_seconds_sum": 1.0998298329996032,
+    "decode_seconds": 0.1860615420009708,
+    "download_seconds": 2.507
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 24.2198125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7663701197757192313",
+  "title": "大跌之后保持冷静，反弹一触即发#股市分析 #股民日常分享 #反弹信号 #投资",
+  "video_url": "https://www.douyin.com/video/7663701197757192313",
+  "source_duration": 24.2,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7663701197757192313: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

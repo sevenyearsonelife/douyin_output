@@ -1,0 +1,27 @@
+{
+  "text": "套系统称为一个特点吧，叫 event driven，它是事件驱动的。嗯啊，就比如说它会首先它会主动 monitor 事件，嗯，其次它会根据事件去做出反馈，有点像 hedge fund，对吧？比如说哪里地震了，哪里火山爆发了，嗯，它会影响当地的股价，嗯，对吧？呃，但以前这套能力其实只存在于 hedge fund，嗯，对吧？为什么普通人的公司不能有拥有这套能力？嗯，对吧？我可以举个例子啊，比如说呃我们之前在做我们 to C 产品的时候啊，也有这么一个贯彻的概念啊，就是呃有套系统它可以每天去了解市场上发生什么事情，比如说今天 Microsoft layoff 了五千人，嗯，我们的系统会自动出一个 landing page，然后呢去 target 这五千人，然后告诉他哎我们有套职业发展平台可以帮助你，啊，你不用担心被 layoff，我们会去帮助你找到下一份工作。嗯，啊这一套就是全自动，OK，依靠 event driven marketing system，然后这个也是在我们的这个数字员工 offer 里面的。你会看到很多大企业它非常需要这套东西，为什么呢？因为它需要了解，呃，它需要及时的应对市场发生的变化。啊，这个市场其实在实时发生变化的，非常有意思的一点就是比如说在打仗的那一天啊，就是那个那个呃以色列呃打伊朗的第一天，嗯，全球所有的这个呃 CAG 都往上飙了大约三十 percent，所有平台，所有平台，因为大家 anticipate 这个未来的这个成本会越来越高，所以它的 bidding 都变高了，那简单来说是这样，但是实际上有更多呃其他的原因啊导致的。OK，对，就有点像石油价格马上就往上，就他认为就是通胀会大涨，所以那我的 CAC 也会应该要相应的调整。对，OK，在那一瞬间，其实这种企业比如说他们用了很多系统，非常牛逼的系统，像是 smartly 啊这些平台，嗯，都是什么几百万美金一年的订阅费用，对，啊去去做这种呃 marketing 的 optimization，也不知道能不能省几百万美金啊，对，啊没有大企业肯定可以的，但对于小一点的公司来说，有可能他们其实没有这种 real time processing 的，他所碰到的信息可能是这个世界已经发生了好好久以后才传出来的信息，明白对吧？就有点像呃他们说三番呃叫什么 frontier lab 比三番的普通的 engineer 啊看到的东西啊早两到三个月的时间，嗯，然后三番的人比呃市场上其他的人又再早两到三个月的时间，然后市场上的这些呃 AI 行业的人再对比普通人又要早个半年的时间，嗯，所以它之间的这个鸿沟其实非常非常大。啊，感觉我活在二零二六年，就是别人都活在二零二七年。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1755347,
+  "timings": {
+    "chunks_wall_seconds": 9.053016792,
+    "encode_seconds_sum": 1.133277583,
+    "request_seconds_sum": 7.886500667,
+    "decode_seconds": 0.39332079200000003,
+    "download_seconds": 1.773
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 164.481,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7661185555140463915",
+  "title": "开战当天，全球广告成本暴涨30% 以色列打伊朗第一天，全球 CAC 应声涨 30%。 Microsoft 裁员 5000 人，系统自动生成页面去接这 5000 人。 event driven marketing，就是营销界的对冲基金。#AI应用 #AI #大模型 #科技投资 \n",
+  "video_url": "https://www.douyin.com/video/7661185555140463915",
+  "source_duration": 164.48,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7661185555140463915: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

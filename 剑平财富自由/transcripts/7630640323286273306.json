@@ -1,0 +1,29 @@
+{
+  "text": "这一课我们来聊聊实操，怎么买 E T F。买 E T F 有两个渠道，场内和场外，这两个渠道有什么区别，哪个更划算？这一课给你讲清楚。首先，什么是场内 E T F？场内 E T F 就是在证券交易所上市交易的 E T F，你需要有一个证券账户，也就是股票账户，像买卖股票一样买卖 E T F。那场内 E T F 有什么特点呢？一，实时交易。场内 E T F 可以像股票一样实时交易，开盘时间内你可以随时下单，价格实时成交。比如你看到沪深三零零 E T F 当前价格是三点五零零元，你觉得便宜了，马上就能买入，成交价就是三点五零零元。二，费用更低。场内 E T F 的交易费用主要。\n嗯。\n我今天早上吃了一碗粥。",
+  "chunks": 3,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 5711865,
+  "timings": {
+    "chunks_wall_seconds": 5.0039549160000005,
+    "encode_seconds_sum": 0.9632166249999999,
+    "request_seconds_sum": 9.039570749000001,
+    "decode_seconds": 0.612706334,
+    "download_seconds": 1.863
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 535.19675,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7630640323286273306",
+  "title": "第3课：场内VS场外，怎么买ETF最划算？ 买ETF有两个渠道：场内和场外。#ETF",
+  "video_url": "https://www.douyin.com/video/7630640323286273306",
+  "source_duration": 535.221,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7630640323286273306: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

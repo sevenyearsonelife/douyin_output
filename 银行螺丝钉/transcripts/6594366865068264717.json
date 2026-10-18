@@ -1,0 +1,20 @@
+{
+  "text": "在这个社会上，长期保持高收益率是一件非常困难的事情。超过百分之十的收益率，我们就需要承担一定的风险。超过百分之二十的收益率，风险呢就已经非常大了。所以天底下没有免费的午餐，我们在看重收益的同时，一定要小心谨慎的调查清楚，这个投资品种它的风险究竟在哪里，如果出现了对应的风险，对我们的影响有多大。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 323411,
+  "timings": {
+    "chunks_wall_seconds": 3.0261617499636486,
+    "encode_seconds_sum": 0.13149958394933492,
+    "request_seconds_sum": 2.8932763340417296,
+    "decode_seconds": 0.14406433305703104
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 30.232375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "6594366865068264717",
+  "video_url": "https://www.douyin.com/video/6594366865068264717",
+  "source_duration": 30.3
+}

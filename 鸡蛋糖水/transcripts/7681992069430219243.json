@@ -1,0 +1,28 @@
+{
+  "text": "像王老吉跟那个加多宝干架，何其正先没了，啊，就是这个情况。也包括印度嘛，印度这几天那个法师又出来说那个不要买金，不要到外面消费。啊哈哈，我们的利率还是贵的，所以这个也是我们的那个升值的其中一部分的原因，我们的钱还是贵的。呃，因为我们的通胀低啊，虽然名义利率上我们是一点几，呃，老美是三点几嘛。但是CPI，CPI不一样啊，美国的CPI也三点几啊，所以经过通缩调整之后，呃，我们的那个实际上利率就是减去那个通，呃，那个通胀，减去那个通胀之后，我们那个还是贵，我们应该是零点九还是零点七，啊，但是老美那边只有零点三左右，就实呃实际那个利率，所以它要降也降不去哪里，涨它的那个那个那那那个国国债受不了啊，因为它要还债嘛，所以涨也涨不起来，降它也降不了多少，因为它的那个实际利率已经只有零点几了。啊，啊，虽然零点几，但是还是比我们那个便宜，我们的那个零点九快接近一个点，就是如果按那个七天逆回购来算的话，七天逆回购只有一呃一点多啊，一点多减去那个通胀零点零零点五，那算下来就还剩零点九嘛，就但是零点九也比老美的钱要贵。啊，所以这可能也是我们那个汇率升值的其中一部分原因。但这个，但主要的还是我们的那个那个顺差了，贸易顺差，尤其是美元升值了之后，呃，就是那个利息涨，那个收益率涨了之后，其他的基本上都不行了。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1160915,
+  "timings": {
+    "chunks_wall_seconds": 5.202865375,
+    "encode_seconds_sum": 0.2891077919999999,
+    "request_seconds_sum": 4.8977724170000005,
+    "decode_seconds": 0.21776737499999999,
+    "download_seconds": 0.85
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 108.7404375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7681992069430219243",
+  "title": "美实际利率中上位置是否有降息预期? 美方名义利率处于4-5%高位，但实际利率与自身历史对比并不低，历史上美方多次进入负利率时代，展望议息会议，维持不变的可能性在增加#美联储 #纳斯达克 #逆回购 #科创50 #美债收益率 ",
+  "video_url": "https://www.douyin.com/video/7681992069430219243",
+  "source_duration": 108.716,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7681992069430219243: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

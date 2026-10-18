@@ -1,0 +1,27 @@
+{
+  "text": "今天大盘三千七百多只股票下跌，算力、锂电池、有色全在往下砸，但红利ETF，包括港股红利都是红的。为啥？资金在往安全的地方跑。最近这段时间呀，科技涨得太猛了，资金都去追高了。但追高了之后呢，一看风头不对，立马找地方躲，躲哪？就躲在高股息、分红稳、波动小的红利资产。说白了，市场好大家都冲科技，市场一哆嗦，大家就想起来还是红利踏实。这就是红利的避风港属性，涨的时候不显山不露水，跌的时候它能给你兜底。小姨一直说呀，别把鸡蛋放在一个篮子里，红利ETF这种不用天天盯着，每年还有分红拿，适合咱们这种没空天天盯盘的普通人。当然了，投资有风险啊，小姨只是分享思路，不构成建议，具体怎么配看自己情况。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 682067,
+  "timings": {
+    "chunks_wall_seconds": 3.790534874999139,
+    "encode_seconds_sum": 0.30346245800137694,
+    "request_seconds_sum": 3.1469346659996518,
+    "decode_seconds": 0.33879595800135576,
+    "download_seconds": 0.215
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 63.8330625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7660141115530612389",
+  "title": "今天红利赢了#红利 #正确的投资观念 #价值投资 #理财技巧",
+  "video_url": "https://www.douyin.com/video/7660141115530612389",
+  "source_duration": 63.867,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7660141115530612389: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

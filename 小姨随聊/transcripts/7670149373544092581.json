@@ -1,0 +1,27 @@
+{
+  "text": "科创和创业要是继续跌，红利能不能接着奏乐接着舞呢？小姨觉得一定能。上一轮呢已经演过一遍了啊，二零二一年到二零二四年，科创创业板腰斩再腰斩，惨的不行。红利呢，二零二二、二零二三连着涨，二四年还创了新高，就是典型的成长一躺，红利就狂。最近这俩月就更明显了啊，六月呢成长股嗨了，红利就蔫了。七月呢成长股一垮，红利立马支棱起来，跷跷板已经晃得很清楚了。但现在最关键的问题不是会不会涨，而是现在上车贵不贵。其实就看一个实在的指标，那就是股息率。如果红利指数的股息率还在百分之四以上，那放心，便宜，跌了就加仓，涨了就当白捡。如果股息率掉到百分之四以下，那就说明已经贵了，再追进去性价比就不高了。所以不是红利不行，是得看价格合不合适。股息率高的时候，它就是慢牛里的香饽饽，股息率低的时候呢，你再冲就是接盘侠。总结一句人话啊，成长跌，红利大概率会好，但好不好上车只看股息率，不看故事。股息率够高就干，股息率不够就等，就这么简单。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 967379,
+  "timings": {
+    "chunks_wall_seconds": 3.17526716699831,
+    "encode_seconds_sum": 0.2650453339992964,
+    "request_seconds_sum": 2.8777863750001416,
+    "decode_seconds": 0.23433262499929697,
+    "download_seconds": 0.27
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 90.5824375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7670149373544092581",
+  "title": "红利会走牛吗#股民日常分享 #红利 #股票投资 #基金 #理财知识",
+  "video_url": "https://www.douyin.com/video/7670149373544092581",
+  "source_duration": 90.634,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7670149373544092581: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

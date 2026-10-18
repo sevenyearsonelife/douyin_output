@@ -1,0 +1,27 @@
+{
+  "text": "这不是我第一次买石老师石涵冰的书，十年前他的经济大棋局，未来二十年经济大趋势啊都买过了，所以这本新书一发售呢，我是第一时间下单的。这些年看着他从一个恨不得告诉所有人世界怎么变的热血中年人，慢慢变成了只渡有缘人的随缘状态。他曾经是中国十大直言君子之一，他在自序里写过这样一段话啊，如果您从书中看到曾经那个满怀激情的少年的影子，就在心中给他一个拥抱吧。这句话说实话让我湿了眼眶。网上对他的评价呢两极分化，喜欢的说他真诚坦率专业，不喜欢的说他是神棍卖课卖书。我喜欢他啊从来不是因为直接赚到钱了，而是因为在这个浮躁的年代，他坚持不说谎，踏踏实实研究分析，然后得出自己的判断。这本全球视野下的投资机会，没有难懂的名词，只有数据和逻辑。收到货忍不住两天就读完了，然后拉着孩子一起看。这不是一本让你暴富的书，是能让你少踩坑的书。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 870995,
+  "timings": {
+    "chunks_wall_seconds": 2.8135533749991737,
+    "encode_seconds_sum": 0.20645970899931854,
+    "request_seconds_sum": 2.5626684580001893,
+    "decode_seconds": 0.2199849169992376,
+    "download_seconds": 0.547
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 81.573125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7653052467072231611",
+  "title": "关于投资这本书做到了“授人以渔#好书推荐 #理财书单 #读书 #投资 #时寒冰 ”",
+  "video_url": "https://www.douyin.com/video/7653052467072231611",
+  "source_duration": 81.6,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7653052467072231611: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

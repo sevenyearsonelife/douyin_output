@@ -1,0 +1,27 @@
+{
+  "text": "红利低波啊，这这个基金呢，说实话它挺挑人的，它特别适合当压仓石，但缺点也明摆着啊，涨得是真慢。尤其碰上科技成长股那种慢猛涨的行情，它经常就会被按在地上摩擦。所以说账户里敢拿红利低波的人，基本都是慢性子，带点钝感力，不是天天盯着盘面心跳加速的那种。啊，咱直接来看一下月线啊，最近五年它的价格中枢整体在往上挪。换句话说，你只要别天天看，每月扫一眼净值，长期拿着其实特省心，体验呢也不差。再说细点啊，就过去这六十个月里，有五个月它跌破了二十月线，图上我用红色的箭头都标出来了啊，每次都是信号，提醒你该上心了，重点观察后面修复的怎么样。刚过去的六月七月，红利低波先跌了一波，又慢慢往回修，现在它离这个二十月线的位置还是不远的啊，所以耐得住寂寞的人，现在拿点闲钱进去试一笔，等着它慢慢修复，性价比是有的，不用急，慢就是快。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 807635,
+  "timings": {
+    "chunks_wall_seconds": 5.231406249999054,
+    "encode_seconds_sum": 0.19967004200043448,
+    "request_seconds_sum": 3.5618645829999878,
+    "decode_seconds": 0.17805641700033448,
+    "download_seconds": 0.919
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 75.6288125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7676323266029709732",
+  "title": "红利低波虽然有点慢但它稳，适合做压舱石#红利 #基金 #压舱石资产配置 #理财知识 #股民交流学习",
+  "video_url": "https://www.douyin.com/video/7676323266029709732",
+  "source_duration": 75.667,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7676323266029709732: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

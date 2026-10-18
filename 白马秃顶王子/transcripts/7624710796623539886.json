@@ -1,0 +1,27 @@
+{
+  "text": "恒生科技最近确实是一直下跌，那很多人都在问是继续加仓呢，还是转向配置标普五百？那问题来了，到底是标普五百更好，还是恒生科技更有机会呢？其实很多人一开始就搞错了。先说标普五百啊，它不是科技指数，也不是成长指数，它本质是一个美国最强企业的集合体。它的特点是什么呢？稳定增长加长期创新加全球赚钱能力。所以它的走势通常是慢，但很少有极端的波动。我们再来看恒生科技啊，很多人误以为它是中国版的纳指，但其实完全不是一回事儿。它的问题不在公司不好，而在于它的结构，金融环境影响大，互联网红利阶段结束，盈利波动很大，情绪驱动很强。所以你会看到一种情况就是涨的时候确实很猛，跌的时候呢也很干脆。那重点来了，很多人拿这两个去比，其实比错了，它们根本不是谁更优秀的问题，一个是长期复利型资产，一个是高波动型机会资产。所以如果你是普通人，想省心波动小，跟着全球经济走，标普五百可能更适合。但你能承受波动，想搏一个高弹性，恒生科技或许更有意义。评论区告诉我你的想法，OK，peace。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 804179,
+  "timings": {
+    "chunks_wall_seconds": 3.3497720420000006,
+    "encode_seconds_sum": 0.23639595800000002,
+    "request_seconds_sum": 3.099731708,
+    "decode_seconds": 0.35984337499999997,
+    "download_seconds": 0.681
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 75.30375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7624710796623539886",
+  "title": "恒生科技VS标普500#财经 #恒生科技 #标普500 #科普 #理财",
+  "video_url": "https://www.douyin.com/video/7624710796623539886",
+  "source_duration": 75.334,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7624710796623539886: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

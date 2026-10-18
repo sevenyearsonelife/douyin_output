@@ -1,0 +1,27 @@
+{
+  "text": "心理学上说，如果你爱的那个人，他没有像你爱他那样去爱你，那么在他的心里，对你多多少少是有些鄙夷和看不起的。每每想起这句话，我心里再放不下的那个人，都能放下。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 232403,
+  "timings": {
+    "chunks_wall_seconds": 1.240542916,
+    "encode_seconds_sum": 0.09166566599999992,
+    "request_seconds_sum": 1.143927917,
+    "decode_seconds": 0.09306149999999996,
+    "download_seconds": 2.514
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 21.6874375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7666327145174657145",
+  "title": "不对等的爱 藏着轻视 如果你爱的那个人，他没有像你爱他那样去爱你，那么在他的心里对你多多少少是有些鄙夷和看不起的。#情感共鸣 #释怀了 #觉醒吧恋爱脑",
+  "video_url": "https://www.douyin.com/video/7666327145174657145",
+  "source_duration": 21.686,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7666327145174657145: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,87 @@
+{
+  "video_url": "https://www.douyin.com/video/7647777439858298127",
+  "duration": 144.336,
+  "target_terms": [
+    "你是不是之前是横板"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 42,
+      "file": "00042.00.png"
+    },
+    {
+      "time": 44,
+      "file": "00044.00.png"
+    },
+    {
+      "time": 46,
+      "file": "00046.00.png"
+    },
+    {
+      "time": 48,
+      "file": "00048.00.png"
+    },
+    {
+      "time": 50,
+      "file": "00050.00.png"
+    },
+    {
+      "time": 52,
+      "file": "00052.00.png"
+    },
+    {
+      "time": 54,
+      "file": "00054.00.png"
+    },
+    {
+      "time": 56,
+      "file": "00056.00.png"
+    },
+    {
+      "time": 58,
+      "file": "00058.00.png"
+    },
+    {
+      "time": 60,
+      "file": "00060.00.png"
+    },
+    {
+      "time": 62,
+      "file": "00062.00.png"
+    },
+    {
+      "time": 64,
+      "file": "00064.00.png"
+    },
+    {
+      "time": 66,
+      "file": "00066.00.png"
+    },
+    {
+      "time": 68,
+      "file": "00068.00.png"
+    },
+    {
+      "time": 70,
+      "file": "00070.00.png"
+    },
+    {
+      "time": 72,
+      "file": "00072.00.png"
+    },
+    {
+      "time": 74,
+      "file": "00074.00.png"
+    },
+    {
+      "time": 142,
+      "file": "00142.00.png"
+    }
+  ]
+}

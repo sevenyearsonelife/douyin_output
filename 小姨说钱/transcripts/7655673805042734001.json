@@ -1,0 +1,27 @@
+{
+  "text": "最近市场都在炒梦想，而红利在数钞票。啊，市场喜新厌旧，红利自然就坐冷板凳了。用大白话说就是，第一，资金就那么多，去了高富帅那边就顾不上这边的老实人了。A股的钱呢就这么多，像一碗水，现在资金全部去捧这个科技成长的厂子了，比如像AI啊机器人呐，因为这些故事听着刺激，涨得快。红利手里的握的是银行、煤炭、高速，这些呢都是老实人，赚的是稳当钱，但没啥爆炸性的故事，资金都去追高富帅了，老实人呢自然就被冷落了。第二，市场在比谁跑得快，红利在比谁活得久。现在市场情绪这么热，大家比的是谁涨得猛，红利涨得慢，还时不时的跌一下。成长股呢像兔子上蹿下跳，牛市或者反弹行情里边，散户和游资最烦这种慢腾腾，啊，肯定先抛弃红利去追兔子。只有等到市场大跌了，大家才会想起红利这只乌龟抗跌。第三，利率环境不给力，红利利息呢优势变小了。红利最大的卖点是分红高，像存银行吃利息，但最近国内利率也在降，虽然红利的股息率呢还有百分之五，有的达到百分之六，但相比之前优势没有那么耀眼了。啊，结论很直白，不是红利变差了，而是现在不是它的厂子。等成长股涨累了，风险高了，资金回过头来才会发现还是红利香的时候，风格自然会切回来。红利是防守盾牌，不是进攻的长矛，当下只是轮到长矛发威罢了。记住啊，别在红利里边找激情，稳住，咱们等风来。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1296851,
+  "timings": {
+    "chunks_wall_seconds": 4.2836919159999525,
+    "encode_seconds_sum": 0.2927836250000837,
+    "request_seconds_sum": 3.8823123750007653,
+    "decode_seconds": 0.7186467080009606,
+    "download_seconds": 1.018
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 121.465,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7655673805042734001",
+  "title": "红利持续低迷还能投吗#红利 #股市分析 #投资知识分享 #投资",
+  "video_url": "https://www.douyin.com/video/7655673805042734001",
+  "source_duration": 121.5,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7655673805042734001: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,29 @@
+{
+  "text": "纯业余打乒乓球一定要克服一种身体的本能。如果说你能克服掉这种身体本能的话，你至少能涨三到五分球。那我们说这个身体本能是什么呢？就是当你发球发冒高的时候，或者说当你搓球搓的比较高的时候，啊，对方又是这种力量比较大的选手，你看对方暴冲过来球之后，你的身体会下意识的变得非常的僵硬，而且人会下意识的往后退，实际上这就是一种身体的本能。但是这种身体的本能对于打球来讲它是非常不好的。如果说你的这种身体本能你不解决掉的话，你是很难成为乒乓球高手的。你会发现专业的打球，他有的时候对方暴冲他的时候，他不但不往后退，他还会往前去顶，这就是专业跟业余的区别。如果说你想成为乒乓球高手的话，这个身体的本能一定要改掉它。那么怎么去改呢？你可以去找这种拉球很暴很冲的人去暴你去拉你，这个过程你可以理解为脱敏。就什么时候你对这种非常暴的球非常冲的球已经没有任何感觉了，就对方冲过来，你的身体也不僵硬了，也不往后退了，这个时候你就相当于打开了一扇新世界的大门，就你至少能涨三分球。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 684371,
+  "timings": {
+    "chunks_wall_seconds": 2.5982315,
+    "encode_seconds_sum": 0.18453304199999998,
+    "request_seconds_sum": 2.4045375,
+    "decode_seconds": 0.23663554100000006,
+    "download_seconds": 0.582
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 64.06525,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7655960837118627098",
+  "title": "乒乓球克服身体本能成为乒乓高手 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7655960837118627098",
+  "source_duration": 64.041,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7655960837118627098: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

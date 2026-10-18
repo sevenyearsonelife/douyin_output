@@ -1,0 +1,28 @@
+{
+  "text": "一年一中秋，一家一平安。愿家人身体健康，无灾无难，坏运清零，好运加满，所求皆如愿，所行皆坦途。月亮慢慢变圆，事事慢慢如愿。愿我们月圆人圆，事事圆满，人顺心顺，事事顺利，花好月圆，日子甜甜，好运连连。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 278099,
+  "timings": {
+    "chunks_wall_seconds": 1.4276549160000003,
+    "encode_seconds_sum": 0.12550229200000007,
+    "request_seconds_sum": 1.2966987500000002,
+    "decode_seconds": 0.18767100000000003,
+    "download_seconds": 19.742
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 25.983,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7689310116499658102",
+  "title": "#乡村种菜",
+  "video_url": "https://www.douyin.com/video/7689310116499658102",
+  "source_duration": 25.984,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7689310116499658102: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "有句话说，你以慈悲看世界，这个世界都是可怜人。但你用因果看世界，这世上没有一个可怜人。这世上每个人都配得上他现在的生活。换句话说，他现在的生活是他过去无数次选择的结果。所以，尽心度自己，随缘度他人。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 255059,
+  "timings": {
+    "chunks_wall_seconds": 1.7032731669999999,
+    "encode_seconds_sum": 0.133857667,
+    "request_seconds_sum": 1.561594542,
+    "decode_seconds": 0.18744295799999988,
+    "download_seconds": 7.681
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 23.8004375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7672014269517822331",
+  "title": "尽心渡自己，随缘渡他人 #最近的人生思考 #创作者中心 #创作灵感 #人生感悟分享 #女性成长感悟",
+  "video_url": "https://www.douyin.com/video/7672014269517822331",
+  "source_duration": 23.867,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7672014269517822331: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

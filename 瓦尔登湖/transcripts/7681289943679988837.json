@@ -1,0 +1,27 @@
+{
+  "text": "我长期持有的基金里有标普五百、纳指一百、中证A五百、红利低波。标普、纳指还有中证A五百更多是负责资产增值，红利低波是兼顾成长的同时，更重点的是能给我提供稳定的分红现金流。但如果只能选一只的话，我会选红利低波，它也是我现在持仓最重的一个。虽然这只并不是历史收益最高的，但它完全贴合我自己的理财目标。在我的观念里，被动收入是优先于资产增值的。被动收入是我生活松弛的底气，资产增值对我来说是锦上添花。而且我认为资产增值兑现后，最终还是要转化成被动收入，因为钱花掉就没了，要把这部分资金转化成被动收入，才能尽量的留住本金，并造出源源不断的现金流。所以对我来说被动收入是排在资产增值的前面的。我觉得理想的生活状态是本金尽量保留，日常开销依靠被动收入。这样不仅你能实现自由人生，传承下去，你的后代们也可以选择从职场中解放出来，去寻求自己的人生意义，去照自己独特的灵魂。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 810707,
+  "timings": {
+    "chunks_wall_seconds": 2.658130792,
+    "encode_seconds_sum": 0.20295808299999996,
+    "request_seconds_sum": 2.439847792,
+    "decode_seconds": 0.20196641599999998,
+    "download_seconds": 0.226
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 75.9074375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7681289943679988837",
+  "title": "我的理财排序：被动收入＞资产增值 #交流你的赚钱经验 #红利低波 #基金 #人生感悟 #女性成长 \n以上仅为我个人的理财思考，不构成任何投资建议，每个人风险承受能力不一样，请结合自身情况做选择。",
+  "video_url": "https://www.douyin.com/video/7681289943679988837",
+  "source_duration": 75.934,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7681289943679988837: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

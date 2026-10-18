@@ -1,0 +1,28 @@
+{
+  "text": "很多人习惯了中签就吃肉啊，久而久之呢就形成了一种错觉啊哈，感觉中了新股就等于稳赚。于是乎呢就有一部分人啊没有中签，又不甘心错过行情，上市首日呢看到那个股价大涨啊，他头脑一热就冲了进去啊。这种人群呢主要是分为这么几类，第一类纯粹的被情绪裹挟，看到那个盘面大涨啊，看到弹幕里一片宽广啊，看到身边的人都在讨论呀，害怕踏空，恐惧错过暴富的机会，于是乎呢来不及冷静的思考，直接就下手，就是在他眼里啊看见的只有上涨的热闹，看不见那背后巨大的博弈风险。第二类简单的经验主义者啊，可能他曾经是遇到过很多新股上市接连涨停的情况，于是呢他就默认所有的新股啊都会复制同样的剧本，此时呢他会不由自主的忽略掉市场环境的变化，也不屑于再去看估值看行业基本面了，习惯了拿旧经验套新市场。还有一类啊纯粹就是赌性，也就是博弈思维很重，觉得自己啊比别人聪明啊，相信自己可以快进快出，总认为自己不会是那个接最后一棒的人。殊不知这个新股上市啊波动极大啊，流动性啊也是瞬息万变的，炒新股这个事啊本质上是和一群情绪交易者做对手盘。市场里面最可怕的亏损呀不是来自于熊市的慢慢阴跌，而恰恰是这热闹宣泄中的时候，那头脑发热的一记重锤呀。本内容仅为个人市场情绪观察，股市有风险，投资需谨慎，感谢啊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1457747,
+  "timings": {
+    "chunks_wall_seconds": 5.710269959000001,
+    "encode_seconds_sum": 0.6539013750000002,
+    "request_seconds_sum": 5.032694791000001,
+    "decode_seconds": 0.3364001670000001,
+    "download_seconds": 0.75
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 136.558,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7675996347140459803",
+  "title": "我是新股，首日看着你们追高，三类人的心态我都看见了 ",
+  "video_url": "https://www.douyin.com/video/7675996347140459803",
+  "source_duration": 136.534,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7675996347140459803: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

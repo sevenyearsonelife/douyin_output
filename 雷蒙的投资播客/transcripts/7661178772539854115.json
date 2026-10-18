@@ -1,0 +1,27 @@
+{
+  "text": "你们有试图跟那种非科技公司聊过数字员工的事情吗？有啊，我们现在我们应该 Q 四会开始。哦，OK，对对，我们在一些初步的这些啊讨论。他们主要的 pushback 是什么？啊，我觉得首先第一个，嗯啊，他们并不清楚就是数字员工能做到什么程度。啊，OK，对，以及有哪些是需要啊 human in the loop 的。啊，因为对于这些啊传统行业来说，有人要背锅的。嗯，对，是的啊，要有人要做内部的 champion，然后去 push 这个 deal forward。那他 push 成功了，那就是升职加薪，promote to VP，对吧？push 失败了，没有效果啊，那可能这个就是一个失败的采购，来来你们公司打工啊，来我们公司蒸馏自己。对，所以我觉得呃这是一个 concern，但是科技行业他们已经有非常强烈的这个迫切的渴望，对，去把这些呃呃所谓的 frontier AI 的能力 integrate 到自己的工作的工作里面去，所以他们会比较 open 这一点。对，对，这这这挺有意思的啊。OK，然后第二点是其实是跟我们蒸馏的经验相关的。啊，其实我们做了蛮多有意思的 pilot program 啊，去企业帮助企业内部进行蒸馏。啊，来好好说说，啊，就是我们这一套啊 screen capturing 到 digital worker 的 pipeline，对，啊，其实是在北美的一些企业里面去推过的。OK，啊，但是北美现在碰到一个问题，就是很多的公司传统公司，它已经不再是 founder CEO，对，yes，他都是职业经理人 CEO，对，职业经理人 CEO，他很难去推这种蒸馏员工这种故事的。啊，我我就不用不用是职业经理人 CEO，就我觉得其实任何公司都很难推，我给举个例子就是啊 meta，对，meta 在应该是今年一季度还是二季度当时推过一个什么那个 plan 我叫啥我名字忘了，他当时那个 plan 就是类似于说你你在工作的时候旁边有个 recorder，就就那个屏幕应该是直接被 recorded，没错，对吧？然后你所有所有的对话会被完全被录屏，然后录屏完之后回去然后开始分析，对，那其实他的他的那这个这个用意就是说来我先完全 closely monitor twenty four seven 看你每一步是怎么工作的，一个巨大的视频回去我分析好了，接下来你就被蒸馏了，接下来就是换句话说，每个员工在每一步工作的时候都是在蒸馏自己，嗯，也就是逐渐把自己就消亡掉。对，这个是当时 meta 做的事情，meta 是一个 founder CEO，那 apparently 也能推这个事情，但内部巨大的 pushback，啊啊，没有人能接受这件事情，因为它涉及到员工隐私嘛，对吧？员工隐私，然后你第一是员工隐私的问题，第二就是你明摆着要炒我，嗯，我为什么还要把自己先蒸馏贡献给你？没错，对吧？没错，呃，也感谢扎克伯格这件事情，其实当时啊我觉得市场上有很多质疑的声音，嗯，就觉得我我们讲的这个呃录屏去训练 AGI 这个逻辑天马行空，对，但扎克伯格在干这件事情以后，啊突然间有非常多的 investor 找到我们，对，啊说 Michael 这个做的怎么样了？对，对吧？然后面因为这个快速完成了一轮的融资啊，所以挺挺感谢这个啊扎克伯格，因为你做的时候大家觉得你是疯子，然后小扎做的时候说，哎，他应该有想法，yes exactly，啊，我们其实比扎克伯格早六个月做这件事情了，但包括像你说的，其实小扎你早六个月其实是按照是 workshop 包进去的，对吧？对，那就是按照去年三四季度的时候，对，对吧？OK，啊，其实我们当时已经在内部做很多尝试，明白，但是像你哪怕像小扎这种 C呃 founder CEO，嗯，他推也被人骂的那么惨，对，所以其实有很多的阻力的，对，是的。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 2251859,
+  "timings": {
+    "chunks_wall_seconds": 11.350241708,
+    "encode_seconds_sum": 1.0275441250000001,
+    "request_seconds_sum": 10.293441625,
+    "decode_seconds": 0.477659917,
+    "download_seconds": 0.865
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 211.0138125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7661178772539854115",
+  "title": "你明摆着炒我，还让我先蒸馏自己 Meta 全员录屏计划，内部反弹到推不动。 员工的质问很朴素：蒸馏完我，我去哪？ 但小扎一入场，投资人马上打钱。 你做是疯子，他做是远见。#AI应用 #AI #大模型 #科技投资 \n",
+  "video_url": "https://www.douyin.com/video/7661178772539854115",
+  "source_duration": 211.034,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7661178772539854115: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

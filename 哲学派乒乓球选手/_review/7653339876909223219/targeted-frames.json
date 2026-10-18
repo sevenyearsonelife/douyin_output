@@ -1,0 +1,23 @@
+{
+  "video_url": "https://www.douyin.com/video/7653339876909223219",
+  "duration": 126.782,
+  "target_terms": [
+    "小组都很难出现"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 101.5,
+      "file": "00101.50.png"
+    },
+    {
+      "time": 102,
+      "file": "00102.00.png"
+    },
+    {
+      "time": 102.5,
+      "file": "00102.50.png"
+    }
+  ]
+}

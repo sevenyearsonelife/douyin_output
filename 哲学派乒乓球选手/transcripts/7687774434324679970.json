@@ -1,0 +1,29 @@
+{
+  "text": "有很多朋友问了一个同样的问题，就是怎么判断自己的动作是用身体多还是胳膊多。实际上这个是很好判断的，我教大家两个方法。第一个方法是你能不能打这种很慢的对攻，这里说的很慢的对攻，你的动作一定要做的完整，不能做这种很小的，一定要做的完整一些，啊尽量放的慢一些，越慢越好。如果说你能打这种很慢的对攻，而且感觉身体没有任何问题的话，这就说明你用身体是比较多的，你用胳膊是比较少的。那么很多人这种很慢的对攻他是打不起来的，他只能打快的，不能打慢的，这就说明你是用胳膊比较多。包括很多人他在打很慢的对攻的时候，他整个人的这种感觉是很难受的，他老想去找这个球，这就说明你是胳膊比较多。那么第二种方法就是看这个球从快变到了慢，或者说从慢变到快的时候，你是下意识的是伸胳膊还是用身体。实际上这个也是最直观的一个方法，因为当球从快变到慢的时候，或者说从慢变到快的时候，这个时候考验的就是你身体的一种本能的反应，如果你是用胳膊多，你一定会去伸胳膊。所以说当你不知道你打球是身体多还是胳膊多的时候，用这两种方法就可以很容易的判断出来。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 715475,
+  "timings": {
+    "chunks_wall_seconds": 3.740292125,
+    "encode_seconds_sum": 0.19297287500000004,
+    "request_seconds_sum": 3.53371825,
+    "decode_seconds": 0.204445916,
+    "download_seconds": 0.272
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 66.991,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7687774434324679970",
+  "title": "乒乓球怎么看动作身体多还是手多？ 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7687774434324679970",
+  "source_duration": 66.99,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7687774434324679970: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

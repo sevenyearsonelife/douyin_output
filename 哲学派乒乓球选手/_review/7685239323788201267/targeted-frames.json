@@ -1,0 +1,87 @@
+{
+  "video_url": "https://www.douyin.com/video/7685239323788201267",
+  "duration": 149.235,
+  "target_terms": [
+    "张本伟和"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 116,
+      "file": "00116.00.png"
+    },
+    {
+      "time": 118,
+      "file": "00118.00.png"
+    },
+    {
+      "time": 120,
+      "file": "00120.00.png"
+    },
+    {
+      "time": 122,
+      "file": "00122.00.png"
+    },
+    {
+      "time": 124,
+      "file": "00124.00.png"
+    },
+    {
+      "time": 126,
+      "file": "00126.00.png"
+    },
+    {
+      "time": 128,
+      "file": "00128.00.png"
+    },
+    {
+      "time": 130,
+      "file": "00130.00.png"
+    },
+    {
+      "time": 132,
+      "file": "00132.00.png"
+    },
+    {
+      "time": 134,
+      "file": "00134.00.png"
+    },
+    {
+      "time": 136,
+      "file": "00136.00.png"
+    },
+    {
+      "time": 138,
+      "file": "00138.00.png"
+    },
+    {
+      "time": 140,
+      "file": "00140.00.png"
+    },
+    {
+      "time": 142,
+      "file": "00142.00.png"
+    },
+    {
+      "time": 144,
+      "file": "00144.00.png"
+    },
+    {
+      "time": 146,
+      "file": "00146.00.png"
+    },
+    {
+      "time": 147,
+      "file": "00147.00.png"
+    },
+    {
+      "time": 148,
+      "file": "00148.00.png"
+    }
+  ]
+}

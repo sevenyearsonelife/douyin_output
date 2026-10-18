@@ -1,0 +1,27 @@
+{
+  "text": "但但其实一万多亿的这个 maintenance capex 其实是很夸张的一个数字。嗯，你想就是从此以后人类就要进入一个一万多亿的 capex 的投入，对吧？嗯，是的，其实其实是很大很大的投入的。对，你想呃像之前比如说呃你知道三峡是一个二十二巨瓦的一个工程，嗯，对吧？所以基本上现在我们得要每年修啊每年要修一个半到两个三峡，嗯，对吧？就就这如果你从这个你说中国是吧？呃不是全呃哦不不不，美国，呃对，每年要修一到两个三峡，对，其实还挺多的。对，而且接下来会进入一个问题，就是它的 depreciation life 其实很快，所以每一年可能会有一个一万亿的 depreciation life。嗯，呃呃呃，一万亿一一万亿的这个 depreciation 的就是折旧的这个成本，对，这这费用，对，是的。所以这个世界其实我也难想象，就很多很多人会对此这个数字听完就觉得不可能，太可怕了，实现不了。明白，因为如果考虑这个就是 maintenance 的这个 capex 或者是这个折旧的话，呃理想状况一般来讲呢是到达一个稳态的一个行业，或者相对相对稳定的一个行业，嗯，对吧？如果你要有一万亿的这种嗯折旧，如果是个重资产的行业，我觉得你的收入至少也要到四五万亿，对，三到五万亿吧，三到五万亿的收入，如果你没有那么重，你肯定得要十万亿的一个一个收入体量的行业才能够支撑得起，就是这么这么高的一个对金额的一个一个一个折旧，对对吧？但是但我觉得就是三五万亿很少啊，就是在我的我的心目中，就是因为因为你已经假设到了就是说它是一个稳态了，或者说三年后吧，三年后的那你说的都不是三，对，没错，我们说一万亿的折旧其实差不多发生的时间应该是在二二九年到三零年之间，对，是的，所以离今天也就是四年四年时间不多。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1285331,
+  "timings": {
+    "chunks_wall_seconds": 5.265862916,
+    "encode_seconds_sum": 0.363251459,
+    "request_seconds_sum": 4.870485125,
+    "decode_seconds": 0.403964459,
+    "download_seconds": 0.845
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 120.396875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7674471101493153074",
+  "title": "AI每年烧掉两个三峡 #视频播客 #科技投资 每年一万多亿的 capex，这个数字大到没有体感。\n换算一下：三峡是 22 吉瓦的工程。\n现在每年要修一个半到两个三峡。\n而且这还只是维持性的投入，年年都要。\n",
+  "video_url": "https://www.douyin.com/video/7674471101493153074",
+  "source_duration": 120.367,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7674471101493153074: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

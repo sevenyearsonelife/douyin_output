@@ -1,0 +1,23 @@
+{
+  "video_url": "https://www.douyin.com/video/7652229730262977801",
+  "duration": 92.672,
+  "target_terms": [
+    "几百"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 58.5,
+      "file": "00058.50.png"
+    },
+    {
+      "time": 59,
+      "file": "00059.00.png"
+    },
+    {
+      "time": 59.5,
+      "file": "00059.50.png"
+    }
+  ]
+}

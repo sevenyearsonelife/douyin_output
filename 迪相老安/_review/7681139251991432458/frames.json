@@ -1,0 +1,64 @@
+{
+  "video_url": "https://www.douyin.com/video/7681139251991432458",
+  "duration": 346.489,
+  "interval": 15,
+  "truncated": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 15,
+      "file": "00015.00.png"
+    },
+    {
+      "time": 30,
+      "file": "00030.00.png"
+    },
+    {
+      "time": 45,
+      "file": "00045.00.png"
+    },
+    {
+      "time": 60,
+      "file": "00060.00.png"
+    },
+    {
+      "time": 75,
+      "file": "00075.00.png"
+    },
+    {
+      "time": 90,
+      "file": "00090.00.png"
+    },
+    {
+      "time": 105,
+      "file": "00105.00.png"
+    },
+    {
+      "time": 120,
+      "file": "00120.00.png"
+    },
+    {
+      "time": 135,
+      "file": "00135.00.png"
+    },
+    {
+      "time": 150,
+      "file": "00150.00.png"
+    },
+    {
+      "time": 165,
+      "file": "00165.00.png"
+    },
+    {
+      "time": 180,
+      "file": "00180.00.png"
+    },
+    {
+      "time": 195,
+      "file": "00195.00.png"
+    }
+  ]
+}

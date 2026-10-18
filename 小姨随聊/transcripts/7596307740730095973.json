@@ -1,0 +1,27 @@
+{
+  "text": "今天呢，给大家聊聊我是怎么靠这些书赚钱的。七八年前，很荣幸接触到了《定投十年财务自由》，看了这本书，我一下子就被点醒了。从那时候起，就开始了我的定投之路。看了这个《财务自由之路》呢，让我明白了财务自由这件事，方法比努力更重要。我照着书里的方法去执行，慢慢就靠复利和长期持有赚到了钱。去年夏天，当我看到这本书的时候，就果断的买了白银，目前呀收益不错。然后就是呃这本《穷爸爸富爸爸》系列，这个书看完之后呢，就让我知道了什么是负债，什么是真正的资产。最近呢，我读了这本《达尔文那里学到的投资知识》，我学会了在投资里选那些能适者生存的优质资产，长期拿着不瞎动，慢慢就赚到钱了。这些呀都是让普通人看得懂的财商书籍。说实话，这些书这几年让我能稳定的盈利。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 688211,
+  "timings": {
+    "chunks_wall_seconds": 2.9646425829996588,
+    "encode_seconds_sum": 0.3164530829999421,
+    "request_seconds_sum": 2.398128999999244,
+    "decode_seconds": 0.3171472909998556,
+    "download_seconds": 1.723
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 64.4368125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7596307740730095973",
+  "title": "靠读书也能赚钱#每日分享 #读书 #投资 #理财 #定投",
+  "video_url": "https://www.douyin.com/video/7596307740730095973",
+  "source_duration": 64.467,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7596307740730095973: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

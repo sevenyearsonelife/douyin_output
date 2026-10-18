@@ -1,0 +1,27 @@
+{
+  "text": "什么是一个人的底气？我觉得不是有人爱，而是你有一百种方式能让自己开心。音乐、书籍、运动、工作、旅行，你的精神寄托可以有很多，但唯独别把一个人当成全部。你的内心是匮乏的，才拼命从别人身上找安全感。而真正能给你撑腰的，是丰富的知识储备，足够的经济基础，持续的情绪稳定，可控的生活节奏和那个打不败的自己。你的世界越大，你就越自由。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 340691,
+  "timings": {
+    "chunks_wall_seconds": 1.336985666,
+    "encode_seconds_sum": 0.11991533299999996,
+    "request_seconds_sum": 1.211987375,
+    "decode_seconds": 0.17207875,
+    "download_seconds": 8.686
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 31.8578125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7676782491785140465",
+  "title": "你的世界越大，你就越自由。 #一人一个信息差 #girlstalk女性成长 #女性成长 #生活感悟 #人生感悟  \n什么是一个人的底气，我觉得不是有人爱，而是你有一百种方式让自己开心。\n音乐、书籍、运动、工作、旅行，——你的精神寄托可以有很多，但唯独别把一个人当成全部。\n你的内心是匮乏的，才拼命从别人身上找安全感。\n而真正能给你撑腰的，是丰富的知识储备，足够的经济基础，持续的的情绪稳定，可控的生活节奏，和那个打不败的自己。\n你的世界越大，你就越自由。",
+  "video_url": "https://www.douyin.com/video/7676782491785140465",
+  "source_duration": 31.857,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7676782491785140465: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

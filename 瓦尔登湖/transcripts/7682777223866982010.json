@@ -1,0 +1,27 @@
+{
+  "text": "很多人都在追求人生自由，但自由不是躺平摆烂，是手里有选择权。分享几个我自己亲身践行，也觉得很受用的生活准则，大家可以参考一下，然后慢慢的把人生的主动权拿回到自己手里。第一个要学习，学外语、学外贸、学表达、学思辨、学理财。第二个攒底气，多休息、多睡觉、多运动、多读书、多存款。第三个把持住自己，不赌博、不创业、不投机、不开店、不熬夜。第四个会让钱生钱，买美股、买国债、买红利、买宽指、低点买黄金。第五要抓性价比，必要时买二手车、二手房。除此之外就是要通透一点，用宏大的世界稀释痛苦，用微小的事情感知幸福。多关注自己，少研究别人，看淡纷扰，守住本心。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 695123,
+  "timings": {
+    "chunks_wall_seconds": 4.364023417,
+    "encode_seconds_sum": 0.17580687500000003,
+    "request_seconds_sum": 4.178287,
+    "decode_seconds": 0.17377874999999998,
+    "download_seconds": 1.058
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 65.0869375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7682777223866982010",
+  "title": "普通人如何拿回人生的主动权？ #女性女性成长 #创作者中心  #girlstalk女性成长 #独立成长计划",
+  "video_url": "https://www.douyin.com/video/7682777223866982010",
+  "source_duration": 65.134,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7682777223866982010: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

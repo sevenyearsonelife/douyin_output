@@ -1,0 +1,28 @@
+{
+  "text": "嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 309203,
+  "timings": {
+    "chunks_wall_seconds": 1.784007875,
+    "encode_seconds_sum": 0.22636204199999987,
+    "request_seconds_sum": 1.550793916,
+    "decode_seconds": 1.1607515419999999,
+    "download_seconds": 9.478
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 28.885625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7679368268352878326",
+  "title": "73",
+  "video_url": "https://www.douyin.com/video/7679368268352878326",
+  "source_duration": 28.9,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7679368268352878326: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

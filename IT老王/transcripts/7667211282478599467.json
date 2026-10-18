@@ -1,0 +1,29 @@
+{
+  "text": "到底什么是 Agent？怎样才算用好了 Agent 呢？这次啊咱们直接请出 Spring AI 来给大家现身说法。现在很多人对 AI 的态度有点割裂，有些人呢把大模型当成了哆啦 A 梦，满脑子都是未来的美好幻想，除了吃饭睡觉，其他的事情啊都想要丢给 AI。也有人对 AI 非常的排斥，幻觉、死循环、胡说八道，觉得现在这 Agent 超级员工呢还没进化成，反倒是像个天天需要你擦屁股的大爷。这问题到底在哪呢？其实我发现大家忽略了一个最核心的地方，好的 Agent 绝不是信口开河生成的，而是要经过严格的工程验证，一点点打磨出来的。只有加上了这层 buff，Agent 才能成为你双边最靠谱的工具。当然道理我也不能信口开河的讲哦，这次我就顺着 Spring AI 的技术架构，带你来扒一扒企业级的 Agent 到底要长什么样。更重要的是看看在技术层面我们到底应该如何去掌控 AI，而不是被 AI 戏耍。我是楼兰，关注我，IT 路上一起进步。首先对很多技术小白来说，Agent 听起来很玄幻，但在 Spring AI 的底层源码里，它被抽象成了非常简单清晰的工程概念。具体来说就是两个核心对象，Chat Model 和 Chat Client。Chat Model 就是底层引擎，它负责直接和 OpenAI、通义千问这些底层大模型打交道，它就像一个只会算数的裸机 CPU，你给它一句话，它能吐出一句话来。而 Chat Client 就是智能大脑，裸机 CPU 是没法直接干复杂业务的，所以 Spring AI 提供了一个极其强大的流式 API 构建器，也就是 Chat Client，它就像一个经验丰富的项目经理，负责统筹全局。那怎么组装 Agent 呢？Spring AI 引入了一个类似 AOP 的拦截器机制，叫做 Advisors。在 Chat Client 内部，你可以像挂载插件一样，你想让它有记忆，那就配个 Chat Memory Repository 属性就可以了，它就可以保存历史聊天记录进行多轮对话了。你想让它完成更复杂的任务，那就指定 Tools 属性，它就可以调用其他的 Java 方法了。想做 RAG 知识库，那直接挂载一个 Retrieval Augumentation Advisor，它就可以检索知识库给出更靠谱的答案。这就是企业级开发的严谨性，把底层模型和上层业务逻辑完全解耦，像乐高积木一样的拼装，没有这种扎实的工程底座，再炫酷的提示词也只是空中楼阁。掌控这一层是你上桌的基础。通过 Spring AI 的良好封装，构建 Agent 变成了很简单的拼积木，但这就完了吗？Spring AI 还着重解决了一个非常重要的问题，你怎么知道大模型没有在胡说八道？传统的软件测试呢写个 assert 断言就可以了，但大模型输出的都是自然语言，所以在 Spring AI 的底层流水线里专门设计了一系列非常重要的工具，Evaluator 模型评估器，同时还自带了很多现成的工具类，比如 Relevancy Evaluator，专门来检测 Agent 的答案和用户的问题是否相关。Fact Checking Evaluator 专门来检测从向量数据库中检索出来的信息和用户的问题是否相关。但这还不够，为了搞定大模型评测，Spring AI 官网甚至单独拉了一个章节教你用 LLM as a Judge Evaluation，也就是用魔法来打败魔法，让大模型来当裁判。官方甚至还给出了一个自回归检测的案例，核心思想就是在核心业务之外单独构建一整套 Advisor，重新实例化一套独立的 Chat Client 和 Chat Model，专门用来对大模型的输出结果进行验证，并根据验证的结果来定制 Agent 的下一步流程。为了让这个裁判模型在生产环境中真正落地，Spring AI 官网还给出了五条最佳实践。第一，不要用小模型当裁判，要去打榜网站上找最聪明的模型来保证评测的质量。第二，主模型和裁判模型必须用两个独立的实力，防止模型产生偏见。第三，裁判不需要创造力，裁判只需要铁面无私，所以调用裁判模型的时候，温度值 temperature 建议设置为零，保证结果的绝对正确性。第四，裁判模型的 prompt 不能随便写，必须强制它输出整数评分，并且要给足样本实例。第五，对于高风险的评测，裁判打完分，最后一步依然要抛给人类来拍板。这一套郑重其事的组合拳是不是足够让你对评测大模型这件事提起重视了？掌握这一层是你能真正用好 Agent 的关键。通常到这里很多朋友就会问，Spring AI 的组件我都学会了，关键的 API 我也会用了，这样我是不是就完全掌握 Agent 了？还没有，如果你接触过其他的 AI 开发框架，再回。\n回头来对比 Spring AI，你才会发现它的真正定位。在 Spring AI 当中，对于多 Agent 的自主协同、复杂任务全自动编排这些目前炒得火热的概念，其实涉及的并不多。当你深入了解它之后，你会发现 Spring AI 的定位非常的明确，它就是用来构建 Agent 的坚实底座。它关注的是你的 Chat Client 封装的好不好，你的拦截器稳不稳，你的大模型裁判评测机制严不严谨。至于上层的花式玩法，它留给其他应用层自己去实现。比如国内的 Spring AI 阿里巴巴就是在 Spring AI 的基础上构建起来的。所以 Spring AI 从来不是一个单独的框架，而是以 Spring AI 为核心构建了一整套 AI 生态。它不去做大包大揽的全能神，只是安分守己的做好 Java 生态里的那块儿重强重强。在这个什么都想卷，什么都想干的时代，Spring AI 的这种克制反而是它在企业级落地中最可靠的底牌。从今天拆解 Spring AI 底层逻辑的过程你会发现，构建一个真正靠谱好用的 Agent，靠的从来不是盲目堆砌各种前沿的多 Agent 的概念，那靠的是什么？第一，打磨好严谨的专业底座，保证自己能稳稳的上桌。第二，建立起独立评判信息的裁判机制，保持绝对的理智，不被大模型的幻觉牵着鼻子走。第三，清晰的认准自己的生态位，发挥自己的长处，不去跟风内卷，不去做大包大揽的全能神。用严谨的认知去驾驭 AI，而不是被 AI 牵着鼻子走，不去人云亦云的成为别人，而是清醒的成为你自己。我是楼兰，只讲程序员用得上的干货，点赞关注，咱们下期再见。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 3467686,
+  "timings": {
+    "chunks_wall_seconds": 14.339865417,
+    "encode_seconds_sum": 0.8340022489999999,
+    "request_seconds_sum": 17.290923,
+    "decode_seconds": 0.693469125,
+    "download_seconds": 4.842
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 324.91825,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7667211282478599467",
+  "title": "从SpringAI底层框架，看懂掌控AI的真正逻辑 #SpringAI #AI #Agent #程序员 #后端开发",
+  "video_url": "https://www.douyin.com/video/7667211282478599467",
+  "source_duration": 324.916,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7667211282478599467: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

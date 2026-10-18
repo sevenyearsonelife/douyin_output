@@ -1,0 +1,28 @@
+{
+  "text": "这被你认识了。不认识，看不出来。这念你好中国啊。你好中国啊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 779603,
+  "timings": {
+    "chunks_wall_seconds": 1.5487413329999997,
+    "encode_seconds_sum": 0.19411891700000006,
+    "request_seconds_sum": 1.3417763340000002,
+    "decode_seconds": 0.17898291700000002,
+    "download_seconds": 0.562
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 72.98175,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7435150094028082466",
+  "title": "你好，中国 #粉笔字 #原创作品 #书法 #灵魂画手",
+  "video_url": "https://www.douyin.com/video/7435150094028082466",
+  "source_duration": 73.042,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7435150094028082466: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

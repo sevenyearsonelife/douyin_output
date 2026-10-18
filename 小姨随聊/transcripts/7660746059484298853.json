@@ -1,0 +1,27 @@
+{
+  "text": "又一圈年轮碾过，我没数刻度，只掂了掂手里的存货。这一年最大的财富不是数据栏里跳动的数字，而是那些深夜敲下的字，镜头前袒露的真，以及你们在弹幕里留下的哈哈哈，破防了。做这个账号呢，我觉得最浪漫的事就是让时间成为我做多的信号，只要持续的输出，内容就是永不贬值的硬通货。新的一岁了，继续做时间的朋友，也做你们的宝藏。愿我们都能在这个流量宣泄的时代，拥有长期主义的底气。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 460115,
+  "timings": {
+    "chunks_wall_seconds": 2.551240124999822,
+    "encode_seconds_sum": 0.21746879199963587,
+    "request_seconds_sum": 2.029153875000702,
+    "decode_seconds": 0.3646535000007134,
+    "download_seconds": 17.373
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 43.028,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7660746059484298853",
+  "title": "感悟#感悟 #认知觉醒 #股民交流 #生日感悟 #投资",
+  "video_url": "https://www.douyin.com/video/7660746059484298853",
+  "source_duration": 43.034,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7660746059484298853: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

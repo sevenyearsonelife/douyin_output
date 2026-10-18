@@ -1,0 +1,29 @@
+{
+  "text": "打乒乓球最重要的就是动作的合理性，说到动作的合理性就得提到马龙。我们说以后是很难出现所谓的第二个马龙的，因为马龙的动作太合理了，太合理的动作它是很难脱颖而出的。有人可能不太理解这句话，什么叫太合理了，它很难脱颖而出。我们说竞技体育它就跟水果是一样的，我们说这个水果它想卖上价格，它只有一种办法，就是它必须是早熟的，就是它要比其他的熟的早，它的价格才能卖的贵。晚熟的水果虽然好吃，但是它卖不上价格，这个跟竞技体育是一样的，竞技体育的核心就是你要脱颖而出。但是我们说早熟的果子它的弊端是什么呢？它的弊端是不好吃，啊口感不好，但是它的价格贵。我们说这个竞技体育它的要求就是在短时间内，你要比别人练得多，练得狠，你才能脱颖而出。但是我们说你这个动作越合理，它的这种周期是越长的。但是我们说你想在有限的时间内，你想打出来，你想成绩好，你这个动作它必然就不可能很完美很合理，它必然是有一些弊端的。这里最好的例子就是马龙，马龙的动作确实是非常合理的，但是它的周期确实是非常的长。所以说这里就会出现一个现象，啊如果说你想练的合理，那么你的这个周期就会特别长，你前期成绩就不可能好。如果你想前期成绩好，你的动作合理性就不会非常高，那么你就没有后期。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 865235,
+  "timings": {
+    "chunks_wall_seconds": 2.98968825,
+    "encode_seconds_sum": 0.201963667,
+    "request_seconds_sum": 2.7761925,
+    "decode_seconds": 0.187898042,
+    "download_seconds": 0.919
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 81.0158125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7667068241763683636",
+  "title": "乒乓球动作合理性决定什么 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7667068241763683636",
+  "source_duration": 81.015,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7667068241763683636: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

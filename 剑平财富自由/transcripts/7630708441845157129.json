@@ -1,0 +1,29 @@
+{
+  "text": "上节课我们讲完了开户，这节课咱们进入交易，怎么买卖 E T F。先说最基本的，什么时候能交易，买多少起。E T F 的交易时间和股票完全一样，都是按照交易所的时间来交易。首先是早盘交易时段，时间是上午九点三十到十一点三十。然后是午盘交易时段，时间是下午一点到三点。在正式开盘之前，还有一个叫集合竞价的阶段，时间是早上九点十五到九点二十五。这个阶段主要是通过买卖申报来确定当天的开盘价格。最后在收盘前还有一个收盘竞价，时间是下午二点五十七到三点，这个阶段主要是用来确定当天的收盘价。有几个重要时间点，早上九点十五到九点二十，集合竞价前半段可以挂单也可以撤单，波动可能很大。九点。\n嗯。\n嗯。",
+  "chunks": 3,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 6986745,
+  "timings": {
+    "chunks_wall_seconds": 7.336707959,
+    "encode_seconds_sum": 1.9692328320000003,
+    "request_seconds_sum": 14.203850918,
+    "decode_seconds": 0.813079667,
+    "download_seconds": 8.383
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 654.709875,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7630708441845157129",
+  "title": "第5课：场内ETF买卖实战 交易界面全解读",
+  "video_url": "https://www.douyin.com/video/7630708441845157129",
+  "source_duration": 654.734,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7630708441845157129: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

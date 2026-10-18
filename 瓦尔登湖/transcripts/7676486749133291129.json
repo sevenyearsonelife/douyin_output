@@ -1,0 +1,27 @@
+{
+  "text": "普通人怎么让人生更自由？学外语、学外贸、学表达、学思辨、学理财。多休息、多睡觉、多运动、多读书、多存款。不赌博、不创业、不投机、不开店、不熬夜。买美股、买国债、买红利、买宽指、低点买黄金。必要时买二手车、买二手房。用宏大的世界稀释痛苦，用微小的事情感知幸福。多关注自己，少研究别人。看淡纷扰，守住本心。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 287699,
+  "timings": {
+    "chunks_wall_seconds": 1.726535916,
+    "encode_seconds_sum": 0.197122417,
+    "request_seconds_sum": 1.519282,
+    "decode_seconds": 0.110940916,
+    "download_seconds": 4.751
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 26.866875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7676486749133291129",
+  "title": "普通人怎么让人生更自由 #生活有用指南 #女性成长 #生活感悟 #人生感悟",
+  "video_url": "https://www.douyin.com/video/7676486749133291129",
+  "source_duration": 26.9,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7676486749133291129: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

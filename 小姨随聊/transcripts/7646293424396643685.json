@@ -1,0 +1,27 @@
+{
+  "text": "预判，他就想他他就预判我我就预判说这个券商会长，不是银行会长，我吧，他就不涨，他就想着他就他就这样去赌他。其实你你买这也是等于赌啊，按这个呃说也是对的，你其实这也是赌啊，你赌它以后会涨，是吧？其实你就是从它的业绩非常好，你要觉得它以后会涨，其实你就建个仓就可以了，它啥时候启动了再说，它反转了，趋势反转了再说。对对，建建仓。形成趋势了再说。建仓这是个啥意思？建个底仓之后，你你会有心思去关注它。就这意思。买一点，先买一点，买一万，买一万，买一万，买两万，你得有坚决的，你能看见那里边。建仓买入，看住它就完了。不要看它是反弹了你就咋样，你要确认它是反转了才。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 535763,
+  "timings": {
+    "chunks_wall_seconds": 2.1897808749999967,
+    "encode_seconds_sum": 0.13621966700156918,
+    "request_seconds_sum": 2.0229017910005496,
+    "decode_seconds": 0.1368082079989108,
+    "download_seconds": 7.933
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 50.1333125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7646293424396643685",
+  "title": "第一次线下聚会，大家畅所欲言#股友 #股民交流 #刷到的朋友有空过来喝茶 #股市 #投资",
+  "video_url": "https://www.douyin.com/video/7646293424396643685",
+  "source_duration": 50.134,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7646293424396643685: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

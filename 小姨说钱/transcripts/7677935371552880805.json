@@ -1,0 +1,27 @@
+{
+  "text": "很多人一听打新，第一反应就是新股上市赶紧申购，中了是不是就能赚钱了？先别急啊，咱把打新用大白话讲清楚。所谓的打新就是公司第一次上市发行股票的时候呢，普通投资者可以申请购买。你可以把它理解成一家新公司要上市了，拿出一部分股票呢卖给大家，你提前申请，最后能不能买到要看中签。注意啊，打新不是你申请了就一定能买到，就像抽奖一样，申请的人很多，股票数量有限，最后通过抽签决定谁能买到。那中了是不是就稳赚呢？以前确实有不少新股上市以后呢涨得很厉害，所以大家觉得打新像白捡钱，但是现在可完全不能这么想，中签呢不等于就赚钱了，新股上市以后股价一样会涨，也一样会跌。如果公司质地不好，或者市场情绪不好，破发也是有可能的。所以我一直建议大家啊，千万不要把打新理解成稳赚不赔。还有一个很多新手容易搞错的地方，打新呢不是看到新股就直接花钱买，不同的市场，不同的品种，申购条件和规则都不一样，有些呢还需要满足相应的持仓条件。所以如果你想参与，第一件事不是想着怎么多中签，而是先把规则搞明白。记住一句话啊，打新可以参与，但千万不要把它当成发财的捷径。投资真正能让你长期赚钱的从来不是靠一次中签，而是靠长期稳定适合自己的投资方式。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1150547,
+  "timings": {
+    "chunks_wall_seconds": 11.939992790925317,
+    "encode_seconds_sum": 1.7152464999817312,
+    "request_seconds_sum": 4.844649416045286,
+    "decode_seconds": 1.1442656250437722,
+    "download_seconds": 0.514
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 107.76525,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7677935371552880805",
+  "title": "打新要有一定的持仓#股票知识分享 #打新 #股民交流学习 #理财知识 #每天跟我涨知识",
+  "video_url": "https://www.douyin.com/video/7677935371552880805",
+  "source_duration": 107.8,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7677935371552880805: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

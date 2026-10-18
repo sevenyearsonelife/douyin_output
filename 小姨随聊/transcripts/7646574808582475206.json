@@ -1,0 +1,27 @@
+{
+  "text": "今天给大家聊一个炒股的牛人，还是一个女股神，账号叫 Serenity。最近呢连大佬但斌都转发了，这个牌面懂得都懂。就这五个月啊，这姐们的账户干了三十二倍，三十二倍啊！看最炸裂的是她一共拿了二十三支票，全部翻倍，最猛的一支涨了八十四倍。她到底咋做到的呢？她以前是基金研究员，现在她用 AI 去筛产业链，打法就四个字，产业思维，专挑整条链上最卡脖子、最核心的那个环节。比如她从磷化工、光芯片这些方向，她筛出来二十多支票，基本全都翻了几十倍。而且注意啊，一到五月这三十二倍还是回撤以后的数，最高的时候她冲到过三十八倍，咱就说牛不牛？并且她的这种方法值得我们所有的炒股人去反思。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 714707,
+  "timings": {
+    "chunks_wall_seconds": 2.980769499999951,
+    "encode_seconds_sum": 0.19729183399977046,
+    "request_seconds_sum": 2.482164749999356,
+    "decode_seconds": 0.22102208299838821,
+    "download_seconds": 0.313
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 66.898125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7646574808582475206",
+  "title": "这个炒股的牛人值得我们反思#Al #股民交流 #牛人 #理财技巧 #股市",
+  "video_url": "https://www.douyin.com/video/7646574808582475206",
+  "source_duration": 66.9,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7646574808582475206: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

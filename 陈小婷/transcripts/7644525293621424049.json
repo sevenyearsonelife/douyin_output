@@ -1,0 +1,27 @@
+{
+  "text": "我的五百万有救啦！今天从硅谷居士那里学到一个赚钱的办法，哎，一句话解读就是长期无脑定投标普和纳指。嗯，这个无脑适合我这种没有脑子的，定投适合我这样的懒人，纳指哎那是美股长牛啊，所以这不就是为我量身定制的吗？啊，但是毕竟我之前七搞八搞的亏过很多钱，还是有一点点戒备心的。然后我就翻看了各大网站、各大平台对于他的方法论的验证，真的管用吗？大家都在晒那么多年的收益，都没有一个反面案例。哎呀，为什么我现在才知道这个办法呢？应该还不晚吧？于是我就拿出了我自己的私房钱，立刻执行，买了一点点试水，结果，果然亏了。呵呵，虽然是个绿色的开头，哎，但是我会听话的，我会拿住的，我会一直定投的。那些评论区里让我去买美股的人，你们如愿了。你们一定要陪我二十年，然后让我们一起慢慢变老，慢慢变富，跟我一起见证二十年后的财富自由吧。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 655187,
+  "timings": {
+    "chunks_wall_seconds": 2.324874958,
+    "encode_seconds_sum": 0.16892087499999997,
+    "request_seconds_sum": 2.147676625,
+    "decode_seconds": 0.17672912500000004,
+    "download_seconds": 0.147
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 61.3253125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7644525293621424049",
+  "title": "我要把500W赚回来！谁来劝劝我！ #理财 #中产 #财富自由 #定投 #美股",
+  "video_url": "https://www.douyin.com/video/7644525293621424049",
+  "source_duration": 61.367,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7644525293621424049: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

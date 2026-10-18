@@ -1,0 +1,27 @@
+{
+  "text": "非农数据超预期，美股应声而跌。但别慌啊，这个数据是有水分的。市场第一反应是加息，所以先跌为敬。周一A股大概率也会低开，但关键是低开之后怎么走？过去五年看得很清楚啊，全球性危机，A股呢会持续难受。但如果是海外自己的事儿，比如硅谷银行那种，A股低开后呢，倒容易自己爬起来。这回就属于后者。AI板块呢局部有泡沫，但大逻辑没有崩。跟两千年互联网泡沫比，当年是纯画饼，现在呢是头部公司真有利润。真正要小心的是美联储一直加息，别的暂时不用太慌。操作上，眼下三类别碰，蹭AI概念的小票，还有外资重仓的白马股，嗯，再就是高杠杆。三条值得看的呢就是被错杀的硬核科技龙头，政策撑腰的新能源和硬科技，还有韩国股市可以当个风向标。最后提醒一句啊，别被一天的情绪带跑偏，分清楚是短期吓人还是长期逻辑真变了，守着有底子的，节奏就不会乱。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 869075,
+  "timings": {
+    "chunks_wall_seconds": 3.3856423329998506,
+    "encode_seconds_sum": 0.2687977090008644,
+    "request_seconds_sum": 2.542552375000014,
+    "decode_seconds": 0.404124958000466,
+    "download_seconds": 0.911
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 81.387375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7648807658074038501",
+  "title": "美股跌了A股咋办#美股大跌 #股民交流 #金融常识 #理财技巧 #投资",
+  "video_url": "https://www.douyin.com/video/7648807658074038501",
+  "source_duration": 81.4,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7648807658074038501: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

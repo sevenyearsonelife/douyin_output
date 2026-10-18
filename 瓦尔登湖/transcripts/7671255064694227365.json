@@ -1,0 +1,27 @@
+{
+  "text": "很多束缚从来不是外界强加，而是自我捆绑。心若被困住，走到哪里都是囚徒。人得具备翻篇的勇气，别让执念困住你的一生。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 188243,
+  "timings": {
+    "chunks_wall_seconds": 3.0527200409999997,
+    "encode_seconds_sum": 0.09330675,
+    "request_seconds_sum": 2.952286375,
+    "decode_seconds": 0.09811441700000001,
+    "download_seconds": 2.936
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 17.5543125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7671255064694227365",
+  "title": "别让执念困住你的一生 #女性自我成长 #人生感悟 #生活感悟",
+  "video_url": "https://www.douyin.com/video/7671255064694227365",
+  "source_duration": 17.553,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7671255064694227365: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

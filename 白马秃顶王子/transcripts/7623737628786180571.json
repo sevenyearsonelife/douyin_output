@@ -1,0 +1,27 @@
+{
+  "text": "还在以为纳斯达克一百只是美国科技股的集合吗？可能百分之九十的人都理解错了。纳斯达克一百指数本质上不是一百家公司，而是全球科技资产的定价中心。它只选两类公司，第一呢是市值最大的非金融企业，第二能代表未来科技方向的公司。所以你熟悉的苹果、微软、英伟达都在里边。但重点不是有哪些公司，而是它为什么这么强。核心有三点，第一，它是全球科技权重最高的指数之一，你像AI啊、芯片、云计算几乎全在里边。第二，它是赢家越涨越重的结构，涨得越多权重越高，形成强者循环。第三，它受到全球资金的广泛关注，不仅是美国本土资金，也吸引全球范围内对科技赛道感兴趣的资金参与。所以你要理解一件事情，配置纳斯达克一百不是投资一百家公司，而是在投资一个趋势，去投资全球科技升级方向。但是也要提醒你，高收益的背后一定是高波动，它能让你跑赢时代，也可能让你经历大幅回撤。那如果你想搞懂它和标普五百的区别，普通人到底该不该长期定投，关注我下一条我可以帮你讲透。OK，peace。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 730835,
+  "timings": {
+    "chunks_wall_seconds": 2.7747006659999998,
+    "encode_seconds_sum": 0.21404533299999995,
+    "request_seconds_sum": 2.551201208,
+    "decode_seconds": 0.13510329199999999,
+    "download_seconds": 1.571
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 68.430625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7623737628786180571",
+  "title": "纳斯达克100，快速科普#财经 #纳斯达克 #科普 #理财 #搞钱",
+  "video_url": "https://www.douyin.com/video/7623737628786180571",
+  "source_duration": 68.508,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7623737628786180571: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

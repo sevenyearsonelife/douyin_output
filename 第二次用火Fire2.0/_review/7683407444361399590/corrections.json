@@ -1,0 +1,320 @@
+[
+  {
+    "before": "刘小牌",
+    "after": "刘小排",
+    "time": 50,
+    "count": 1
+  },
+  {
+    "before": "Cloud Code",
+    "after": "Claude Code",
+    "time": 428,
+    "count": 2
+  },
+  {
+    "before": "cloud code",
+    "after": "Claude Code",
+    "time": 428,
+    "count": 4
+  },
+  {
+    "before": "Brian Zhou",
+    "after": "布莱恩·周",
+    "time": 156,
+    "count": 1
+  },
+  {
+    "before": "Proy",
+    "after": "Ploy",
+    "time": 166,
+    "count": 2
+  },
+  {
+    "before": "在那微博做一网站",
+    "after": "在那 Vibe 做一网站",
+    "time": 184,
+    "count": 1
+  },
+  {
+    "before": "A 精子",
+    "after": "Agent",
+    "time": 214,
+    "count": 1
+  },
+  {
+    "before": "飞步五",
+    "after": "Fable 5",
+    "time": 262,
+    "count": 3
+  },
+  {
+    "before": "飞锅五",
+    "after": "Fable 5",
+    "time": 280,
+    "count": 3
+  },
+  {
+    "before": "二零二零年七月",
+    "after": "2026 年 7 月",
+    "time": 396,
+    "count": 1
+  },
+  {
+    "before": "AI不就豆瓣嘛",
+    "after": "AI 不就豆包嘛",
+    "time": 374,
+    "count": 1
+  },
+  {
+    "before": "在豆瓣天天骗人",
+    "after": "这豆包天天骗人",
+    "time": 376,
+    "count": 1
+  },
+  {
+    "before": "飞书妙计",
+    "after": "飞书妙记",
+    "time": 600,
+    "count": 2
+  },
+  {
+    "before": "codex",
+    "after": "Codex",
+    "time": 594,
+    "count": 3
+  },
+  {
+    "before": "twitter",
+    "after": "Twitter",
+    "time": 652,
+    "count": 2
+  },
+  {
+    "before": "它容易对实战",
+    "after": "它容易堆屎山",
+    "time": 756,
+    "count": 1
+  },
+  {
+    "before": "给你 write 代码",
+    "after": "给你 review 代码",
+    "time": 850,
+    "count": 1
+  },
+  {
+    "before": "跟人批请你的产品",
+    "after": "跟人 pitch 你的产品",
+    "time": 864,
+    "count": 1
+  },
+  {
+    "before": "你就要这么找一下找对",
+    "after": "你要这么找 AI 找虐",
+    "time": 874,
+    "count": 1
+  },
+  {
+    "before": "他是提超提效百分之八百呢",
+    "after": "它是基操，提效百分之八百呢",
+    "time": 1022,
+    "count": 1
+  },
+  {
+    "before": "token maxim",
+    "after": "Token Maxing",
+    "time": 1112,
+    "count": 6
+  },
+  {
+    "before": "codeis",
+    "after": "Codex",
+    "time": 1210,
+    "count": 5
+  },
+  {
+    "before": "两个 cloud 账号",
+    "after": "两个 Claude 账号",
+    "time": 1206,
+    "count": 1
+  },
+  {
+    "before": "C E O",
+    "after": "CEO",
+    "time": 1218,
+    "count": 1
+  },
+  {
+    "before": "C T O",
+    "after": "CTO",
+    "time": 1220,
+    "count": 1
+  },
+  {
+    "before": "P R D",
+    "after": "PRD",
+    "time": 1246,
+    "count": 1
+  },
+  {
+    "before": "把 H 他推这么好了",
+    "after": "把 Agent 推这么好了",
+    "time": 1452,
+    "count": 1
+  },
+  {
+    "before": "G P T 五点五",
+    "after": "GPT 5.5",
+    "time": 1310,
+    "count": 6
+  },
+  {
+    "before": "Opus 四点八",
+    "after": "Opus 4.8",
+    "time": 1274,
+    "count": 1
+  },
+  {
+    "before": "opus 四点八",
+    "after": "Opus 4.8",
+    "time": 1274,
+    "count": 8
+  },
+  {
+    "before": "在大厂里螺丝",
+    "after": "在大厂拧螺丝",
+    "time": 1566,
+    "count": 1
+  },
+  {
+    "before": "哎，老板的 P U A",
+    "after": "挨老板的 PUA",
+    "time": 1576,
+    "count": 1
+  },
+  {
+    "before": "富盛",
+    "after": "傅盛",
+    "time": 1654,
+    "count": 1
+  },
+  {
+    "before": "谢尔盖、布林、贝佐斯",
+    "after": "谢尔盖·布林、贝佐斯",
+    "time": 1726,
+    "count": 1
+  },
+  {
+    "before": "高博士",
+    "after": "高报师",
+    "time": 1734,
+    "count": 1
+  },
+  {
+    "before": "Web Coding",
+    "after": "Vibe Coding",
+    "time": 1808,
+    "count": 1
+  },
+  {
+    "before": "我问你，我不像你怎么看啊",
+    "after": "我不像你这么看啊",
+    "time": 1846,
+    "count": 1
+  },
+  {
+    "before": "香蛋的",
+    "after": "香到你",
+    "time": 1860,
+    "count": 1
+  },
+  {
+    "before": "选择吃死人去待到",
+    "after": "选择吃屎，去待到",
+    "time": 1884,
+    "count": 1
+  },
+  {
+    "before": "Office 四点八",
+    "after": "Opus 4.8",
+    "time": 1900,
+    "count": 1
+  },
+  {
+    "before": "有中文出就我除外",
+    "after": "有真人出镜的除外",
+    "time": 2026,
+    "count": 1
+  },
+  {
+    "before": "今天工号写了啥",
+    "after": "今天公号写了啥",
+    "time": 468,
+    "count": 1
+  },
+  {
+    "before": "来来，讲讲讲讲",
+    "after": "来来，展开讲讲",
+    "time": 590,
+    "count": 1
+  },
+  {
+    "before": "他里，你四十岁，其实五万美金",
+    "after": "这么一个产品，一个四十岁，七十五万美金",
+    "time": 242,
+    "count": 1
+  },
+  {
+    "before": "毛宝宝家",
+    "after": "某某某家",
+    "time": 2014,
+    "count": 1
+  },
+  {
+    "before": "世界奖励。\n你离生产近的人",
+    "after": "世界奖励离生产近的人",
+    "time": 1680,
+    "count": 1
+  },
+  {
+    "before": "网站会自己点结单",
+    "after": "网站会自己迭代",
+    "time": 237,
+    "count": 1
+  },
+  {
+    "before": "所谓的自我成就就是一个幻觉啊，吃是你自己的选择",
+    "after": "所谓的自我成就就是一个幻觉啊，吃屎是你自己的选择",
+    "time": 31,
+    "count": 1
+  },
+  {
+    "before": "源代码管理的，源代码它不管理的",
+    "after": "源代码管理的，〔此处 GitHub 相关表述待核〕",
+    "time": 718,
+    "count": 1
+  },
+  {
+    "before": "买点呀",
+    "after": "买点〔疑为“埋点”，原字幕写作“买点”〕呀",
+    "time": 225,
+    "count": 1
+  },
+  {
+    "before": "之前四岁还",
+    "after": "〔此处短语待核〕",
+    "time": 926,
+    "count": 1
+  },
+  {
+    "before": "前提是牛客啊",
+    "after": "〔此处短语待核〕",
+    "time": 1180,
+    "count": 1
+  },
+  {
+    "before": "O E V I",
+    "after": "OINAI〔原字幕，名称待核〕",
+    "time": 1656,
+    "count": 1
+  }
+]

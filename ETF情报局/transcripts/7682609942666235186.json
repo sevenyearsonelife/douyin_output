@@ -1,0 +1,27 @@
+{
+  "text": "普通人光靠死磕ETF就能跑赢大多数天天盯盘的选手，真的可能吗？不仅可能，还非常简单。踩过大坑后才明白，普通人想赚钱真不用这么累。你只需要耐心持有四支ETF，今天我把这四支从A股到跨境的组合策略揉碎了讲给你听。第一支沪深三百ETF，把A股里市值靠前、流动性最好的三百家头部上市公司收拢在一起，覆盖金融、消费、制造等多个核心行业，相当于买了半个A股的核心资产。只要你看好中国经济长期发展，选它就踏实又靠谱，是咱们理财组合的坚实底仓，适合想稳健布局A股的投资者。第二支标普五百ETF，是美股市场的核心宽基指数，里面聚集了美国本土实力强劲的五百家龙头企业，苹果、谷歌、微软这些全球知名科技巨头都包含在内。布局它可以有效分散单一A股市场的风险，长期布局海外优质资产，平稳分享海外市场的发展收益。第三支纳斯达克一百ETF，主打长期高成长赛道，聚焦美股的科技赛道和新兴产业，紧跟未来发展的方向，上涨空间充足，同时波动也相对更高，适合看好科技产业前景，能接受正常市场波动，追求长期成长收益的朋友。第四支黄金ETF，资产组合的安全垫，它和股市走势关联度较低，市场波动时能分散风险，不让账户大起大落，用来打底配置，既能抵御通胀，也能稳住心态，避免行情波动时盲目交易。这四支ETF逻辑清晰，覆盖不同赛道，沪深三百坐镇稳健底仓，标普五百布局海外市场，纳斯达克一百偏向成长进取，黄金ETF负责对冲避险，搭配在一起，互补互助，形成一个完整的定投组合，然后守好纪律，耐心持有，慢慢就能拉开和普通人的差距。点赞关注，后续持续分享更多实战干货，咱们下期见。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1154387,
+  "timings": {
+    "chunks_wall_seconds": 4.124014874999999,
+    "encode_seconds_sum": 0.4046795000000001,
+    "request_seconds_sum": 3.7046735,
+    "decode_seconds": 0.21118145900000007,
+    "download_seconds": 0.265
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 108.13675,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7682609942666235186",
+  "title": "从 A 股到跨境，4 只 ETF 值得长期持有 #ETF#基金#自我提升#财富思维#复利",
+  "video_url": "https://www.douyin.com/video/7682609942666235186",
+  "source_duration": 108.136,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

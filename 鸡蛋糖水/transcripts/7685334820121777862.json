@@ -1,0 +1,28 @@
+{
+  "text": "港股有点难呐，港股，嗯，因为主要一个问题是陆股通不能做空呀。陆股通不能做空了的话，那市面上就有那个呃多日韩空空港股这样啊。啊，因为你买进去，人家人家就空你啊，并且人家是带杠杆空你啊，陆股通是不能做空的。所以再加上基本面现在港股，前上上两个月了我都说过，港股现在的融资可能又要破记录了。所以港股的融资这个IPO这个节奏太快太多了，量太大了，并且没有停的迹象。所以再包括阿里巴巴各方面也也要融啊，各方面都要融。所以港股现在成了一个大血包啊，现在各个地方都都都都从港股抽抽资金呢。然后那个红利，红利它又有税，算下来比在国内买那个红利指数差不了太多，它要算百分之八十嘛，呃，就是有百分之二二十的税嘛，所以算下来也差不多。所以港股现在走的一直也不温不火嘛，那个中概这段时间还下跌了，表面上看起来有点像前几天我看好像要要做个双底啊，它还是往下走啊。所以今年看来港股的那个反弹可能日韩先开，日韩开了如果开高了的话，它就可以做空港股嘛。呃，香港是九点多开，开到三点多，然后英盘开，英盘一直开到了晚上，晚上然后接着是美股开，九点半嘛，美股开，所以它就刚好是一个一呃一个顺序。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1069907,
+  "timings": {
+    "chunks_wall_seconds": 5.897926459000001,
+    "encode_seconds_sum": 0.2691980420000001,
+    "request_seconds_sum": 5.613685125,
+    "decode_seconds": 0.18147429200000004,
+    "download_seconds": 1.748
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 100.1955,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7685334820121777862",
+  "title": "港通规则不利于南下资金与国际投资者同台竞技 新手避坑，港股三大雷点\n1.硬性将本身T0的市场变成T1，国际投资者却能在同一个标的上进行日内交易。\n2.只能买入，自己不能做空，成为空头最稳定的接盘方。\n3.不能使用杠杠，空方可以杠杠融券，大范围抢夺券源，甚至绝大部分券源，让QD指数被动接盘#恒生科技#中概互联 #港股 #QDII #科创 ",
+  "video_url": "https://www.douyin.com/video/7685334820121777862",
+  "source_duration": 100.171,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7685334820121777862: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

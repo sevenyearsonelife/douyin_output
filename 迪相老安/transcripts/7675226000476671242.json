@@ -1,0 +1,28 @@
+{
+  "text": "打开手机看了一眼盘面啊，发现这个农业板块神不知鬼不觉的突然间又支棱起来了，不会是对夏粮突破三千亿斤这份数据的正向反应吧？搞不明白啊。不过农业板块它的市场特性啊比较特殊，很容易出黑天鹅，往往是这个市场到了主线缺位，没啥方向可炒的时候啊，资金才会跑过去留意这个方向，更多时候应该是属于轮动避险的选择啊。感觉就是热闹起来的时候啊很突然，消散起来啊也会很快，不了解这一特性的新股友呢很容易看到一字拉升就热血上头的冲进去。市场啊就是这样，消息出来是一回事，资金能不能持续接力啊又是另外一回事啊。以上仅为个人的投资感悟，不构成投资建议啊，股市有风险，理财需谨慎啊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 750803,
+  "timings": {
+    "chunks_wall_seconds": 3.7554041249999996,
+    "encode_seconds_sum": 0.18346049999999992,
+    "request_seconds_sum": 3.5619228339999998,
+    "decode_seconds": 0.128825166,
+    "download_seconds": 0.348
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 70.28825,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7675226000476671242",
+  "title": "又来？轮动避险这老剧本，我都看腻了 #老股民的感觉",
+  "video_url": "https://www.douyin.com/video/7675226000476671242",
+  "source_duration": 70.287,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7675226000476671242: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "我去年自学了游泳，学完事之后我发现这个世界真的是个巨大的操菜班子。我第一次进泳池的时候，我连成人泳道我都不敢进，我在儿童的浅水区扑腾了半天。然后我在看成人泳道里边的那些人来回流畅的游，我就很羡慕，然后觉得他们很厉害。后来我没有找私教，我就自己在抖音上去学姿势，然后学技巧。嗯，看完理论之后了，我就下水实践。实践完事之后，我就上岸去总结，去拆解，去纠正。就这样两个月的时间，我学会了蛙泳、自由泳和仰泳。现在我再去泳池，我的水平已经能超过那里百分之八十的人。甚至有的时候会有陌生人过来来向我请教一下技巧，或者是说交流一下心得。这件事让我认清一个真相，就是绝大多数的人其实都没有我们想象的那么厉害。你只需要稳定坚持，踏实行动一小段时间，就能超出同行人一大截。很多人其实看着是从容笃定，其实背地里是一样的自卑胆怯，只不过他们是不显露出来。所以别怕起步难堪，大胆的去行动，去祛魅。走着走着你就会发现，原来我远比我自己想象的更厉害。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 862547,
+  "timings": {
+    "chunks_wall_seconds": 2.768539375,
+    "encode_seconds_sum": 0.2566635420000001,
+    "request_seconds_sum": 2.499443542,
+    "decode_seconds": 0.260921916,
+    "download_seconds": 0.643
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 80.783625,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7670511645517877413",
+  "title": "原来我这么厉害 #真实生活分享计划 #自我成長日常 #真实自我表达 #女性成长",
+  "video_url": "https://www.douyin.com/video/7670511645517877413",
+  "source_duration": 80.781,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7670511645517877413: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

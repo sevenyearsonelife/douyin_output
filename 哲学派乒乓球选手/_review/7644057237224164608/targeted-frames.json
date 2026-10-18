@@ -1,0 +1,87 @@
+{
+  "video_url": "https://www.douyin.com/video/7644057237224164608",
+  "duration": 127.873,
+  "target_terms": [
+    "大概率的时间"
+  ],
+  "targeted": true,
+  "complete_video_coverage": false,
+  "frames": [
+    {
+      "time": 0,
+      "file": "00000.00.png"
+    },
+    {
+      "time": 85,
+      "file": "00085.00.png"
+    },
+    {
+      "time": 87,
+      "file": "00087.00.png"
+    },
+    {
+      "time": 89,
+      "file": "00089.00.png"
+    },
+    {
+      "time": 91,
+      "file": "00091.00.png"
+    },
+    {
+      "time": 93,
+      "file": "00093.00.png"
+    },
+    {
+      "time": 95,
+      "file": "00095.00.png"
+    },
+    {
+      "time": 97,
+      "file": "00097.00.png"
+    },
+    {
+      "time": 99,
+      "file": "00099.00.png"
+    },
+    {
+      "time": 101,
+      "file": "00101.00.png"
+    },
+    {
+      "time": 103,
+      "file": "00103.00.png"
+    },
+    {
+      "time": 105,
+      "file": "00105.00.png"
+    },
+    {
+      "time": 107,
+      "file": "00107.00.png"
+    },
+    {
+      "time": 109,
+      "file": "00109.00.png"
+    },
+    {
+      "time": 111,
+      "file": "00111.00.png"
+    },
+    {
+      "time": 113,
+      "file": "00113.00.png"
+    },
+    {
+      "time": 115,
+      "file": "00115.00.png"
+    },
+    {
+      "time": 117,
+      "file": "00117.00.png"
+    },
+    {
+      "time": 125,
+      "file": "00125.00.png"
+    }
+  ]
+}

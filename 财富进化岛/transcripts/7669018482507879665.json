@@ -1,0 +1,30 @@
+{
+  "text": "我越来越不愿意参与短线来回交易。现在市场早已不是十几年前，量化 AI 算法无处不在，机器没有情绪，全天不间断捕捉微小波动。我们普通人拿着手机和机器拼短线，先天就处于劣势。再加上交易持续产生税费滑点，身边大量做短线的朋友长期下来大多都是亏钱。所以我放弃博弈差价的玩法。我的思路很简单，不跟机构量化内卷短线零和游戏，选择长期持有稳定产生现金流的优质资产，依靠企业分红持续复投，不去争夺短期波动的收益，安心赚取企业长期经营的利润。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 422867,
+  "timings": {
+    "chunks_wall_seconds": 1.6816007499874104,
+    "encode_seconds_sum": 0.15728937499807216,
+    "request_seconds_sum": 1.5218004999915138,
+    "decode_seconds": 0.16320149999228306,
+    "download_seconds": 1.283
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 39.5435625,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7669018482507879665",
+  "title": "放弃短线交易！普通人别和量化AI内卷零和博弈。 \n我渐渐不愿做短线来回交易，当下量化、AI遍布市场，机器无情绪、毫秒级交易，散户以人性对抗算法天然处于下风。叠加交易摩擦成本，绝大多数人长期很难盈利。避开短线博弈赛道，长期持有现金流优质资产，依靠分红复投，赚取企业经营的长期利润。\n#投资认知 #散户交易 #量化交易 #股息投资",
+  "video_url": "https://www.douyin.com/video/7669018482507879665",
+  "source_duration": 39.543,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7669018482507879665: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "review_scope": "逐条正文主题、开头、长度及文件一致性校验；6条疑点补充画面抽查；非全片逐字听校，非事实核查",
+  "reviewed_at": "2026-09-10T22:37:29.429825+08:00",
+  "review_note": "已阅读正文，主题、开头和长度基础复核通过；文件与来源链接一致。"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "很多人说股票分红、基金分红没意义，就是把自己的钱左手倒右手。股价十块，分红一块，除息之后股价变成九块，看着账户里的钱一分没多，好像确实没用。但只说对了一半。我给你打一个最通透的比方，你养了一只会下金蛋的鸡，下蛋之前鸡重十斤，下完一斤的金蛋，鸡暂时变成九斤。如果这个时候你把它卖掉，那确实是自己分自己的钱，毫无意义。但如果你长期养着它，过一年鸡又长回十斤，这个时候你鸡还在，金蛋也落袋了，这就是分红的真正价值。股票分红一模一样，分红瞬间股价重新下跌，是因为公司把账面现金分给股东，公司的净资产暂时减少，股价自然下调。但决定你赚不赚钱的不是分红的那一刻，是这家公司分完钱还能不能持续赚钱。只要企业盈利能力强，后续股价就会慢慢涨回原价，这个过程就叫填权。填权完成后，你的股票市值回来了，现金分红也实实在在拿到手，这就是稳稳的收益。所以分红有没有意义，完全看你的投资方式。做短线拿不住一年，分红就是左手倒右手，还容易被扣税，确实没意义。做长线拿优质资产，分红就是实打实的被动现金流，越拿越值钱。记住一句话，分红只是暂时的缩水，企业的造血能力才是长期收益的底气。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1101395,
+  "timings": {
+    "chunks_wall_seconds": 3.765371708,
+    "encode_seconds_sum": 0.435334584,
+    "request_seconds_sum": 3.3055315419999998,
+    "decode_seconds": 0.5219910830000001,
+    "download_seconds": 0.994
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 103.1676875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7680717861144243313",
+  "title": "股票分红就是左手倒右手？很多人都理解错了 #交流你的赚钱经验 #创作者中心 #创作灵感 #普通人理财 #股票分红\n以上仅为我个人的理财思考，不构成任何投资建议，每个人风险承受能力不一样，请结合自身情况做选择。",
+  "video_url": "https://www.douyin.com/video/7680717861144243313",
+  "source_duration": 103.2,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7680717861144243313: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

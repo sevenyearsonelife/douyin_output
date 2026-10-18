@@ -1,0 +1,29 @@
+{
+  "text": "纯业余练球是很容易陷入到一种死循环当中去的，这个死循环是什么呢？假如说我们打比赛的时候想赢球，这个时候就需要你加一定的质量，如果你质量太低的话，你打不死对方，或者说你质量太低的时候，对方会反加质量给你，那么这个球回来你又防不住。那么你想加质量的话，你就会上网去查视频，怎么样才能加质量？你查到的结果大概率是要用手指手腕。那么你用了手指手腕之后，你发现这个球的质量它确实是变高了，它是立竿见影的。但是当你用多了手指手腕之后，你会发现你的身体是用的很少的，或者说几乎没用。那么你身体用的少或者说身体没用的话，你这种重心转换的感觉，重心的感觉是很弱的，或者说压根就没有。那么你没有重心，那么你打球就不会有连续，就不会有高质量，因为只用手指手腕打出来的球它是低质量的，就跟打耳光一样，你扇上去啪啪响，实质上是没有造成很厉害的伤害的，它是不伤筋不动骨的，它只是皮肉伤。但是假如说你开始打球，你是用身体的，你是想用重心的，这个时候你会发现质量太低，打不死人，这个比赛你又赢不了，那么赢不了比赛，那你又不想打球了，所以就会形成一个完美的闭环，就绝大部分人他是陷入到这个闭环当中去的，你是很难逃出来的。那么解决这个问题只有一个办法，就是不计较输赢，就我对输赢完全不在乎，就只有这一条路你才能所谓的把你的乒乓球的框架练出来，但凡你稍微注意一点输赢的话，这个框架你是很难练得出来的。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 880979,
+  "timings": {
+    "chunks_wall_seconds": 3.3666110000000002,
+    "encode_seconds_sum": 0.206050917,
+    "request_seconds_sum": 3.148726542,
+    "decode_seconds": 0.157504625,
+    "download_seconds": 0.553
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 82.5019375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7681906011602455844",
+  "title": "乒乓球业余练球恶性循环 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7681906011602455844",
+  "source_duration": 82.478,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7681906011602455844: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

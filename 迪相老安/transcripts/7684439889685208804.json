@@ -1,0 +1,28 @@
+{
+  "text": "我看昨天评论区呢有股友啊问了一个很扎心的问题啊，如果要被强平的股票，市场上没人接盘，是不是就没法强平了？那这个答案是很残酷的啊，不是不能强平，而是要直接封死跌停。这个两融账户啊触发平仓线之后啊，券商系统呢依然会挂单卖出，但如果这只股票一字跌停，买单稀少，那么这个单子挂出去卖不掉的时候啊，平仓啊就会持续连续的排队。如果连续跌停持续卖不出去，你的账户亏损啊会继续扩大，等到后续终于有买单成交的时候啊，亏损已经超过了你账户的全部保证金。这个时候就会出现粉丝说的这个情况，倒欠券商钱，也就是穿仓了。所以之前咱们很多粉丝理解的哈有误区，你以为保证金亏光了就结束了，不是，杠杆的风险啊就在这里。你只要跌停板没有买盘，券商无法及时平仓，那么此时超出本金的那一部分亏损啊，依然要由投资者承担。当然现实里啊，券商有这个风控预警线，他会提前通知你追加保证金，就是为了尽量的避免走到穿仓这一步。但是你遇到极端的连续的跌停，也就是系统性风险出现的时候，我上面的这种假设依然存在。所以呢咱经常给大家伙强调这个杠杆交易最大的隐形风险，不是正常回调，而是遇到流动性枯竭时，想跑啊都跑不掉。好，本内容仅为市场知识科普，不构成任何投资建议啊，股市有风险，投资啊需谨慎啊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1228883,
+  "timings": {
+    "chunks_wall_seconds": 3.64588825,
+    "encode_seconds_sum": 0.283791209,
+    "request_seconds_sum": 3.3467002080000006,
+    "decode_seconds": 0.19277233299999996,
+    "download_seconds": 1.131
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 115.10275,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7684439889685208804",
+  "title": "股票跌停卖不出去，券商还能平仓吗？有可能 ",
+  "video_url": "https://www.douyin.com/video/7684439889685208804",
+  "source_duration": 115.102,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7684439889685208804: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

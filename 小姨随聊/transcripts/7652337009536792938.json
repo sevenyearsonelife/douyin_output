@@ -1,0 +1,27 @@
+{
+  "text": "今天呢在网上看到一篇文章，嗯觉得非常不错，分享给大家。一个下降通道赚钱那是偶然的，亏钱是必然的。在一个上升通道赚钱是必然的，亏钱呢是偶然的。这是顶级的游资看透市场本质的核心心法，也是顺势交易最直白的真理。市场走势呢自带趋势惯性，趋势才是普通人最大的胜负手，而非一时运气。短线技巧第一，下降通道逆势而为，大势碾压一切。熊市在下降趋势里，整体资金出逃，情绪悲观，抛压源源不断，哪怕偶尔抓个反弹盈利，只是行情短暂喘息带来的侥幸收益，没有行情托底，利空洗盘，阴跌随时袭来。此时所有的短线操作，抄底博弈，都是逆着大势对抗市场，小赚留不住，大亏迟早来，亏钱注定是常态，盈利只是昙花一现。第二就是在上升通道里，顺势借力，行情成全盈利。上涨趋势中呢主力资金进场，市场情绪回暖，做多力量占据了主导，板块轮动普涨，个股普涨机会遍地。身处多头行情里面，哪怕选股一般，操作稍有失误，市场大趋势也会拖着股价向上走，顺势持仓，淡定持有，就能吃到主升浪。偶尔踏空了，小幅亏损只是短期的节奏失误，无伤大局，稳稳赚钱才是大势注定。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1128659,
+  "timings": {
+    "chunks_wall_seconds": 10.698248749999038,
+    "encode_seconds_sum": 0.25517787500029954,
+    "request_seconds_sum": 10.331535291999899,
+    "decode_seconds": 0.30189854099990043,
+    "download_seconds": 1.146
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 105.721875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7652337009536792938",
+  "title": "趋势为王#趋势#股民交流 #财富认知 #投资",
+  "video_url": "https://www.douyin.com/video/7652337009536792938",
+  "source_duration": 105.734,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7652337009536792938: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

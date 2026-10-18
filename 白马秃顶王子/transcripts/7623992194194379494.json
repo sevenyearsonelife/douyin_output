@@ -1,0 +1,27 @@
+{
+  "text": "同样是美国指数，为什么收益差这么多？纳斯达克一百指数对比标普五百指数，差别其实就三点。第一，结构不同，纳斯达克一百是科技集中型，而标普五百是美国经济全覆盖，一个押未来，一个押平均。第二，收益逻辑不同，纳指靠的是科技爆发，像AI啊、芯片、互联网，而标普靠的是稳定增长，像金融、消费、工业一起走。第三，波动完全不是一个等级，纳指涨得更快，但回撤也更深，标普更稳，但爆发力弱。所以本质区别只有一句话，纳斯达克一百是成长加速器，标普五百是长期复利底盘。OK，关注我，下期想看哪个指数，评论区告诉我。Alright，peace。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 453203,
+  "timings": {
+    "chunks_wall_seconds": 2.260895458,
+    "encode_seconds_sum": 0.17285312499999994,
+    "request_seconds_sum": 2.059558666,
+    "decode_seconds": 0.10954416699999997,
+    "download_seconds": 1.961
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 42.399625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7623992194194379494",
+  "title": "同样都是美国的指数，为什么收益差这么多，纳斯达克100 VS 标普500#财经 #纳斯达克100 #标普500 #理财 #科普",
+  "video_url": "https://www.douyin.com/video/7623992194194379494",
+  "source_duration": 42.434,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7623992194194379494: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,29 @@
+{
+  "text": "纯业余打球，接发球一定是最难的。如果说你接发球这一关能过的话，你基本上已经迈入到了业余高手这个行列。那我们说接发球主要分两部分，第一，首先我们说这个球怎么接它并不重要，最重要的环节是你要明确的知道这个球它是一个什么旋转。比如说对方发了一个球，你要判断出来它是上旋还是下旋，它是左侧还是右侧，它是侧上还是侧下，首先你要很清楚的判断出它是什么旋转，然后下一步我们才会选择说用哪一种方式去接。那么百分之八九十的人他都倒在第一步上，就是绝大多数的人他是判断不清楚对方的旋转的。当你不知道对方旋转的时候，你用什么方式接它都是一样的。那我们说业余接发球不好，主要就不好在你判断不清楚对方的旋转。那这个东西怎么提升呢？这个东西只能通过时间的积累，只能通过你去观察对方的发球，通过这种经验慢慢的积累上来，这个是没有任何捷径可走的。然后我们再说第二步，就是当你能判断对方球的旋转的时候，下一步就是判断球旋转的强弱，因为你只有知道对方旋转强弱的时候，你的手上才可以去加东西，比如说弱一点我就轻一点，啊比如说转一点我就重一点。那么当你能够判断对方旋转，但是判断不清旋转强弱的时候，这个阶段就会出现接发球能够接得上，啊但是会出现各种冒高的情况，啊就接不了那么完美。那么这个阶段也是需要时间的一个积累，就什么时候你对对方的旋转能够判断的很清楚了，你手上加的力量能够加的很合理了，这个时候每一个球你接过去它都不会冒高。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 965459,
+  "timings": {
+    "chunks_wall_seconds": 4.098282041,
+    "encode_seconds_sum": 0.3218629169999999,
+    "request_seconds_sum": 3.7565416250000006,
+    "decode_seconds": 0.19676145899999997,
+    "download_seconds": 0.369
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 90.3966875,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7688248286209150217",
+  "title": "乒乓球接发球就两点 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7688248286209150217",
+  "source_duration": 90.373,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7688248286209150217: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

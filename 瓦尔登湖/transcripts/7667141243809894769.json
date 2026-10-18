@@ -1,0 +1,27 @@
+{
+  "text": "你们身边有没有那种人，说话贼难听，事后轻飘飘的一句：“我刀子嘴豆腐心，你别多想。”我从来不吃这一套。言语带来的伤害是真实存在的。其实不尊重你的人，早在心里衡量过你的价值。他笃定你好说话，赌你会忘，赌你就算记得，也没有能力反抗。对待这种人，最直接的办法就是翻脸。没有人规定我要一边承受你的刻薄，还要主动的去体谅你的本心。与其不断的内耗，不如主动的去亮出底线。永远记住，我的情绪和感受，优先于一切。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 526163,
+  "timings": {
+    "chunks_wall_seconds": 1.9577450829999998,
+    "encode_seconds_sum": 0.150248958,
+    "request_seconds_sum": 1.7987702499999998,
+    "decode_seconds": 0.13533379199999995,
+    "download_seconds": 19.199
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 49.2263125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7667141243809894769",
+  "title": "说话难听的人，心里早就权衡好了一切！#人生感悟分享",
+  "video_url": "https://www.douyin.com/video/7667141243809894769",
+  "source_duration": 49.267,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7667141243809894769: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

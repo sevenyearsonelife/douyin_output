@@ -1,0 +1,27 @@
+{
+  "text": "今年以来绝大多数红利ETF都是亏的，买了红利基金的朋友现在心里肯定很难受。今天老东就把这件事拆一下，看看红利为什么会跌，还值不值得扛。其实红利下跌的原因就两个，一是科技太强了，资金被吸走了。AI算力、半导体等科技板块涨势迅猛，资金大规模的从防御性资产抽离去追科技，红利作为防守品种自然被冷落。二是红利指数踩了资源股的坑，中证红利指数因为较高的权重分布在有色和资源板块，近期资源品价格回调，红利指数就跟着承压。但是红利跌了之后反而更值钱了，很多朋友只看到价格跌了，却没有看到股息率在涨。比如经过调整，中证红利指数的市盈率下降了，当前的股息率已经回升到了百分之五左右，也就是说你现在买入的成本比几个月前都要更低，但每年能拿到的分红比例反而更高了。所以老东认为红利资产的长期逻辑没有变，跌下来反而是机会。你要清楚红利策略的核心从来不是短期涨跌，而是持续稳定的股息分红叠加股息再投资的复利。如果你理解不了这一点，那就不要去买红利了，红利只适合长期持有，在任何一轮牛市，红利的表现都不会太好，而这次科技涨得如此凶猛，红利也是如此。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 817619,
+  "timings": {
+    "chunks_wall_seconds": 3.044993709,
+    "encode_seconds_sum": 0.20575424999999992,
+    "request_seconds_sum": 2.827591417,
+    "decode_seconds": 0.16082887499999998,
+    "download_seconds": 0.79
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 76.557625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7654347985564320883",
+  "title": "聊聊对红利类的看法和策略#复利 #红利 #财富自由 #基金 #干货分享",
+  "video_url": "https://www.douyin.com/video/7654347985564320883",
+  "source_duration": 76.567,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

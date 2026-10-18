@@ -1,0 +1,29 @@
+{
+  "text": "纯业余练球很难练好，有一个很大的原因就是恢复力变得非常差。啊，这个恢复力是什么呢？比如说我原来十几岁的时候，那个时候放了假，我早上八点进了球馆，可能说我晚上八点才从球馆出来，我可以打好几天都没有事儿。啊，虽然说我打一天非常累，但是我睡一觉，我第二天整个身体就恢复的跟昨天一样了，没有任何问题。但是当你三四十岁的时候，你高强度的打一天球，你第二天起床之后，你就会发现浑身都会疼，啊，每个地方都会疼，而且精神状态非常差，你就不可能说我连续打几天球，除非你的身体素质非常非常的好。啊，对于绝大部分普通人来讲，你只能打一天，你第二天可能说你状态就非常差了，你就打不了了。所以说你像这种十几岁、二十几岁的小伙子啊，他就可以每天高强度的训练，因为他的恢复能力强呀，虽然说他累了一天，他晚上睡一觉，第二天基本就恢复了。你像很多人他是下了班之后去球馆打球，啊，他只是去随便玩一玩，也不敢说练的非常大，因为第二天还得上班。啊，你晚上高强度的训练，你第二天整个人起来浑身都疼，精神状态又非常差，是非常影响这个上班的。你像这几年在我身上这种情况就非常的普遍，啊，只要这一天打球打的比较多，第二天早上起来必然身体会浑身疼，精神状态也会变得非常差，啊，这个就是恢复能力变弱的一个征兆。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 826451,
+  "timings": {
+    "chunks_wall_seconds": 3.9435203750000003,
+    "encode_seconds_sum": 0.2444244160000001,
+    "request_seconds_sum": 3.6847449159999996,
+    "decode_seconds": 0.15490220799999999,
+    "download_seconds": 0.747
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 77.3935,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7651858896813870355",
+  "title": "乒乓球纯业余恢复力差 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7651858896813870355",
+  "source_duration": 77.37,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7651858896813870355: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "很多人买股票为什么总是拿不住？其实不是因为心态差，也不是因为你不够聪明，而是因为你根本不知道自己买的到底是什么。以前我也不怎么研究个股，但最近啊我开始认真的研究机器人。我现在明白了，平时你不研究，等趋势真正爆发的时候，你根本不敢买，就算买了，跌一点你也拿不住，涨一点你也拿不住，所以我经常。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1535699,
+  "timings": {
+    "chunks_wall_seconds": 2.154388791001111,
+    "encode_seconds_sum": 0.19355149999864807,
+    "request_seconds_sum": 1.922745957999723,
+    "decode_seconds": 0.3165003340000112,
+    "download_seconds": 34.232
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 143.870875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7642914554917301242",
+  "title": "手里的票为什么拿不住#股票知识 #股民交流 #理财技巧 #投资",
+  "video_url": "https://www.douyin.com/video/7642914554917301242",
+  "source_duration": 143.895,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7642914554917301242: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

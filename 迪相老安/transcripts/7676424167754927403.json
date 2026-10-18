@@ -1,0 +1,30 @@
+{
+  "text": "今天呢咱们继续聊银行哈，不过聊的是银行股的分化哈。肉眼可见的是今年银行股的表现那叫一个魔幻啊，一边是国有大行、股份行集体躺平，股价不涨反跌，另外一边呢城商行指数偷偷的涨了七点五一个百分点，四家城商行的代表涨幅全都超过了百分之二十，同样是银行，差距啊咋就那么大呢？今天呢咱们就来扒一扒这数据背后的五大原因。第一点，业绩。\n嗯。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 3620518,
+  "timings": {
+    "chunks_wall_seconds": 7.316670500000001,
+    "encode_seconds_sum": 0.48126154199999993,
+    "request_seconds_sum": 10.148436874999998,
+    "decode_seconds": 0.768944458,
+    "download_seconds": 9.051
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 339.2429375,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7676424167754927403",
+  "title": "银行股冰火两重天，国有大行躺平，城商行偷偷吃肉？ ",
+  "video_url": "https://www.douyin.com/video/7676424167754927403",
+  "source_duration": 339.267,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7676424167754927403: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

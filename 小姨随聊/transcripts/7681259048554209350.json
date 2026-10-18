@@ -1,0 +1,27 @@
+{
+  "text": "十年前呢，我以为价值投资就是买了不动，以为价值投资就是越跌越买，以为呢价值投资就是选个白马股拿着就行，其实这些都错了。前几年一个偶然的机会啊，让我读了这本唐朝的价值投资实战手册，看了它我才明白我之前对价值投资的理解呢全是皮毛，全是想当然。这本书啊它不拽什么护城河呀，安全边际啊这些听着高大上的用词，作者老唐是用真金白银实战出来的经验，告诉我们一家公司怎么去估值，啊什么价格买划算，什么时候该卖，它特别适合以下几种人啊，第一种就是炒股多年，账户绿多红少，想转型价投但不知道从哪下手的，书里把价投的底层逻辑用大白话讲得透透的，看完你就知道以前为啥亏钱。第二种呢就是听说过价值投资也想学，但一看财务报表就头疼，一看研报就犯困，老唐很牛的地方就是能把枯燥的东西讲的跟故事一样，你看着看着就觉得啊原来是这么回事。第三种买了股票一跌就慌，一涨就想卖，拿不住的，这本书能让你知道你买的啥值多少钱，市场再怎么折磨你心里有数。说一句掏心窝子的话，在这个市场咱们散户唯一能靠的就是自己的认知，真正的价值投资是凭认知赚钱。如果你想摆脱那个天天盯盘焦虑不安的自己，这本书值得你翻烂它。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1178963,
+  "timings": {
+    "chunks_wall_seconds": 4.711125083000297,
+    "encode_seconds_sum": 0.2694510420005827,
+    "request_seconds_sum": 3.715745708999748,
+    "decode_seconds": 0.241234875000373,
+    "download_seconds": 1.489
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 110.4123125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7681259048554209350",
+  "title": "价值投资究竟该怎么投#价值投资 #好书推荐 #读书 #财商书籍学习 #投资思维",
+  "video_url": "https://www.douyin.com/video/7681259048554209350",
+  "source_duration": 110.467,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7681259048554209350: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

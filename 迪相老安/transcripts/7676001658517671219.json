@@ -1,0 +1,28 @@
+{
+  "text": "此时此刻看着这位白发苍苍的落魄老人，还是忍不住的想赋诗一首啊。叹家印，曾慨大而不能倒，岂料今朝作楚囚。商海沉浮无铁卷，唯余正道是长矛啊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 232787,
+  "timings": {
+    "chunks_wall_seconds": 1.097675416,
+    "encode_seconds_sum": 0.11676958299999995,
+    "request_seconds_sum": 0.9761612500000001,
+    "decode_seconds": 0.09213225000000003,
+    "download_seconds": 0.971
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 21.7106875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7676001658517671219",
+  "title": "此时此刻，他只是一个老人，但不是无辜的 ",
+  "video_url": "https://www.douyin.com/video/7676001658517671219",
+  "source_duration": 21.711,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7676001658517671219: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

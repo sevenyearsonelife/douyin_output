@@ -1,0 +1,27 @@
+{
+  "text": "你发现没有，真正让一个家庭长期翻不了身的，从来不是工资很低，而是永远没有本金。没有本金的人呢，一辈子都只能靠时间、体力去换钱。老板脸色不好，你得忍吧。工作干得恶心，你不能辞，你不敢辞。行业不行了，你连重新选择的机会都没有，因为你根本停不起啊。但如果你手里有个二十万、三十万，那就不一样了。它最厉害的地方是什么？是第一次让一个普通家庭拥有了缓冲区。你失业半年，家人生病，生意亏损，很多家庭几年积蓄一下子清零了。但是如果你有了二三十万，就增加了你的抗风险能力，并且它能让你开始明白什么叫资产，什么叫复利，什么叫真正的财富积累。最近我就在看一本书叫《稳富》，这本书里有一个观点我特别认同，真正厉害的人不是赚得最快的人，而是能长期留在牌桌上的人。挣到一点钱就立马消费升级，买车买房，很多看起来风光的人其实根本扛不住三个月没收入。如果你拥有三十万，并且能够留住它，你会慢慢进入另一个阶段。你开始懂得财富不是花出来的，财富是守出来和滚出来的。不知道怎么守和怎么滚的，一定要去看这本《稳富》。普通家庭真正的觉醒不是学会炫耀，而是先学会稳，先稳住现金流，稳住家庭，稳住资产，最后你才有机会慢慢走向真正的富。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1080275,
+  "timings": {
+    "chunks_wall_seconds": 3.586528084000747,
+    "encode_seconds_sum": 0.2361602499986475,
+    "request_seconds_sum": 3.3146243750015856,
+    "decode_seconds": 0.24077554200084705,
+    "download_seconds": 0.628
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 101.17075,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7642670781289233905",
+  "title": "30万能给一个家庭带来什么#股民交流 #攒钱 #稳富 #理财知识 #投资",
+  "video_url": "https://www.douyin.com/video/7642670781289233905",
+  "source_duration": 101.2,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7642670781289233905: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

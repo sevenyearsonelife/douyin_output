@@ -1,0 +1,27 @@
+{
+  "text": "今晚到明早啊，市场可能会迎来一个重要的观察窗口。特朗普表示，美伊可能在十四号达成协议，并推动霍尔木兹海峡恢复正常的通行。但是大家都知道啊，特朗普那个不靠谱，他的话我们也就听听就可以了，不能当结论。关键咱还要看伊朗方面的最终表态。目前伊朗虽然否认了十四号签署协议的具体时间，但也没有把门呢彻底关死，表示未来几天仍存在达成协议的可能。如果局势真的缓和了，海峡恢复正常，对全球风险偏好都是利好，能源价格压力下降也会影响市场对美联储后续政策的预期。美联储是全球金融市场的钥匙，一旦地缘风险降温，黄金、有色、科技等方向都有望迎来情绪的修复。当然了，现在一切还在等待最终消息落地，今晚不睡的朋友记得盯紧消息。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 690899,
+  "timings": {
+    "chunks_wall_seconds": 2.4878315000005387,
+    "encode_seconds_sum": 0.16237754199937626,
+    "request_seconds_sum": 1.9734656250002445,
+    "decode_seconds": 0.16097341699969547,
+    "download_seconds": 0.525
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 64.669,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7651233973642038649",
+  "title": "今晚可能决定下半年的行情#霍尔木兹海峡 #投资思维 #理财知识 #金融 #股民交流",
+  "video_url": "https://www.douyin.com/video/7651233973642038649",
+  "source_duration": 64.7,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7651233973642038649: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

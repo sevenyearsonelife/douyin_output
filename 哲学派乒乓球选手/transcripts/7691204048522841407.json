@@ -1,0 +1,29 @@
+{
+  "text": "大家认为业余打球是适合抢攻流打法呢，还是适合于站桩流打法？可以把你的看法打在评论区里。所谓的抢攻流打法就是发球要好，正手要好，基本上是全台正手去抢。然后所谓的站桩流打法就是站在中台这个位置，走的是这种相持的路线，它要求你的正反手都有这种挂弧圈的能力。我们先说这个抢攻流的打法，抢攻流的打法它要求是发球要比较好，但是我们说发球这个东西它是乒乓球技术里最难的一项，就是你想练好一手好的发球是非常非常难的。再有一个就是要求你的正手要好，就是抢攻流打法几乎都是全台正手，那么它对你正手的能力以及步法的要求是非常非常高的。实际上在纯业余当中抢攻流的人还是很多的，但是真正能做到说我全台正手都能跑的人是很少很少的，就是它对步伐的要求非常非常高。然后我们再来说这个站桩流打法，站桩流打法它是偏向于这种相持的，所以它要求你的防守能力要还可以，然后人是站在中远台这个位置，啊平时是站在中台这个位置，就是它要求你的正反手是比较均衡的，就是你的正反手都要能挂得住。那么这种站桩流的打法它对拉球的要求是比较高的，特别是你正反手都要会拉，因为人退到中远台这个位置，它的这种空间感就会变得比较差，特别是反手位，可能说你退到中远台，你的正手拉起来是比较舒服的，因为节奏比较慢，很容易卡到下降期这个位置，但是你反手拉起来就会比较难受，就是它对空间感的要求是比较高的。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 897491,
+  "timings": {
+    "chunks_wall_seconds": 3.5558430839999997,
+    "encode_seconds_sum": 0.2241247500000001,
+    "request_seconds_sum": 3.317304042,
+    "decode_seconds": 0.21760775,
+    "download_seconds": 0.569
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 84.0344375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7691204048522841407",
+  "title": "乒乓球发抢打法站桩打法 乒乓球理论",
+  "video_url": "https://www.douyin.com/video/7691204048522841407",
+  "source_duration": 84.01,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7691204048522841407: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

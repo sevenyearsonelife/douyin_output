@@ -1,0 +1,30 @@
+{
+  "text": "那在上一期的短视频里啊，我们和大家有提到哈，就是现在很多做价投的朋友啊，近期呢都在聊地产板块，网上的观点呢也是比较鲜明的分成了两派，一部分人说地产啊迎来的是新周期，所以未来啊业绩呢要起飞。另一部分人认为啊，当前只是简单的估值修复，不能当成业绩反转。两种情况虽然都会带来股价上涨，但是底层逻辑啊完全不一样，如果傻傻分不清的话，也是很容易踩坑的，所以呢今天啊咱们就这个话题掰开来。\n嗯。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 4086310,
+  "timings": {
+    "chunks_wall_seconds": 5.192255875,
+    "encode_seconds_sum": 0.504482833,
+    "request_seconds_sum": 6.579930874,
+    "decode_seconds": 0.6664700839999999,
+    "download_seconds": 17.466
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 382.8969375,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7690178257588718899",
+  "title": "估值修复不等于业绩反转，价值投资者，怎么看待地产板块？ ",
+  "video_url": "https://www.douyin.com/video/7690178257588718899",
+  "source_duration": 382.9,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7690178257588718899: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

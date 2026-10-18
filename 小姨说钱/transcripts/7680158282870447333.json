@@ -1,0 +1,27 @@
+{
+  "text": "格力又不分红了，公告中期分红取消，这波操作你给几分？我们来看数据啊，上半年格力营收八百九十四亿，下滑了百分之八，净利润一百三十三亿，也掉了将近百分之八。外销最惨啊，直接跌了百分之二十二。但奇怪的是公司账上现金流一百八十八亿，是利润的一点四倍，不差钱啊，但不分红。有人说，嗯，中期不分红不代表全年不分红，去年也是中报说不分，十月呢又补了一个方案，但这次不一样了啊。过去三年的分红承诺到期了，新的措辞改成了视情况另行决定，说白了那颗定心丸没了。对拿着格力的朋友来说，现在最大的悬念不是三季报的业绩，而是年底到底分不分。如果连年度分红都缩水了，那红利资产四个字可能就要重新定义了。手里有格力的朋友，你还拿得住吗？咱们评论区聊聊。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 704723,
+  "timings": {
+    "chunks_wall_seconds": 7.746995082939975,
+    "encode_seconds_sum": 0.33637716597877443,
+    "request_seconds_sum": 4.499078374938108,
+    "decode_seconds": 0.23240020801313221,
+    "download_seconds": 0.774
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 65.9693125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7680158282870447333",
+  "title": "格力为什么不分红#格力 #股票投资 #分红 #金融知识 #投资",
+  "video_url": "https://www.douyin.com/video/7680158282870447333",
+  "source_duration": 66,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7680158282870447333: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

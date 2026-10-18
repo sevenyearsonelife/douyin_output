@@ -1,0 +1,27 @@
+{
+  "text": "六月十二日，万人瞩目的SpaceX正式登陆纳斯达克交易所，这是史上最大的IPO。大多数人第一反应就是去研究怎么开户，怎么买美股，怎么拥有SpaceX。今天小姨就告诉你啊，有一种更简单的方法，就是如果你长期持有纳斯达克指数基金，基本都享受到了这些伟大企业成长带来的红利。通常情况下啊，纳斯达克会在每年的十二月进行年度大洗牌。按照正常的程序，SpaceX可以在今年十二月的年度调整中被正式纳入纳斯达克一百指数。你不用再去研究财报，不用猜这个高低点，也不用担心看错公司，华尔街帮你选纳斯达克指数。到时候你什么都不用做，就已经间接成为SpaceX的股东了。这也是为什么我一直说啊，普通人投资最难的不是买什么，而是拿得住。你未必要找到下一个十倍股，但你可以通过指数基金不错过每一只十倍股。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 751955,
+  "timings": {
+    "chunks_wall_seconds": 2.3758627919996798,
+    "encode_seconds_sum": 0.20163349999893398,
+    "request_seconds_sum": 2.1453827080003975,
+    "decode_seconds": 0.25175708300048427,
+    "download_seconds": 0.727
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 70.381125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7650800767938342897",
+  "title": "马斯克又给机会了#spacex #美股 #股民交流 #理财知识 #投资",
+  "video_url": "https://www.douyin.com/video/7650800767938342897",
+  "source_duration": 70.4,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7650800767938342897: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,29 @@
+{
+  "text": "上节课咱们介绍了红利 E T F 和现金流 E T F 的基本概念，今天这节课咱们要深入实战，聊聊具体怎么操作红利 E T F。我知道很多人听完理论就迫不及待想买入了，但请先等等，再好的投资品种买贵了也是亏钱的。红利 E T F 虽然长期向上，但如果你在二零零七年六千点或者二零一五年五千点买入，可能要套好几年才能回本。所以今天的重点就是怎么判断高低位，怎么选择具体品种，怎么制定买卖策略。先说第一个问题，怎么判断现在是不是高位？我教大家一个最简单的方法，看上证指数，也就是我们平时最经常听说的大盘。你每天看新闻都能听到大盘今天涨多少，就是这个。当上证指数涨到五千点的时候，连卖菜的大妈。\n嗯。\n嗯。\n嗯。",
+  "chunks": 4,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 8295500,
+  "timings": {
+    "chunks_wall_seconds": 7.438921375,
+    "encode_seconds_sum": 2.2222972509999996,
+    "request_seconds_sum": 17.344496208000002,
+    "decode_seconds": 1.0389391250000002,
+    "download_seconds": 2.759
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 777.3344375,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7630712465302555913",
+  "title": "第12课：红利ETF实战策略 怎么选、怎么买、怎么拿",
+  "video_url": "https://www.douyin.com/video/7630712465302555913",
+  "source_duration": 777.358,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7630712465302555913: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

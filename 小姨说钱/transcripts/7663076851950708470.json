@@ -1,0 +1,27 @@
+{
+  "text": "今天说个挺有意思的事啊，段永平呢又加码泡泡玛特了，这回直接干到了一点零二亿股，多少钱呢？你自个儿拿计算器算算吧，反正是咱们普通人想都不敢想的一笔巨款。更有意思的是这些大佬全是明牌操作，买啥，啥时候买，买多少，甚至买之前就絮絮叨叨把逻辑给你掰扯清楚了。尤其是段永平在雪球上跟咱普通网友一样，天天嘚啵嘚，啊一点不端着。那问题来了，你跟段永平比，谁有钱呢？谁投资有水平？答案不用我说了吧？那既然学霸把答案都摊桌上了，你抄不抄？按理说该抄，可现实是绝大多数人还真不抄，不但不抄，还得嘲讽几句，老了不懂年轻人了，被小姑娘忽悠了，更有甚者说这是做局下套呢。为啥大部分人下不去手？第一，子弹不够，人家一亿股，你可能就买一手，心态完全不一样。第二呢，拿不住，涨点怕飞了，跌点呢怕崩了，早晚得被震出去。所以说就算把标准答案拍你脸上，没有人家那个段位，该亏还是亏，这就是投资最残酷的地方，你说呢？",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 815699,
+  "timings": {
+    "chunks_wall_seconds": 3.8914906669997436,
+    "encode_seconds_sum": 0.19395966599950043,
+    "request_seconds_sum": 3.6550868340000306,
+    "decode_seconds": 0.2064386249985546,
+    "download_seconds": 0.359
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 76.371875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7663076851950708470",
+  "title": "这个作业你抄吗#股民交流 #股市行情 #投资思维 #理财技巧",
+  "video_url": "https://www.douyin.com/video/7663076851950708470",
+  "source_duration": 76.4,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7663076851950708470: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

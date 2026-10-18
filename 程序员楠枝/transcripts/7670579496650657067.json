@@ -1,0 +1,29 @@
+{
+  "text": "很多刚接触 Linux 的同学可能不清楚 Linux 下每个目录的作用，那么今天我们来讲解一下。先看最顶层的根目录，用一条斜杠表示。Linux 里所有文件和目录都从根目录开始，它就像一棵倒挂大树的树根，分支向下延伸。系统启动时，内核会先挂载根分区，所以根目录是整个文件系统的起点。如果你执行 ls 看到的那些目录，是系统根据一组叫 FHS 的标准约定的，就是 Filesystem Hierarchy Standard 文件系统层次标准，它规定了每个目录的用途，让不同发行版看起来都差不多，也让软件包知道该把文件装到哪里。然后从系统启动和基础操作说起。根目录下有个叫 bin 的目录，这是 binary 的缩写，存放的是普通用户也能用的基本命令，比如 ls、cp、mv、cat 这些。它里面装的都是系统运行最必须的工具，没有它们，你连文件列表都看不到。紧挨着它的还有 sbin，多了一个 s，意思是 system binary，系统二进制文件，里面放的是管理员才能用的管理命令，比如 mount、reboot、ip、dhclient。区别很简单，bin 是给所有人用的基础命令，sbin 是给 root 用的系统管理命令。早期这几个目录体积小，是为了在系统启动早期，其他分区还没挂载时就能使用。现在很多发行版把 bin 和 sbin 都软链接到 usr 下面去了，但逻辑还是一样的。接着看 etc 目录，名字来自 etcetera，意思是等等其他，这是 Linux 系统配置的核心地带，几乎所有系统级和软件级配置文件都放在这里。比如用户账户信息存在 etc/passwd，密码在 etc/shadow，网络配置、DNS 设置、软件源的地址，都在 etc 下。你装了一个服务软件，它的默认配置通常也在这里，所以备份和排查问题时，etc 是第一个要关注的地方，它相当于 Linux 系统的注册表。但比 Windows 注册表的优势是，它就是一个一个看得见、能编辑的文本文件。再来看用户相关的目录。home 是普通用户的家目录，每个用户会在 home 下拥有一个以自己用户名命名的文件夹，比如 home/zhangsan。你下载的文件、写的文档、个人配置，都存在这里，权限上默认只有你自己能访问。而 root 目录是系统管理员 root 用户的家目录，注意它不放在 home 下，而是独立在根目录下。为什么？因为 root 用户的权限太高，系统在紧急维护时，其他分区可能无法挂载 root，必须在根分区下有一个自己的家目录，这样才能在系统异常时仍然进入 root 用户环境。然后说 usr 目录，它的全称是 Unix System Resources，Unix 系统资源。这个目录存放的是系统安装的应用程序和共享文件，但注意它并不是用户自己的文件，大一点的公司会把 usr 理解为 User System Resources，意思就是把用户安装的软件、库文件、头文件都装在这里。现代 Linux 发行版里，usr 变得特别重要，很多系统基础命令都被合并进去了，形成 usr 合并。它下面的子目录也很有规律，usr/bin 放一般用户的程序，usr/sbin 放管理程序，usr/lib 放库文件，usr/share 放架构无关的共享数据，比如图标、文档、壁纸。你可以把 usr 理解成系统软件的大本营。再来看 var 目录，var 是 variable 的缩写，表示会变化的数据。这类数据的特点是运行时常会增长或改变，比如日志文件存在 var/log，缓存文件在 var/cache，邮件在 var/mail，临时生成的文件在 var/tmp，还有打印队列等。为什么要单独分出来？因为根分区和 usr 分区通常是只读或挂载的比较早，而日志和缓存会不断写入，放在一个可变的分区里既能控制大小，也方便清理。所以当你发现磁盘空间被日志占满了，去 var/log 看看，准能找到罪魁祸首。\n接下来是 tmp 目录，它是临时文件目录，所有人都有写权限，但系统重启后里面的文件通常会被清空。注意 tmp 和 var tmp 有一定的区分，tmp 更强调短命，有些清理进程会定期删掉一定时间内没被访问的文件。而 var tmp 更适合放一些需要跨重启保留的临时文件，但也没有严格保证。所以不要把重要数据放 tmp 里，这是所有 Linux 用户的共识。然后看设备相关的目录，dev 目录是 device 的缩写，Linux 把硬件设备也当成文件来表示。你插入的 U 盘、硬盘、键盘、声卡都会在 dev 下出现对应的设备文件。比如 dev sda 代表第一块硬盘，dev null 是一个黑洞，往里面写数据就会被丢弃，dev random 提供随机数。理解这个设计很重要，Linux 里一切皆文件，设备也不例外。操作设备就和操作文件一样，用 open、read、write 这些接口就能读写硬件。这种设计极大地简化了系统编程。再来看 proc 目录，这是一个虚拟文件系统，它不占用磁盘真实空间，而是内核运行时暴露出来的进程和系统信息。你打开 proc，看到一堆数字命名的目录，每个数字对应一个进程的 pid。比如 proc cpu info 可以看 C P U 信息，proc meminfo 可以看内存状态。当你用 ps 命令查看进程时，底层数据其实就是从 proc 里读出来的。这个目录是动态生成的，每次查看都会读取内核里的实时数据。类似的还有一个 sys 目录，它也是虚拟文件系统，但比 proc 更聚焦于设备与驱动模型。sys 把系统中的设备、驱动、总线组织成层级结构，内核模块会在这里登记它们。比如你修改 sys class backlight 下的亮度文件，可以调节屏幕亮度。sys 是内核面向用户空间提供的一个控制接口。再往后面看几个应用相关的目录。opt 目录，是 optional 的缩写，存放那些非系统自带的独立安装的第三方大型软件。比如一些商业软件，Oracle 数据库、Google Chrome，它们往往把整套文件放在一个 opt 软件名的目录里，便于卸载。mnt 和 media 都是挂载点。mnt 是 manual mount，临时挂载其他文件系统的地方，常见的是手动 mount 某个分区或远程文件系统。media 是媒体挂载点，当你插入 U 盘、移动硬盘、光盘时，系统一般会自动把它们挂载到 media 用户名设备名下面。boot 目录，看名字就知道跟启动相关，它存放启动 Linux 所需的文件，比如内核文件 vmlinuz，初始内存盘 initramfs，还有引导加载程序配置文件 grub。如果这个目录出问题，系统很可能就无法启动，所以 boot 分区通常比较小，而且被严格管理。还有 lib 目录，是 library 的缩写，存放系统运行所需的共享库文件，就像 Windows 下的 dll。你在编译软件时需要链接库，跟 lib 和 lib64 有关。当然现在很多发行版也把 lib 统一收进 usr lib，但原理一样。最后做个总结，Linux 目录体系不是随意堆砌出来的，它遵循了一套清晰的逻辑。bin 和 sbin 管工具，etc 管配置，home 和 root 管用户数据，usr 管软件资源，var 管变化数据，tmp 管临时文件，dev 管设备映射，proc 和 sys 反映内核状态，mnt 和 media 是挂载入口，boot 管启动，opt 管独立软件。这套设计让系统稳定、清晰、可维护。你只要记住每个目录对应的角色，排查问题时就能快速定位。配置文件找 etc，日志找 var log，程序找 usr 或者 opt，设备看 dev，内核和进程看 proc。Linux 的一切皆文件和按角色分目录这两大哲学，理解了它们，你就能真正驯服这台机器。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 5054758,
+  "timings": {
+    "chunks_wall_seconds": 16.19153816701146,
+    "encode_seconds_sum": 1.4289405829913449,
+    "request_seconds_sum": 25.582461708021583,
+    "decode_seconds": 0.8333750420133583,
+    "download_seconds": 5.98
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 473.6870625,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7670579496650657067",
+  "title": "Linux下每个目录的作用，一个视频带你理解 刚接触Linux的同学常对各目录的作用感到困惑。本视频带你从根目录开始，逐一讲解bin、sbin、etc、home、usr、var、tmp、dev、proc、sys、opt、mnt、boot等目录的用途和设计逻辑。掌握这套清晰的目录体系，你就能快速定位配置文件、日志、程序与设备，真正理解“一切皆文件”的哲学，排查问题时事半功倍。#linux #linux基础 #程序员面试 #编程基础 #后端开发",
+  "video_url": "https://www.douyin.com/video/7670579496650657067",
+  "source_duration": 473.689,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7670579496650657067: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

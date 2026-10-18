@@ -1,0 +1,29 @@
+{
+  "text": "什么是 Webpack？先回答它是什么。Webpack 的名字已经说明了它的工作方式，Web 网页，pack 打包，它做的事情就是把一个项目的所有资源，JavaScript 文件、CSS、图片、字体，甚至 HTML 片段当作一个个模块，然后分析它们之间的依赖关系，最终打包成浏览器能直接运行的静态文件。你可能会问，为什么需要这么一个中间层？因为现代前端代码几乎不能直接扔到浏览器里用，我们写的 E S 六模块、TypeScript、 JSX，浏览器要么不完全支持，要么加载效率极低。更麻烦的是，一个复杂项目可能有几百个文件，它们互相引用，如果全部让浏览器自己去加载，每个文件都要发一次 H T T P 请求，页面会慢得没法看。Webpack 的核心价值就是把大量零散的文件合并、压缩、转换，最终输出少量几个优化过的文件，同时确保它们之间的依赖关系完全正确。为了理解 Webpack，你要抓住四个核心概念：入口、出口、Loader 和插件。入口，英文叫 Entry，它告诉 Webpack 从哪个文件开始分析依赖。通常这个文件就是你的主 JavaScript 文件，里面引用了其他模块，Webpack 会顺着这个入口，一层一层地追踪 import 或 require 语句，把整个依赖树找出来。出口，英文叫 Output，它告诉 Webpack 打包完成后把最终生成的文件放到哪里，叫什么名字。一般我们会把它设置成 dist 目录下的 bundle 点 js。入口和出口是最基本的两个配置，但只有它们还不够，因为 Webpack 本身只能处理 JavaScript 和 JSON。如果你需要引入 CSS 或者图片，就得靠 Loader。Loader 本质上是一个转换器，它的作用是在打包过程中把不同类型的文件转换成 Webpack 能够处理的模块。你可以这样理解，Webpack 像一个流水线工厂，它只认标准件，而 Loader 就是各种加工设备，把原料加工成标准件。比如 CSS Loader 可以把 CSS 文件变成 JavaScript 模块，Style Loader 再把生成的样式注入到页面的 style 标签里。Babel Loader 可以把 E S 六代码转换成 E S 五，让老版本浏览器也能运行。File Loader 则可以把图片、字体文件复制到输出目录，并返回对应的 U R L。正因为有了 Loader，Webpack 才不只是 JavaScript 打包器，而是几乎所有前端资源的统一处理平台。插件也就是 Plugin，负责解决 Loader 解决不了的事情。Loader 管的是单个文件的转换，插件管的则是整个打包流程的大动作。比如，打包之前清理旧文件，生成一个 H T M L 文件并自动引入 script 标签，压缩代码，提取公共模块，这些都要靠插件完成。常见的有一个叫 html-webpack-plugin 的插件，它能在打包时自动生成一个 H T M L 文件，并且把打包出来的 JavaScript 和 CSS 路径自动写进去，省去你手动修改的麻烦。插件的机制简单说就是 Webpack 在打包的不同阶段会广播各种事件，插件可以监听这些事件，在合适的时机插入自己的逻辑。就像比赛中的中场教练，可以调整战术，但你得先知道比赛进行到哪个节点。给你走一遍 Webpack 的完整打包流程会更好理解。当你运行 Webpack 命令，它先读取配置文件，拿到入口路径，然后从入口文件开始解析，找到所有依赖的模块，形成一个依赖图。接着它会按照配置，对每个模块应用对应的 Loader，把各种资源转换成 JavaScript 代码。再然后，根据模块之间的引用关系，把所有模块组织起来，放进一个或多个 Chunk 里。你可以把 Chunk 理解为打包后的代码片段。最后，插件阶段会执行压缩、优化等操作，并把最终结果写到出口指定的位置。整个过程有点像把一堆散落的乐高零件，先按图纸分好类，再拼成几个大组件，最后把组件装进包装箱。到这里你可能还有一个疑问，Webpack 和更早的 Grunt、 Gulp 有什么不同？\nGrunt 和 Gulp 是任务运行器，它们更像一个自动化脚本，帮你把文件从 A 处复制到 B 处，再执行压缩，但它们根本不了解文件之间的依赖关系。Webpack 则把模块依赖分析作为核心，打包只是最终产物。往深了说，Webpack 还支持代码分割，你可以把一个大的 bundle 拆成多个更小的包，让页面首次加载只下载必要部分，其他部分在需要时异步加载。它还有开发服务器，在开发时支持热更新，代码一改，浏览器马上自动刷新，而且不用手动刷新整个页面，这能极大提升开发体验。当然，Webpack 也有它的学习曲线，配置项多，文档复杂，这给初学者造成了不少困扰。但你要明白，它之所以复杂，是因为要覆盖大量真实场景。现代前端框架，比如 React 和 Vue 的官方脚手架，底层都是基于 Webpack 的。你不需要记住所有配置，但理解它怎么工作，会帮你在遇到问题时快速定位方向。总结一下，Webpack 是前端工程化的基石之一，它把分散的源码资源统一交给依赖分析与管理流程，经过 Loader 转换、插件扩展，最终输出高效可运行的生产文件。它解决的不是能不能写代码的问题，而是代码多起来之后，怎么保持效率、性能和可维护性的问题。理解了入口、出口、Loader、插件这四个词，你就抓住了 Webpack 的主干，剩下的所有细节都是在主干上开枝散叶。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 3513382,
+  "timings": {
+    "chunks_wall_seconds": 13.45497804202023,
+    "encode_seconds_sum": 0.855886042030761,
+    "request_seconds_sum": 17.23668566599372,
+    "decode_seconds": 0.8580957919766661,
+    "download_seconds": 1.712
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 329.1906875,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7675409350017551656",
+  "title": "什么是webpack？核心概念与打包流程一次讲清 webpack是现代前端工程化的基石，它把JavaScript、CSS、图片等资源当作模块，通过依赖分析打包成浏览器可运行的静态文件。本视频从入口、出口、loader、插件四个核心概念出发，带你走一遍完整打包流程，并对比Grunt、Gulp，帮你理解为什么webpack如此重要。适合前端初学者和想深入理解构建工具的同学。#webpack #前端开发 #程序员 #编程基础 #软件开发",
+  "video_url": "https://www.douyin.com/video/7675409350017551656",
+  "source_duration": 329.167,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7675409350017551656: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

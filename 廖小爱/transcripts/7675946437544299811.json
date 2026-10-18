@@ -1,0 +1,25 @@
+{
+  "text": "没有什么事情是简单的，正因为你做不到，所以你才是普通人。到罗马的路是有这么一条，但是能到达罗马的人本来就是少的。不普通的人就是要去做很难做成的事情才不普通啊。你天天觉得自己是普通人，当然永远是普通人，对不对？还是邓小平那句话，你想赢吗？你如果想赢，我们要逆向思维，别人做不了的事情你要去做，那你当然赢了。对吧？不然凭什么你是冠军？",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 289235,
+  "timings": {
+    "chunks_wall_seconds": 3.6650055829999992,
+    "encode_seconds_sum": 0.26246595799999994,
+    "request_seconds_sum": 2.625642334000002,
+    "decode_seconds": 1.2866979580000013,
+    "download_seconds": 2.439
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 27.00625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7675946437544299811",
+  "title": "你想赢吗？那就去做成普通人无法完成的事情#投资 #财经 #商业思维 ",
+  "video_url": "https://www.douyin.com/video/7675946437544299811",
+  "source_duration": 26.982,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "extraction_method": "speech_recognition"
+}

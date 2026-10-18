@@ -1,0 +1,27 @@
+{
+  "text": "你现在过得好吗？你会记恨一些人和事吗？如果你还有一些耿耿于怀的事情放不下，那你听听这段话。他说，人在过得很好的时候，就会原谅很多事情，因为自己的内心有了力量，就懒得跟外界较劲。山顶的风永远不与谷底的尘埃作战，所以精神的海拔决定了包容的半径。人强大到能够自我满足时，别人的冒犯就变成了蚊虫叮咬。所以不要把精力放在烂人和烂事身上，专注自我，日子越来越好之后，就什么都看淡了。不是你妥协了，是你站得更高了。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 523091,
+  "timings": {
+    "chunks_wall_seconds": 3.198837417,
+    "encode_seconds_sum": 0.34541575,
+    "request_seconds_sum": 2.839594334,
+    "decode_seconds": 0.13106254099999998,
+    "download_seconds": 4.186
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 48.9244375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7669392401664224441",
+  "title": "人强大之后，就懒得和烂人计较 #成长思维 #释怀淡然 #女性成长智慧",
+  "video_url": "https://www.douyin.com/video/7669392401664224441",
+  "source_duration": 48.923,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7669392401664224441: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

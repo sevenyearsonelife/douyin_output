@@ -1,0 +1,30 @@
+{
+  "text": "如果一个人的情绪会因为别人的一句批评而崩溃，也会因为别人的一句夸奖而欣喜若狂，那么说明他的内心还没有真正属于自己。因为他的价值感交给了别人掌控，别人说你好，你就觉得自己很厉害；别人说你不行，你就开始怀疑自己。这样的人看似活着，其实一直在被外界牵着走。庄子曾经说过：“举世誉之而不加劝，举世非之而不加沮。”什么意思？就是全世界的人都夸你，你也不要因此得意忘形；全世界的人都否定你，你也不要因此自我否定。真正强大的人，不是不接受意见，而是不被意见控制。别人夸你，你知道那只是别人眼中的你；别人批评你，你也知道那只是别人角度里的看法。一个人成熟的标志，是慢慢建立自己的评价体系。你努力，不是为了证明给所有人看；你成长，也不是为了获得所有人的认可。人生真正的自由，是你的内心不再依赖外界的掌声，也不会被外界的嘲笑击垮。人这一生，最终是为自己而活。当你的内心足够坚定，别人给你的评价只是一阵风，吹过之后，不会改变你前进的方向。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 994643,
+  "timings": {
+    "chunks_wall_seconds": 2.672228166979039,
+    "encode_seconds_sum": 0.2618847909907345,
+    "request_seconds_sum": 2.4047888750210404,
+    "decode_seconds": 0.25231050001457334,
+    "download_seconds": 0.773
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 93.136625,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7671572219805563001",
+  "title": "很多人不明白，为什么高手在人际交往中很少轻易批评别人：因为批评其实是一种很昂贵的行为。#富人#穷人#交易#情绪管理#赚钱",
+  "video_url": "https://www.douyin.com/video/7671572219805563001",
+  "source_duration": 93.134,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7671572219805563001: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "review_scope": "逐条正文主题、开头、长度及文件一致性校验；6条疑点补充画面抽查；非全片逐字听校，非事实核查",
+  "review_note": "首、中、尾画面与不被他人评价控制的正文一致，原标题与正文角度不同。",
+  "reviewed_at": "2026-09-10T22:37:29.429825+08:00"
+}

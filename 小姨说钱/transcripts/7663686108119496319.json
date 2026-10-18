@@ -1,0 +1,27 @@
+{
+  "text": "昨天黑色星期五真叫一个惨，昨天这行情跌的都没眼看了吧？科创五零和创业板直接崩了七个多点。回头看七月到现在，这俩指数已经跌超了百分之二十了，上证也没扛住三千八百点告破，顺手还砸了个年内的新低出来。翻翻K线看啊，能看出来今天这一杀，融资盘该爆的爆了，恐慌盘该割的也割了。按以往的经验，这种跌法短期反弹应该不远了，随时可能来一下。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 394451,
+  "timings": {
+    "chunks_wall_seconds": 2.145947000000888,
+    "encode_seconds_sum": 0.13487083300060476,
+    "request_seconds_sum": 1.8131132500002423,
+    "decode_seconds": 0.15042162499958067,
+    "download_seconds": 6.94
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 36.8965,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7663686108119496319",
+  "title": "坐等反弹#炒股心态 #反弹 #股民交流 #理财技巧",
+  "video_url": "https://www.douyin.com/video/7663686108119496319",
+  "source_duration": 36.9,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7663686108119496319: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

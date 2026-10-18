@@ -1,0 +1,30 @@
+{
+  "text": "云舒云卷皆成妙，潮起潮落自逍遥。寒来暑往情未凋，悲欢起落亦微笑。心藏暖意不寂寥，严寒温柔向清照。万般纷扰皆可抛，一念安然岁月饶。生活因温柔而美好，暖意漫过每段荒遥。善意织成温柔罗袍，包容世间所有飘摇。温柔化解所有烦躁，爱意点亮岁月灯苗。心有柔风，步步生娇，人间温柔岁岁相邀。心藏暖意不寂寥，严寒温柔向清照。万般纷扰皆可抛，一念安然岁月饶。生活因温柔而美好，暖意漫过每段荒遥。善意织成温柔罗袍，包容世间所有飘摇。温柔化解所有烦躁，爱意点亮岁月灯苗。心有柔风，步步生娇，人间温柔岁岁相邀。\n生活因温柔而美好，暖意漫过每段荒遥。善意织成温柔罗袍，包容世间所有飘摇。温柔化解所有烦躁，爱一点亮岁月灯苗。心有柔风，步步生娇。人间温柔岁岁相邀。云舒云卷皆成妙，潮起潮落自逍遥。云舒云卷皆成妙，潮起潮落自逍遥。云舒云卷皆成妙，潮起潮落自逍遥。云舒云卷皆成妙，潮起潮落自逍遥。寒来暑往情未凋，悲欢起落亦微笑。心藏暖意不寂寥，严寒温柔相清照。万般纷扰皆可抛，一念安然岁月饶。生活因温柔而美好，暖意漫过每段荒遥。善意织成温柔罗袍，包容世间所有飘摇。温柔化解所有烦躁，爱一点亮岁月灯苗。心有柔风，步步生娇。人间温柔。\n云舒云卷皆成妙，潮起潮落自逍遥。寒来暑往情未凋，悲欢起落亦微笑。心藏暖意不寂寥，严寒温柔向今朝。万般纷扰皆可抛，一念安然岁月饶。生活因温柔而美好，暖意漫过每段荒遥。善意织成温柔罗袍，包容世间所有飘摇。",
+  "chunks": 3,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 6338553,
+  "timings": {
+    "chunks_wall_seconds": 7.121434292,
+    "encode_seconds_sum": 1.7120039989999998,
+    "request_seconds_sum": 14.006928875,
+    "decode_seconds": 0.9046237500000001,
+    "download_seconds": 5.786
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 593.944625,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7690413804567481609",
+  "title": "一顿饺子，韭菜猪肉馅的，回味无穷 ",
+  "video_url": "https://www.douyin.com/video/7690413804567481609",
+  "source_duration": 593.922,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7690413804567481609: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}

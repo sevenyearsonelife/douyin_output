@@ -1,0 +1,27 @@
+{
+  "text": "我家孩子每次把屋里弄得很乱的时候，我都是有一点小开心的。因为我觉得他不理会我说的，拿完东西一定要放回原位，这种不被外人束缚的行为，不就是主体强的表现吗？然后每次出门他磨磨蹭蹭的时候，我也是有一点小开心的。因为我觉得他不会因为别人的催促就打乱自己的节奏，这种从容也很难得呀。还有我每次忙着做事的时候，他总喜欢插一手，这个时候我也是有一点小开心的。因为我觉得他对万事万物都充满了兴趣，这份热情不就是生命力吗？所以我时常告诉自己，少和孩子生气吧。他们不是存心捣乱，他们只是活在他们的时区里。我们的节奏里充满了责任、计划、赶不完的进度，而在他们的节奏里，只有当下的风、路边的花和数不完的好奇。我们是在赶路，而他是在感受路。不要用成年人的效率去丈量一颗孩子的好奇心，也别用收割庄稼的标准去修剪一棵正在开花的树。所以慢一点，再慢一点，允许他像一个孩子那样长大，又何尝不是在治愈我们自己呢？",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 819539,
+  "timings": {
+    "chunks_wall_seconds": 2.886918209,
+    "encode_seconds_sum": 0.21489550000000002,
+    "request_seconds_sum": 2.6595147079999997,
+    "decode_seconds": 0.20547879199999997,
+    "download_seconds": 0.689
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 76.743375,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7675351365325037925",
+  "title": "允许孩子，按自己的节奏长大 #每个城市都有自己的独特视角 #女性成长 #生活感悟 #人生感悟",
+  "video_url": "https://www.douyin.com/video/7675351365325037925",
+  "source_duration": 76.741,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7675351365325037925: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

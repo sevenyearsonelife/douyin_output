@@ -1,0 +1,27 @@
+{
+  "text": "美联储七月会议就三句话，第一，利率不变，之前大家担心的那点加息的可能没有发生。第二，内部吵翻了，十二个人里三个支持加息，比例跟市场猜的差不多，说明美联储自己也在纠结。第三，鲍威尔打太极，一边说通胀不排除再加息，一边又说不急看情况，但明确放话通胀是持久战，别指望短期内快速降息。总结就八个字啊，短期不动，九月再说。接下来两个月通胀和就业数据就是市场的命门。不过因为这次没超出预期啊，黄金和美股都反弹了一波，悬着的石头终于落地了，虽然不是利好，但至少不是利空。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 483923,
+  "timings": {
+    "chunks_wall_seconds": 4.020709125092253,
+    "encode_seconds_sum": 1.081037166994065,
+    "request_seconds_sum": 2.576210999977775,
+    "decode_seconds": 7.882864249986596,
+    "download_seconds": 17.265
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 45.257125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7668097555619964074",
+  "title": "利率按兵不动#利率 #金融知识 #美股 #股市 #投资",
+  "video_url": "https://www.douyin.com/video/7668097555619964074",
+  "source_duration": 45.3,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7668097555619964074: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "一，哎，盖了它，哎，吃它，盖了它。一，哎，盖了它，哎，吃它，盖了它。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 162131,
+  "timings": {
+    "chunks_wall_seconds": 1.0348422499992012,
+    "encode_seconds_sum": 0.07990229200004251,
+    "request_seconds_sum": 0.8789405000006809,
+    "decode_seconds": 0.09248733300046297,
+    "download_seconds": 1.155
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 15.117625,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7656288904597390308",
+  "title": "如何提高认知？就是不断的学习#认知觉醒 #持续学习 #理财知识 #投资 #复盘",
+  "video_url": "https://www.douyin.com/video/7656288904597390308",
+  "source_duration": 15.092,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7656288904597390308: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

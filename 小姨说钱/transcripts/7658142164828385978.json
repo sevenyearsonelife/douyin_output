@@ -1,0 +1,27 @@
+{
+  "text": "说到玩股票啊，不知道你们是不是也是这样啊？看财报呢像看天书，密密麻麻的数字，唉，直接就扔一边了。啊，听劝啊，想赚钱，先得看懂公司的底牌。你看不懂财报，你就不知道自己买的到底是印钞机还是碎钞机。啊，今天给大家安利一本神书，中信出版社的《七步读懂财务报表》。这本书它神在哪儿呢？它其实没有给你讲什么难懂的那些会计的术语，就是用大白话，七步教你拆穿公司真实的价值。学会了啥感觉呢？你就是你一眼就能看出哪家公司是在认真赚钱，哪一家只是在讲故事画大饼。对新手啊，友好到爆，拿来就能用。想从被割韭菜变投资高手的，这本书赶紧挂上，咱们一起变聪明。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 637907,
+  "timings": {
+    "chunks_wall_seconds": 2.5548253750002914,
+    "encode_seconds_sum": 0.21274474999881932,
+    "request_seconds_sum": 2.089069333000225,
+    "decode_seconds": 0.24079483400055324,
+    "download_seconds": 5.074
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 59.6999375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7658142164828385978",
+  "title": "如何看懂财务报表#财务小常识 #财报 #股民交流学习 #理财知识",
+  "video_url": "https://www.douyin.com/video/7658142164828385978",
+  "source_duration": 59.734,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7658142164828385978: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

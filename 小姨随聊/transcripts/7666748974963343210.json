@@ -1,0 +1,27 @@
+{
+  "text": "央企红利和这个普通红利如果二选一的话，买哪一个？嗯，别急啊，听小姨给你讲完三句话。第一句就是看跌，普通的红利谁都能进，民企也行，央企红利呢必须是根正苗红的国家队，这就决定了央企红利踩雷的概率极低，啊，也就其实不可能。第二句呢就是看行业，央企红利手里拿的是银行、石油、电力、高速，全是国家命脉。普通红利呢它里边可能有煤炭、化工，甚至零售百货，后者是做生意的，前者是管命脉的。第三句看稳，这几年市场波动大，谁钱袋子稳谁说了算，央企现在被要求必须加大分红，这是政治任务，而普通民企分红呢全看老板，所以结论很简单了，如果你追求的是每年稳稳落袋的现金流，那就闭眼入央企红利。如果你追求的是行业轮动的超额收益，那就看普通红利。听懂的给小姨点个赞。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 761555,
+  "timings": {
+    "chunks_wall_seconds": 3.2246839579984226,
+    "encode_seconds_sum": 0.18599654199897486,
+    "request_seconds_sum": 2.3622961250002845,
+    "decode_seconds": 0.17764745799831871,
+    "download_seconds": 0.568
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 71.309875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7666748974963343210",
+  "title": "普通红利和央企红利怎么选#红利 etf 股民交流#央企红利 #理财知识",
+  "video_url": "https://www.douyin.com/video/7666748974963343210",
+  "source_duration": 71.3,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7666748974963343210: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

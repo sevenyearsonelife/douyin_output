@@ -1,0 +1,27 @@
+{
+  "text": "今天最新的五月份的LPR出来了，一年期还是维持三点零不变，五年期的还是维持三点五不变。我看评论区里有人说我昨天的预测是神预测，但是我想说的是这的确没什么神的，因为这个数已经维持一年都没变了，本来从概率上来说它不变的可能性就比较大，恰好被说准了而已。这个就好像国足对日本，从感情上我们都希望国足赢，对吧？但是现实上来看，当你真的去压住的时候，你还是不会压它。我也希望LPR降，因为我也有房贷，但是但是现实的条件不允许。虽然说一个月的预测没有什么可值得炫耀的，但是年内的预测如果准确，我觉得这个事儿还是值得说一说的。我今天就再把昨天我说关于年内的预测再说一遍，今年到年底，一年期的不会变，五年期的还有二十五个BP左右的空间。今天是五二零，等到十二月二十一号的时候出来结果，咱们可以翻过来这个视频，来看看我说的准不准。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 750419,
+  "timings": {
+    "chunks_wall_seconds": 3.269465291,
+    "encode_seconds_sum": 0.19472112500000005,
+    "request_seconds_sum": 3.0642973749999998,
+    "decode_seconds": 0.17781391599999996,
+    "download_seconds": 0.612
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 70.24175,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7641885847238818681",
+  "title": "LPR预测 年内LPR预测：一年期不变，五年前降25BP#LPR #降息降准 #房价 #掘金计划2026 #燃起来了大国重器",
+  "video_url": "https://www.douyin.com/video/7641885847238818681",
+  "source_duration": 70.239,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7641885847238818681: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

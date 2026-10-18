@@ -1,0 +1,27 @@
+{
+  "text": "你买基金的时候，如果它处于下跌的趋势，你反而更容易赚到大钱。但大多数人恰恰相反，看基金涨得好，赶紧冲进去，看它跌了吓得赶快跑。结果呢，涨的时候你买的少，当然也能赚钱，但都是小钱。所以老东的伙伴们，你们要记住，真正能获得大收益的一定是在买入的时候基金是处于下跌的状态，而且下跌后在底部的时间越长越好。你要定期的持续的买啊，收集低价筹码，你可能前三年都是处于这个亏损的状态，但一旦指数上涨，可能仅仅一个月，你将获得非常可观的收益。因为你所有的低价的筹码都会在最后一个月共同发力。我举个例子，近十年中证五百的年化收益率，它是要比红利指数要差很多的。近十年中证五百的年化仅仅是百分之一点五左右，而红利有百分之七点三。从曲线来看啊，中证五百是一个震荡的U型，而中证红利是一个长期向上的慢牛。但只只要用定投策略，中证五百的十年收益它是要超过中证红利的。啊，因为定投赚的是波动的钱，底部的时间越久啊，便宜筹码就越多，最后收获也就越大。当然有两个必要条件，一个是标的要好啊，所以尽可能选择宽基啊，另外一个就是要持续的越跌越买啊，本质也就是定投啊，其实这就是价值投资，在下跌的时候入场，也就是基金的左侧定投。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 991955,
+  "timings": {
+    "chunks_wall_seconds": 6.255617458000001,
+    "encode_seconds_sum": 0.237936625,
+    "request_seconds_sum": 6.006113875,
+    "decode_seconds": 0.187210416,
+    "download_seconds": 4.684
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 92.9044375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7636067894099779034",
+  "title": "左侧定投:把握下跌趋势。#知识分享 #经验分享 #涨知识 #基金 #定投",
+  "video_url": "https://www.douyin.com/video/7636067894099779034",
+  "source_duration": 92.904,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

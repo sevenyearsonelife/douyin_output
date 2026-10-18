@@ -1,0 +1,27 @@
+{
+  "text": "对啊，其实我们团队之前是有 designer，但后来我们呃开始工程师自己上手 design 以后，发现好像自己也能做这件事情。对，做得更快。对啊，然后我觉得还有个契机，比如说我有次要做一个 PPT 去做分享，嗯，然后我把 PPT 每页的 outline 都大概画了一下，在那个 Google Slide 上。对，然后我准备交由我们团队的专业的设计师去 polish 它，把它变成一个 presentable 的 deck。嗯，然后我把所有的这个需求都写下来了，然后我在发给设计师的前一秒想了一下，然后就上传到了 Claude。然后 Claude 花了大概五分钟时间吧，嗯，直接就有一个非常精美的 deck 出现在我们面前。这时候我就开始思考，like，我们需不需要设计师？这是一个我觉得怎么说呢，挺 tough 的一个 conversation 吧。嗯，对，但确实就是现在工种之间的鸿沟在不断被说说缩小。啊，然后我需要我的团队有能力去做他能力范畴以外的事情。对，或者说他至少知道怎么样去做这个尝试。比如说，yes，这个 engineer 可以非常的 tech，没有 product sense，但是当需求下来的时候，他知道哪里去寻找这个 product sense。对，啊，他可以通过跟这个 Claude 的多轮的对话去把这个 product sense 给找到。对，所以我觉得人还是要会用工具。嗯，所以我觉得这也是个悖论，我天呐，我觉得强东哥的那一套逻辑是对的。请说，啊，强东哥不是要搞这个要给六十万的这个呃快递员对开学校嘛？啊，要让他们变成巨深智能的操控员、维维护员。哦，OK OK OK，对，所以我觉得这种 AI 转型时所需要的 education，嗯，会非常重要。明白，对，但目前市场上其实缺失这么一个解决方案，因为大家都不知道需要什么 education。不知道，因为这个来就是 AI 里面有一句话就是你学的够慢，你就可以不用学，啊，因为变得实在太快了。对，就我每天会沉浸在巨大的 AI 焦虑当中，因为就是就因为你想我我每一个星期假设我就是能够工作五到六天对吧？然后这五到六天的时间，全世界这么多 AI 公司，对，very likely 已经出了至少二三十个对，就是值得我注意的变化。没错没错，我同意，对吧？然后我我不说 paper 啊，就是 like 就是产品的变化，然后功能，然后对我有什么影响，根本就学不过来。对，但你可以这么理解，就有人一直买苹果最新的产品，对，也有人买旧的产品，然后 iPhone 四还可以用用四年时间，yes exactly。对，所以它并不是所有人都需要或者说一定要用 fabled。嗯，明白啊，他可以用 Oppo 四四点五甚至可以，OK，也能给他的生命带来天翻地覆的变化。明白，对对啊，所以我觉得呃教育呃是应该重点去，嗯，对。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1877843,
+  "timings": {
+    "chunks_wall_seconds": 8.272133958,
+    "encode_seconds_sum": 0.8373957910000001,
+    "request_seconds_sum": 7.404292708000001,
+    "decode_seconds": 0.5112068750000001,
+    "download_seconds": 0.487
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 175.9516875,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7661188001451527478",
+  "title": "Claude五分钟，设计师失业了 发给设计师前一秒，他把需求传给了 Claude。 五分钟，一个精美的 deck。 然后是那个 tough conversation：我们还需要设计师吗。 强东哥给 60 万快递员开学校，可能是对的。#AI应用 #AI #大模型 #科技投资 \n",
+  "video_url": "https://www.douyin.com/video/7661188001451527478",
+  "source_duration": 175.967,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7661188001451527478: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

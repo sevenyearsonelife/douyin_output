@@ -1,0 +1,27 @@
+{
+  "text": "说一个重要的事儿啊，下周一七月六号，A股交易新规正式落地，别觉得跟你没关系，这三点变化直接影响你的买卖。啊，大白话给你说清楚。第一，ST股的涨跌停从百分之五放宽到百分之十了，原来ST股票一天最多跌百分之五，现在能跌百分之十，跟普通的股票是一样的啊，但千万要注意，这不是说它变好了，反而意味着波动翻倍，风险更大了。手里有ST股的得系好安全带，没经验的尽量别碰。第二，下午三点收盘后的玩法也变了，以后三点零五到三点半可以进行盘后固定价格交易，买卖都按当天的收盘价成交。记住啊，这个价格你不能自己定，就是按收盘价来，流动性也没盘中好。第三，基金尾盘交易习惯要改，特别是买ETF的朋友啊，下午两点五十七到三点这最后的三分钟改成集合竞价了，一旦下单就不能撤单，所以最后这三分钟下单一定要看准了再点，确认了就是板上钉钉。啊，用一句话总结一下，ST股波动大了别乱碰，盘后交易按收盘价走，尾盘下单别手抖，记不住就收藏下来慢慢看。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 955859,
+  "timings": {
+    "chunks_wall_seconds": 5.258897625000827,
+    "encode_seconds_sum": 0.21581624999998894,
+    "request_seconds_sum": 4.791394249999939,
+    "decode_seconds": 0.22756208400096511,
+    "download_seconds": 1.46
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 89.5143125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7657530795150303601",
+  "title": "一分钟讲透七月六号的新规#股市 #股民交流学习 #投资 #新规来了",
+  "video_url": "https://www.douyin.com/video/7657530795150303601",
+  "source_duration": 89.534,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7657530795150303601: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

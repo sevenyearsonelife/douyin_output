@@ -1,0 +1,27 @@
+{
+  "text": "我三十六岁了，可是我还是想要出国游学，想要雅思考个高分，想要学潜水、学冲浪，还想去冰岛追极光。想学跳舞、学骑马，还想去给大户人家当管家。我的这些想法奇奇怪怪，但却都有热气腾腾。这个世界上一定有人过着我想过的生活，那为什么我不可以呢？所以祝今天满三十六岁的我，能够如愿以偿，去看更辽阔的世界。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 380243,
+  "timings": {
+    "chunks_wall_seconds": 1.766108291,
+    "encode_seconds_sum": 0.17427812500000006,
+    "request_seconds_sum": 1.58575275,
+    "decode_seconds": 0.14424183299999999,
+    "download_seconds": 9.039
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 35.54975,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7670129524982842298",
+  "title": "不必安分度日，我自有我的旅途 #真实生活分享计划 #如何培养强大的主体性 #girlstalk女性成长",
+  "video_url": "https://www.douyin.com/video/7670129524982842298",
+  "source_duration": 35.549,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7670129524982842298: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

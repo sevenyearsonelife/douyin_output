@@ -1,0 +1,27 @@
+{
+  "text": "你还天真的以为股票涨了上市公司就更有钱了，股票跌了上市公司就变穷了吗？其实股票的涨跌跟上市公司账上有没有钱啊没有半毛钱的关系。因为股票交易是发生在二级市场，也就是股民和股民之间的相互买卖。张三把股票卖给了李四，钱从李四口袋里转到了张三口袋里，上市公司一分钱都没有拿到啊，也一分钱没有损失。而上市公司真正能从股票拿到钱，只有在这个上市公司上市的那一刻，也就是IPO首次公开发行的时候。那个时候公司发行股票，你掏钱去买啊，钱进了公司账户，这个钱可以用来建厂房、搞研发、发工资等等。之后所有的交易都是你和我之间的游戏啊，公司就是个看客，涨跌跟它已经没有关系了。那问题来了，我们经常看到啊某些新闻里边说啊某某公司股票大跌，它的市值蒸发了多少多少亿，谁最会害怕啊？这到底影响了谁？我告诉你，最害怕的是大股东，因为上市公司的大股东可以拿股票去进行质押借款，股价跌的太多，质押物的价值就不够了，就会被银行要求补保证金或者是提前偿还贷款。大股东没有钱补，就会直接面临着债务违约、资金流断裂的连锁反应。大股东为了还债可能不得不卖掉上市公司去还债。啊，所以股质率这个指标非常重要，如果大股东的股质率太高，超过了百分之五十，甚至是百分之八十，就算上市公司业绩再好，也一定要小心。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 1041107,
+  "timings": {
+    "chunks_wall_seconds": 3.709215875,
+    "encode_seconds_sum": 0.546329792,
+    "request_seconds_sum": 3.137994708,
+    "decode_seconds": 0.35009495799999996,
+    "download_seconds": 0.372
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 97.502,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7619213015200834186",
+  "title": "股价涨跌最受影响的是谁？#投资 #大股东 #财富思维 #认知 #干货分享",
+  "video_url": "https://www.douyin.com/video/7619213015200834186",
+  "source_duration": 97.501,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

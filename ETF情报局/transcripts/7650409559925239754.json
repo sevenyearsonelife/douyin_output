@@ -1,0 +1,27 @@
+{
+  "text": "E T F 建仓就三步，底仓打底，信号加仓，突破加仓。我是你的 E T F 研究搭子，情报局长。今天我就把建仓的方法讲透，宽基、行业、红利 E T F 全都适用。我先问你一句，你买 E T F 是不是经常一把梭哈，买在山顶，跌了没钱补，只能干瞪眼死扛？散户最大的通病就是不会建仓，要么怕踏空，一把全买进去，要么怕下跌，一直空仓等底，结果踏空的比套牢还难受。投资不是比谁买的低，是比谁买的稳，会建仓才是盈利的起点。怎么建仓？就这三步。第一步，底仓打底，我一般先建百分之二十到百分之三十的底仓，不猜底，不踏空，不管后面涨跌，手里有筹码，心态才稳，涨了有肉吃，跌了有钱补。第二步，信号加仓，我的习惯是不跌不买，等企稳信号出现再动手，比如放量阳线、底背离或者重回均线上方，不见兔子不撒鹰，不加仓不手痒。第三步，突破加仓，如果突破关键位置，比如站稳六十日线，我会考虑再加一笔，确认趋势，再上仓位，不靠赌，靠信号。三步讲完了，再说一句最关键的，会建仓的人，跌了不慌，涨了高兴，一把梭哈的人，涨跌都难受。我是局长，只分享普通人也能用的 E T F 实战思路，帮大家看懂市场节奏，避开常见投资误区。关注局长，咱们下期再见。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 907475,
+  "timings": {
+    "chunks_wall_seconds": 3.48093625,
+    "encode_seconds_sum": 0.22198574999999998,
+    "request_seconds_sum": 3.2479041670000006,
+    "decode_seconds": 0.15372591700000005,
+    "download_seconds": 0.359
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 84.96325,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7650409559925239754",
+  "title": "普通人做ETF，建仓关键就这三步 #投资理财 #ETF #理财干货 #基金",
+  "video_url": "https://www.douyin.com/video/7650409559925239754",
+  "source_duration": 84.939,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

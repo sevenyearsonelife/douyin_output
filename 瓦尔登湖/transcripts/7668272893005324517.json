@@ -1,0 +1,27 @@
+{
+  "text": "告诉你个秘密，只要声音低一点，你的声音就会有磁性。只要语速慢一点，你就会有气场。你敢停顿，就能显示出你的权威。与人相处不必紧张，把对面的人当成老朋友来看待，从容自在就是最好的状态。这就是社交的魅力。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 338771,
+  "timings": {
+    "chunks_wall_seconds": 2.200098917,
+    "encode_seconds_sum": 0.1447799999999999,
+    "request_seconds_sum": 2.047040166,
+    "decode_seconds": 0.25478012499999997,
+    "download_seconds": 2.89
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 31.6488125,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7668272893005324517",
+  "title": "敢停顿的人，自带权威。 #社交魅力学 #自我认知培养 #社交技巧",
+  "video_url": "https://www.douyin.com/video/7668272893005324517",
+  "source_duration": 31.648,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7668272893005324517: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

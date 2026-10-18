@@ -1,0 +1,30 @@
+{
+  "text": "少和别人吃饭，少和别人说话，没事少交朋友，尽可能的独处。现在这个社会，多一个朋友不会多一条路，只会多一份危险。你的段位没有价值的时候，又能交到啥有价值的朋友呢？不是利益捆绑的关系，尽可能的远离。永远记住，一个人不能带给你利益，就会带给你麻烦和烦恼。现在正常人很少，蠢人和垃圾人是极多的，不要和太乱的人扯上关系。多数灾难都是接触错了人导致的，不该认识的人不认识。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 390227,
+  "timings": {
+    "chunks_wall_seconds": 1.4792405420157593,
+    "encode_seconds_sum": 0.1532974170113448,
+    "request_seconds_sum": 1.3234682910260744,
+    "decode_seconds": 0.19725845800712705,
+    "download_seconds": 1.773
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 36.50175,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7669261522666314161",
+  "title": "少无效社交，学会独处，远离不必要的人脉\n低质量社交潜藏隐患，无利益绑定的关系尽量远离。减少应酬、精简圈子，避开消耗你的人，把时间留给自身成长。\n#社交认知 #人脉思维 #独处 #认知觉醒 #人性感悟",
+  "video_url": "https://www.douyin.com/video/7669261522666314161",
+  "source_duration": 36.542,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7669261522666314161: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition",
+  "review_scope": "逐条正文主题、开头、长度及文件一致性校验；6条疑点补充画面抽查；非全片逐字听校，非事实核查",
+  "reviewed_at": "2026-09-10T22:37:29.429825+08:00",
+  "review_note": "已阅读正文，主题、开头和长度基础复核通过；文件与来源链接一致。"
+}

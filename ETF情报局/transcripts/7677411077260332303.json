@@ -1,0 +1,27 @@
+{
+  "text": "越跌越买这件事，放在宽基 ETF 上是策略，放在行业 ETF 上可能就是陷阱，搞混了可能越买越套。先说宽基 ETF，沪深三百、中证五百、中证一千这类宽基，覆盖的是全市场多个行业，不压单一赛道。大盘下跌的时候，多数情况是短期恐慌情绪造成的估值回落，不等于实体经济全线出了问题。拉长周期看经济在发展，市场会均值回归，短期下跌本质上就是挤泡沫、修估值，耐心持有就有机会等来修复。更关键的一点，宽基指数自带优胜劣汰机制，定期淘汰衰退的劣质企业，纳入优质新兴龙头，指数本身在不断更新迭代，很难长期处于低迷状态。这是宽基 ETF 敢在低位分批布局的核心依据。再说行业 ETF 思路完全不一样，行业 ETF 只聚焦单一赛道，赚的是行业景气度、政策红利、周期轮动的钱。它的下跌很多时候不是市场情绪波动，而是基本面真的出了问题，可能是政策利空，可能是需求萎缩，可能是产能过剩，景气度在下行，甚至有些行业会进入长期衰退周期，不是等一等就能回来的。每个行业都有自己的生命周期，有高光爆发期，也有长达两三年的低迷期。弱势赛道一旦行情退潮，容易长期横盘，反弹力度偏弱。这种情况下盲目加仓可能长期承受浮亏，资金效率很低。总结一句话，宽基 ETF 越跌越买，买的是经济长期向上的确定性，指数自我更新兜底。行业 ETF 越跌越买，赌的是单个赛道的景气度反转，风险完全不在一个级别。当然行业 ETF 不是不能做，但加仓时机需要更谨慎，至少要看基本面有没有实质性的改善信号，而不是只看跌了多少。具体怎么判断，下期展开讲。你之前有没有在行业 ETF 上越跌越买被套过？评论区聊聊经历。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 2236883,
+  "timings": {
+    "chunks_wall_seconds": 4.684087667,
+    "encode_seconds_sum": 0.457608708,
+    "request_seconds_sum": 4.1985952499999994,
+    "decode_seconds": 0.5723962499999999,
+    "download_seconds": 0.882
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 209.6079375,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7677411077260332303",
+  "title": "宽基和行业ETF，怎么根据自己的需求，选择适合自己的ETF #ETF    #基金",
+  "video_url": "https://www.douyin.com/video/7677411077260332303",
+  "source_duration": 209.607,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): Usage: yt-dlp [OPTIONS] URL [URL...]\nyt-dlp: error: no such option: --js-runtimes\n",
+  "extraction_method": "speech_recognition"
+}

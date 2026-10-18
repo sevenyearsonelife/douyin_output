@@ -1,0 +1,27 @@
+{
+  "text": "在股市里折腾了一两年了，K线倒背如流，但账户还是绿的，说的是不是你？技术面、基本面、估值模型你比谁都熟，但一到了买卖点，手就跟不上自己的一样了。涨了拿不住，跌了死扛，该出手时呢犹豫，不该出手时瞎冲。说白了，你缺的不是理论，是实战肌肉记忆。今天给大家推荐一本常赢的《常赢》，这个哥们是真正从几十万干到了上亿的实战派。书里没有一句废话理论，他手把手的教你什么位置必须进场，什么信号坚决止损，仓位怎么分批四打，全是他在真金白银里砸出来的血泪规矩。你照着练，三个月就能把犹豫病治好。别担心看不懂，全是大白话加真实的交易截图，比看十本理论书都管用。这本书我已经反复在看了，链接就在左下角，少犹豫一次，输钱就回来了。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 677459,
+  "timings": {
+    "chunks_wall_seconds": 6.408553250017576,
+    "encode_seconds_sum": 2.423594917054288,
+    "request_seconds_sum": 3.7923681660322472,
+    "decode_seconds": 3.8242678339593112,
+    "download_seconds": 0.653
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 63.415125,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7665327015331497337",
+  "title": "成为股市的常胜将军#长赢 #好书推荐 #读书 #理财书 #实战派",
+  "video_url": "https://www.douyin.com/video/7665327015331497337",
+  "source_duration": 63.467,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7665327015331497337: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

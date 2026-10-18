@@ -1,0 +1,29 @@
+{
+  "text": "有朋友认识这个是什么吗？这个就是髌骨带，我认为这个是业余打球必备的一个东西。有朋友可能会说我身体非常好，我膝盖也没有问题，那我就不需要这种东西。实际上原来我也是这么认为的，原来我认为说我的身体素质比较好，我的膝盖不可能出问题，但是打了几年之后还是出问题了。因为我们之前出过一个视频说过，你练的越正规，你膝盖出问题的概率是越大的，就是反而练的不正规的，站着打球的，他的膝盖是永远不会出问题的。这是因为我们的腿部的肌肉力量是不够的，或者说腿部肌肉力量是不协调的，他的膝盖就会出现问题。你像我之前的时候，实际上护膝跟髌骨带我都有啊，我都戴过。护膝它的包裹的面积会更大啊，但是它有一个问题是什么呢？就是护膝在出汗比较多的情况下，这个部位你会感觉非常的闷啊，你会感觉不太舒服。髌骨带呢它相对于来讲就简单一些，它不会有这种比较闷的感觉，而且它的效果也是非常不错的。而且我们说这些东西尽量是在你没有问题的时候就去戴，这个时候能起到一些预防的作用。我是出了问题之后我再戴的，实际上这个时候就稍微有一点晚了啊，但是我戴了之后感觉还是非常好的，感觉对我非常有帮助，所以给大家推荐一下。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 746195,
+  "timings": {
+    "chunks_wall_seconds": 4.826031584000001,
+    "encode_seconds_sum": 0.277975667,
+    "request_seconds_sum": 4.536018042,
+    "decode_seconds": 0.14288904199999997,
+    "download_seconds": 0.338
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 69.87025,
+  "review_status": "verified",
+  "warnings": [],
+  "video_id": "7685982435083625713",
+  "title": "乒乓球髌骨带业余必备",
+  "video_url": "https://www.douyin.com/video/7685982435083625713",
+  "source_duration": 69.846,
+  "media_kind": "audio",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7685982435083625713: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition",
+  "review_scope": "标题、开头、主题、长度逐条检查；疑点按对应播放器画面复核。未全片逐字听校。"
+}

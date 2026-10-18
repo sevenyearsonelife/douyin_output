@@ -1,0 +1,27 @@
+{
+  "text": "这个礼拜我连发了四条视频说非理性炒作科技的风险，但是无一例外全部被限流了。看到有人说科技是未来长期的主线，然后我就发视频说别把炒作当信仰。看到有人说科技上涨是因为政策推动，然后我就发视频解读A股到底是不是政策市。还有很多人说这回和以前不一样，我就发了个视频股市轮回人性不变。又有人说管它泡沫不泡沫的，涨的时候先买进去把钱挣了，然后我就发视频说为什么不去追科技。没想到啊，说啥都不行。我自认为发表的都是正确且客观的言论，视频中也没有任何推荐股票或者指导操作的言论，但不知道为什么要限流，为什么要判定我违规，这事不能说吗？嗯，想不明白。",
+  "chunks": 1,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 525779,
+  "timings": {
+    "chunks_wall_seconds": 6.349730791989714,
+    "encode_seconds_sum": 0.34983812493737787,
+    "request_seconds_sum": 2.5519742920296267,
+    "decode_seconds": 0.5337097910232842,
+    "download_seconds": 7.36
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 49.2045,
+  "review_status": "pending",
+  "warnings": [],
+  "video_id": "7645242675859842789",
+  "title": "科技股不能说吗？ #股票 #股民 #财经 #大盘 #股市",
+  "video_url": "https://www.douyin.com/video/7645242675859842789",
+  "source_duration": 49.234,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7645242675859842789: Fresh cookies (not necessarily logged in) are needed\n",
+  "extraction_method": "speech_recognition"
+}

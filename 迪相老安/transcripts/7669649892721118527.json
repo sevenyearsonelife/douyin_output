@@ -1,0 +1,30 @@
+{
+  "text": "来看看这位老铁的留言哈，如何判断股票的估值高低？这个事儿的话，你千万别把它想得太神秘，你甚至可以简单粗暴的这样理解。判断股票的估值啊，和目测一个人的高矮胖瘦差不多的感觉。因为目测这两个字本身，追求的就是一种模糊的正确。模糊的正确胜过精确的错误。这句话呢是巴老爷子说的哈，原话是这样讲的，Would rather vaguely precisely wrong。好像是一九八六年在那个致股东的信里边说的这么一句话。意思呢很直白，宁要大概的对，也不要精确的错误啊，大概就是这么个意思啊。\n嗯。",
+  "chunks": 2,
+  "audio_format": "mp3",
+  "cached_chunks": 0,
+  "upload_bytes": 4478758,
+  "timings": {
+    "chunks_wall_seconds": 8.15047575,
+    "encode_seconds_sum": 1.3690162499999998,
+    "request_seconds_sum": 13.679070249999999,
+    "decode_seconds": 0.8465632909999999,
+    "download_seconds": 33.036
+  },
+  "model": "qwen3-asr-flash",
+  "duration": 419.7006875,
+  "review_status": "pending",
+  "warnings": [
+    "Chunk boundaries require review"
+  ],
+  "video_id": "7669649892721118527",
+  "title": "如何判断股票估值高低？ #估值 #股市 #判断估值",
+  "video_url": "https://www.douyin.com/video/7669649892721118527",
+  "source_duration": 419.701,
+  "media_kind": "video",
+  "transport": "browser-memory",
+  "requested_transport": "legacy-url",
+  "fallback_reason": "解析抖音链接失败: yt-dlp 解析失败(已尝试 1 次): ERROR: [Douyin] 7669649892721118527: Fresh cookies (not necessarily logged in) are needed\n",
+  "requested_model": "qwen-audio-3.1-asr-flash-filetrans",
+  "extraction_method": "speech_recognition"
+}
