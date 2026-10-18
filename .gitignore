@@ -9,3 +9,5 @@ _tmp/
 
 # 日志文件
 *.log
+*_review/
+*transcripts/
