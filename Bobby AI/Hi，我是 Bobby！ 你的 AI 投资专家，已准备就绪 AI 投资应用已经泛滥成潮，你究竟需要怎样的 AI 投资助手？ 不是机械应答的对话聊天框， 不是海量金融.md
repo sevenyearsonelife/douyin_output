@@ -1,0 +1,8 @@
+视频链接：https://www.douyin.com/video/7494555730926767396  
+索引文档：[index.md](index.md)
+
+The world is flooded with AI investment tools, but what kind of AI assistant do you truly need?
+
+More than just a chatbot, it trades, tracks, and executes strategies. Beyond aggregating information, it understands you and delivers sharp insights. Introducing Bobby, the world's first financial AI agent, redefining the investment world with AI. Powered by cutting-edge AI agent architecture, Bobby enables you to build personalized options strategies and execute trades with a single command. By analyzing your historical conversations and interaction patterns, Bobby understands your unique trading motivations. It then matches these insights with our proprietary strategy database to pinpoint the trading templates for you. Combining with real-time market data and your current portfolio status, Bobby can break them down into executable trading orders that you can confirm at once. Bobby monitors the market around the clock, curating key updates for you from a wide range of sources, including institutional research, technical indicators, market sentiment, and dynamics. It alerts you to major events and can even execute trades automatically per your request, so you never miss an opportunity. Bobby is fully integrated with RockFlow, transforming how content is presented and streamlining the investment process. In the age of AI, investing can be simpler than simple, and Bobby is here to be your ultimate partner. This is Bobby, the world's first financial AI agent, exclusively designed for your investment revolution. Time to meet Bobby?
+
+Download RockFlow and join our beta now to be among the first to experience Bobby.
