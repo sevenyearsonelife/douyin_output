@@ -14,7 +14,9 @@
     "text_review_scope": "逐条阅读识别稿，检查标题、开头、主题和长度；不等同逐字听校。",
     "review_note": "依据52、54、56、68秒实际字幕；提取可见字幕，不补未显示的口语。",
     "reviewedAt": "2026-10-06",
-    "review_file": "_review/content-review.json"
+    "review_file": "_review/content-review.json",
+    "short_ok": true,
+    "short_reason": "73秒粉笔字短片，只有几句对话，与原始转写一致"
   },
   {
     "url": "https://www.douyin.com/video/7428415400930446633",
@@ -149,7 +151,9 @@
     "review_note": "已排除背景歌词，提取主标题；画面中的部分装饰文字较小，未宣称全部提取。每15秒采样覆盖全片。",
     "coverage": "partial_screen_text",
     "reviewedAt": "2026-10-06",
-    "review_file": "_review/content-review.json"
+    "review_file": "_review/content-review.json",
+    "short_ok": true,
+    "short_reason": "约10分钟美食vlog无口播，原始语音识别只有背景歌曲歌词，屏幕字幕仅“一顿饺子”"
   },
   {
     "url": "https://www.douyin.com/video/7690178257588718899",
@@ -222,7 +226,9 @@
     "text_review_scope": "逐条阅读识别稿，检查标题、开头、主题和长度；不等同逐字听校。",
     "review_note": "全片每2秒采样，实际画面6秒确认文字；排除背景歌曲。",
     "reviewedAt": "2026-10-06",
-    "review_file": "_review/content-review.json"
+    "review_file": "_review/content-review.json",
+    "short_ok": true,
+    "short_reason": "14秒短片无口播，原始语音识别为背景歌词，正文取自屏幕字幕"
   },
   {
     "url": "https://www.douyin.com/video/7688957943311535396",
@@ -256,7 +262,9 @@
     "review_note": "全片每2秒采样，未发现正文字幕；原识别为背景歌词或无意义的“嗯”，不作为作者文案。",
     "content_type": "no_extractable_text",
     "reviewedAt": "2026-10-06",
-    "review_file": "_review/content-review.json"
+    "review_file": "_review/content-review.json",
+    "short_ok": true,
+    "short_reason": "15秒短片无口播，原始语音识别为背景歌词"
   },
   {
     "url": "https://www.douyin.com/video/7688607946137177353",
@@ -920,7 +928,9 @@
     "review_note": "全片每2秒采样，未发现正文字幕；原识别为背景歌词或无意义的“嗯”，不作为作者文案。",
     "content_type": "no_extractable_text",
     "reviewedAt": "2026-10-06",
-    "review_file": "_review/content-review.json"
+    "review_file": "_review/content-review.json",
+    "short_ok": true,
+    "short_reason": "29秒短片无口播，原始语音识别只有“嗯嗯”"
   },
   {
     "url": "https://www.douyin.com/video/7679258383433633030",
@@ -1676,7 +1686,9 @@
     "text_review_scope": "逐条阅读识别稿，检查标题、开头、主题和长度；不等同逐字听校。",
     "review_note": "全片每2秒采样；依据0、2秒实际文字卡片。排除背景歌曲及同步歌词，不冒充口播。",
     "reviewedAt": "2026-10-06",
-    "review_file": "_review/content-review.json"
+    "review_file": "_review/content-review.json",
+    "short_ok": true,
+    "short_reason": "58秒短片，背景歌曲《风雨中的诺言》，正文取自两句屏幕字幕"
   },
   {
     "url": "https://www.douyin.com/video/7665327710025174314",

@@ -189,7 +189,9 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 33.034,
-    "raw_file": "transcripts/7695042972076772659.json"
+    "raw_file": "transcripts/7695042972076772659.json",
+    "short_ok": true,
+    "short_reason": "33秒漂移体验视频，无口播，原始语音识别只有“啊啊”"
   },
   {
     "url": "https://www.douyin.com/video/7694910891871063315",
