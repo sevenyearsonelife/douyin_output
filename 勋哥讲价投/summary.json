@@ -14,8 +14,8 @@
   },
   {
     "url": "https://www.douyin.com/video/7640359464570945743",
-    "title": "2923",
-    "file": "2923.md",
+    "title": "利弗摩尔死的时候口袋里面还有钱",
+    "file": "利弗摩尔死的时候口袋里面还有钱.md",
     "writtenAt": "2026-10-25 21:18:48",
     "homepageIndex": 1,
     "status": "transcribed",
@@ -23,7 +23,9 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 502.875,
-    "raw_file": "transcripts/7640359464570945743.json"
+    "raw_file": "transcripts/7640359464570945743.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2923”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7647337363526271653",
@@ -41,8 +43,8 @@
   },
   {
     "url": "https://www.douyin.com/video/7700109068824839781",
-    "title": "1114",
-    "file": "1114.md",
+    "title": "看一个炸裂的数据啊，就是卖地的收入",
+    "file": "看一个炸裂的数据啊，就是卖地的收入.md",
     "writtenAt": "2026-10-25 21:18:58",
     "homepageIndex": 3,
     "status": "transcribed",
@@ -50,12 +52,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 68.568,
-    "raw_file": "transcripts/7700109068824839781.json"
+    "raw_file": "transcripts/7700109068824839781.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1114”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7700055265952957113",
-    "title": "544",
-    "file": "544.md",
+    "title": "如果我们做生意一定要学习一个人的话",
+    "file": "如果我们做生意一定要学习一个人的话.md",
     "writtenAt": "2026-10-25 21:19:25",
     "homepageIndex": 4,
     "status": "transcribed",
@@ -63,12 +67,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 577.781,
-    "raw_file": "transcripts/7700055265952957113.json"
+    "raw_file": "transcripts/7700055265952957113.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“544”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7699664109997918565",
-    "title": "1036",
-    "file": "1036.md",
+    "title": "泸州老窖来到了六十八块钱附近了",
+    "file": "泸州老窖来到了六十八块钱附近了.md",
     "writtenAt": "2026-10-25 21:19:15",
     "homepageIndex": 5,
     "status": "transcribed",
@@ -76,12 +82,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 108.181,
-    "raw_file": "transcripts/7699664109997918565.json"
+    "raw_file": "transcripts/7699664109997918565.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1036”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7699420504852398459",
-    "title": "1087",
-    "file": "1087.md",
+    "title": "我一直在给大家讲，不要去追科技",
+    "file": "我一直在给大家讲，不要去追科技.md",
     "writtenAt": "2026-10-25 21:19:29",
     "homepageIndex": 6,
     "status": "transcribed",
@@ -89,12 +97,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 90.65,
-    "raw_file": "transcripts/7699420504852398459.json"
+    "raw_file": "transcripts/7699420504852398459.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1087”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7699407192294438779",
-    "title": "1499",
-    "file": "1499.md",
+    "title": "说一个比较炸裂的数据",
+    "file": "说一个比较炸裂的数据.md",
     "writtenAt": "2026-10-25 21:19:30",
     "homepageIndex": 7,
     "status": "transcribed",
@@ -102,12 +112,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 28.931,
-    "raw_file": "transcripts/7699407192294438779.json"
+    "raw_file": "transcripts/7699407192294438779.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1499”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7699315787303064506",
-    "title": "734",
-    "file": "734.md",
+    "title": "加盟一家零食店一年能够赚多少钱？",
+    "file": "加盟一家零食店一年能够赚多少钱？.md",
     "writtenAt": "2026-10-25 21:20:01",
     "homepageIndex": 8,
     "status": "transcribed",
@@ -115,12 +127,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 414.638,
-    "raw_file": "transcripts/7699315787303064506.json"
+    "raw_file": "transcripts/7699315787303064506.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“734”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7699303939942350774",
-    "title": "1816",
-    "file": "1816.md",
+    "title": "那么看一个腾讯的反差现象",
+    "file": "那么看一个腾讯的反差现象.md",
     "writtenAt": "2026-10-25 21:19:43",
     "homepageIndex": 9,
     "status": "transcribed",
@@ -128,12 +142,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 52.035,
-    "raw_file": "transcripts/7699303939942350774.json"
+    "raw_file": "transcripts/7699303939942350774.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1816”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7699301356838569137",
-    "title": "642",
-    "file": "642.md",
+    "title": "在二十多年前，你们家里面装一台座机电话要",
+    "file": "在二十多年前，你们家里面装一台座机电话要.md",
     "writtenAt": "2026-10-25 21:19:52",
     "homepageIndex": 10,
     "status": "transcribed",
@@ -141,12 +157,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 405.559,
-    "raw_file": "transcripts/7699301356838569137.json"
+    "raw_file": "transcripts/7699301356838569137.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“642”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7699056726117737915",
-    "title": "1101",
-    "file": "1101.md",
+    "title": "最近几天我知道很多人打开账户手是发抖的",
+    "file": "最近几天我知道很多人打开账户手是发抖的.md",
     "writtenAt": "2026-10-25 21:20:12",
     "homepageIndex": 11,
     "status": "transcribed",
@@ -154,12 +172,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 230.109,
-    "raw_file": "transcripts/7699056726117737915.json"
+    "raw_file": "transcripts/7699056726117737915.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1101”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7699046984574086905",
-    "title": "2968",
-    "file": "2968.md",
+    "title": "打造世界一流交易所，做耐心资本",
+    "file": "打造世界一流交易所，做耐心资本.md",
     "writtenAt": "2026-10-25 21:20:05",
     "homepageIndex": 12,
     "status": "transcribed",
@@ -167,12 +187,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 48.204,
-    "raw_file": "transcripts/7699046984574086905.json"
+    "raw_file": "transcripts/7699046984574086905.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2968”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698936032045232101",
-    "title": "1505",
-    "file": "1505.md",
+    "title": "宁德时代为什么跌跌不休？",
+    "file": "宁德时代为什么跌跌不休？.md",
     "writtenAt": "2026-10-25 21:20:18",
     "homepageIndex": 13,
     "status": "transcribed",
@@ -180,12 +202,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 97.871,
-    "raw_file": "transcripts/7698936032045232101.json"
+    "raw_file": "transcripts/7698936032045232101.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1505”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698929683350500325",
-    "title": "765",
-    "file": "765.md",
+    "title": "韩国的养老金亏了一万多亿人民币",
+    "file": "韩国的养老金亏了一万多亿人民币.md",
     "writtenAt": "2026-10-25 21:20:22",
     "homepageIndex": 14,
     "status": "transcribed",
@@ -193,12 +217,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 97.2,
-    "raw_file": "transcripts/7698929683350500325.json"
+    "raw_file": "transcripts/7698929683350500325.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“765”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698924307871789419",
-    "title": "1095",
-    "file": "1095.md",
+    "title": "公摊面积的发明人到底是谁？",
+    "file": "公摊面积的发明人到底是谁？.md",
     "writtenAt": "2026-10-25 21:20:27",
     "homepageIndex": 15,
     "status": "transcribed",
@@ -206,12 +232,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 32.948,
-    "raw_file": "transcripts/7698924307871789419.json"
+    "raw_file": "transcripts/7698924307871789419.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1095”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698728769942854847",
-    "title": "2932",
-    "file": "2932.md",
+    "title": "香港李超人如果真的去世了，你们会怀念吗？",
+    "file": "香港李超人如果真的去世了，你们会怀念吗？.md",
     "writtenAt": "2026-10-25 21:20:32",
     "homepageIndex": 16,
     "status": "transcribed",
@@ -219,12 +247,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 37.667,
-    "raw_file": "transcripts/7698728769942854847.json"
+    "raw_file": "transcripts/7698728769942854847.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2932”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698570748319529915",
-    "title": "2.6万",
-    "file": "2.6万.md",
+    "title": "网上很多诋毁华为比亚迪的人",
+    "file": "网上很多诋毁华为比亚迪的人.md",
     "writtenAt": "2026-10-25 21:20:54",
     "homepageIndex": 17,
     "status": "transcribed",
@@ -232,12 +262,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 257.973,
-    "raw_file": "transcripts/7698570748319529915.json"
+    "raw_file": "transcripts/7698570748319529915.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2.6万”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698558490960237817",
-    "title": "5572",
-    "file": "5572.md",
+    "title": "炸裂的数据又来了",
+    "file": "炸裂的数据又来了.md",
     "writtenAt": "2026-10-25 21:20:40",
     "homepageIndex": 18,
     "status": "transcribed",
@@ -245,12 +277,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 61.137,
-    "raw_file": "transcripts/7698558490960237817.json"
+    "raw_file": "transcripts/7698558490960237817.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“5572”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698296369845301605",
-    "title": "935",
-    "file": "935.md",
+    "title": "你知道你们的竞争对手都有谁吗？",
+    "file": "你知道你们的竞争对手都有谁吗？.md",
     "writtenAt": "2026-10-25 21:20:52",
     "homepageIndex": 19,
     "status": "transcribed",
@@ -258,12 +292,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 110.689,
-    "raw_file": "transcripts/7698296369845301605.json"
+    "raw_file": "transcripts/7698296369845301605.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“935”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698276569349890021",
-    "title": "2873",
-    "file": "2873.md",
+    "title": "极不寻常的一个信号出现了",
+    "file": "极不寻常的一个信号出现了.md",
     "writtenAt": "2026-10-25 21:20:57",
     "homepageIndex": 20,
     "status": "transcribed",
@@ -271,12 +307,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 38.66,
-    "raw_file": "transcripts/7698276569349890021.json"
+    "raw_file": "transcripts/7698276569349890021.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2873”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698270820753337445",
-    "title": "1715",
-    "file": "1715.md",
+    "title": "再悲观下去我感觉意义不大",
+    "file": "再悲观下去我感觉意义不大.md",
     "writtenAt": "2026-10-25 21:21:07",
     "homepageIndex": 21,
     "status": "transcribed",
@@ -284,12 +322,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 24.798,
-    "raw_file": "transcripts/7698270820753337445.json"
+    "raw_file": "transcripts/7698270820753337445.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1715”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698206535679851899",
-    "title": "2769",
-    "file": "2769.md",
+    "title": "告诉大家一个炸裂的数据",
+    "file": "告诉大家一个炸裂的数据.md",
     "writtenAt": "2026-10-25 21:21:12",
     "homepageIndex": 22,
     "status": "transcribed",
@@ -297,12 +337,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 28.304,
-    "raw_file": "transcripts/7698206535679851899.json"
+    "raw_file": "transcripts/7698206535679851899.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2769”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7698199068916864421",
-    "title": "1.4万",
-    "file": "1.4万.md",
+    "title": "你们可以不买华为，但是请不要诋毁华为",
+    "file": "你们可以不买华为，但是请不要诋毁华为.md",
     "writtenAt": "2026-10-25 21:21:21",
     "homepageIndex": 23,
     "status": "transcribed",
@@ -310,12 +352,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 236.471,
-    "raw_file": "transcripts/7698199068916864421.json"
+    "raw_file": "transcripts/7698199068916864421.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1.4万”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7697983090434837093",
-    "title": "549",
-    "file": "549.md",
+    "title": "这趟回老家小县城呢，是给我爸过生日",
+    "file": "这趟回老家小县城呢，是给我爸过生日.md",
     "writtenAt": "2026-10-25 21:21:37",
     "homepageIndex": 24,
     "status": "transcribed",
@@ -323,12 +367,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 480.513,
-    "raw_file": "transcripts/7697983090434837093.json"
+    "raw_file": "transcripts/7697983090434837093.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“549”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7697891878813533861",
-    "title": "1335",
-    "file": "1335.md",
+    "title": "七零后、八零后、九零后，尤其是零零后",
+    "file": "七零后、八零后、九零后，尤其是零零后.md",
     "writtenAt": "2026-10-25 21:21:33",
     "homepageIndex": 25,
     "status": "transcribed",
@@ -336,12 +382,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 50.084,
-    "raw_file": "transcripts/7697891878813533861.json"
+    "raw_file": "transcripts/7697891878813533861.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1335”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7697851559816250617",
-    "title": "771",
-    "file": "771.md",
+    "title": "十年之内能够赚到钱的生意都不要叫我来玩",
+    "file": "十年之内能够赚到钱的生意都不要叫我来玩.md",
     "writtenAt": "2026-10-25 21:21:42",
     "homepageIndex": 26,
     "status": "transcribed",
@@ -349,12 +397,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 171.037,
-    "raw_file": "transcripts/7697851559816250617.json"
+    "raw_file": "transcripts/7697851559816250617.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“771”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7697843360061324517",
-    "title": "1207",
-    "file": "1207.md",
+    "title": "五年时间没了四千多个亿",
+    "file": "五年时间没了四千多个亿.md",
     "writtenAt": "2026-10-25 21:21:46",
     "homepageIndex": 27,
     "status": "transcribed",
@@ -362,12 +412,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 88.328,
-    "raw_file": "transcripts/7697843360061324517.json"
+    "raw_file": "transcripts/7697843360061324517.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1207”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7697833674473196709",
-    "title": "863",
-    "file": "863.md",
+    "title": "这次回老家最大的收获就是钱越来越值钱了",
+    "file": "这次回老家最大的收获就是钱越来越值钱了.md",
     "writtenAt": "2026-10-25 21:22:09",
     "homepageIndex": 28,
     "status": "transcribed",
@@ -375,12 +427,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 282.214,
-    "raw_file": "transcripts/7697833674473196709.json"
+    "raw_file": "transcripts/7697833674473196709.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“863”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7697455488783106149",
-    "title": "1299",
-    "file": "1299.md",
+    "title": "这是我的家乡，有一个非常洋气的名字",
+    "file": "这是我的家乡，有一个非常洋气的名字.md",
     "writtenAt": "2026-10-25 21:22:00",
     "homepageIndex": 29,
     "status": "transcribed",
@@ -388,12 +442,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 107.159,
-    "raw_file": "transcripts/7697455488783106149.json"
+    "raw_file": "transcripts/7697455488783106149.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1299”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7697156306528074469",
-    "title": "3470",
-    "file": "3470.md",
+    "title": "现在整个A股的市值是一百万亿出头",
+    "file": "现在整个A股的市值是一百万亿出头.md",
     "writtenAt": "2026-10-25 21:22:03",
     "homepageIndex": 30,
     "status": "transcribed",
@@ -401,12 +457,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 47.855,
-    "raw_file": "transcripts/7697156306528074469.json"
+    "raw_file": "transcripts/7697156306528074469.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“3470”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7696811927855041275",
-    "title": "1211",
-    "file": "1211.md",
+    "title": "这个情况我知道大家心里面都很慌",
+    "file": "这个情况我知道大家心里面都很慌.md",
     "writtenAt": "2026-10-25 21:22:20",
     "homepageIndex": 31,
     "status": "transcribed",
@@ -414,12 +472,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 107.507,
-    "raw_file": "transcripts/7696811927855041275.json"
+    "raw_file": "transcripts/7696811927855041275.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1211”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7696723092437150585",
-    "title": "1563",
-    "file": "1563.md",
+    "title": "港股的真相呢，百分之九十九的人都是没有看",
+    "file": "港股的真相呢，百分之九十九的人都是没有看.md",
     "writtenAt": "2026-10-25 21:22:34",
     "homepageIndex": 32,
     "status": "transcribed",
@@ -427,12 +487,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 516.597,
-    "raw_file": "transcripts/7696723092437150585.json"
+    "raw_file": "transcripts/7696723092437150585.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1563”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7696710135003261817",
-    "title": "2050",
-    "file": "2050.md",
+    "title": "看懵了，我给大家说一个数据",
+    "file": "看懵了，我给大家说一个数据.md",
     "writtenAt": "2026-10-25 21:22:27",
     "homepageIndex": 33,
     "status": "transcribed",
@@ -440,12 +502,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 88.1,
-    "raw_file": "transcripts/7696710135003261817.json"
+    "raw_file": "transcripts/7696710135003261817.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2050”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7696462505807827833",
-    "title": "2615",
-    "file": "2615.md",
+    "title": "我们A股历史上一共有八次救市",
+    "file": "我们A股历史上一共有八次救市.md",
     "writtenAt": "2026-10-25 21:22:35",
     "homepageIndex": 34,
     "status": "transcribed",
@@ -453,12 +517,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 88.421,
-    "raw_file": "transcripts/7696462505807827833.json"
+    "raw_file": "transcripts/7696462505807827833.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2615”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7696394685179739749",
-    "title": "9495",
-    "file": "9495.md",
+    "title": "你们发现一个规律没有？",
+    "file": "你们发现一个规律没有？.md",
     "writtenAt": "2026-10-25 21:22:55",
     "homepageIndex": 35,
     "status": "transcribed",
@@ -466,12 +532,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 405.884,
-    "raw_file": "transcripts/7696394685179739749.json"
+    "raw_file": "transcripts/7696394685179739749.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“9495”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7696378164151583973",
-    "title": "6919",
-    "file": "6919.md",
+    "title": "吵起来了，这个险资说机构想跑",
+    "file": "吵起来了，这个险资说机构想跑.md",
     "writtenAt": "2026-10-25 21:22:58",
     "homepageIndex": 36,
     "status": "transcribed",
@@ -479,12 +547,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 23.149,
-    "raw_file": "transcripts/7696378164151583973.json"
+    "raw_file": "transcripts/7696378164151583973.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“6919”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7696330533194367995",
-    "title": "1605",
-    "file": "1605.md",
+    "title": "如果只看一个指标的话",
+    "file": "如果只看一个指标的话.md",
     "writtenAt": "2026-10-25 21:22:49",
     "homepageIndex": 37,
     "status": "transcribed",
@@ -492,7 +562,9 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 119.094,
-    "raw_file": "transcripts/7696330533194367995.json"
+    "raw_file": "transcripts/7696330533194367995.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1605”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7696053571947984753",
@@ -509,8 +581,8 @@
   },
   {
     "url": "https://www.douyin.com/video/7696049170062292837",
-    "title": "939",
-    "file": "939.md",
+    "title": "二十多岁出头，玩美股加杠杆，亏了八位数",
+    "file": "二十多岁出头，玩美股加杠杆，亏了八位数.md",
     "writtenAt": "2026-10-25 21:23:21",
     "homepageIndex": 39,
     "status": "transcribed",
@@ -518,12 +590,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 359.421,
-    "raw_file": "transcripts/7696049170062292837.json"
+    "raw_file": "transcripts/7696049170062292837.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“939”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695947933220358523",
-    "title": "1354",
-    "file": "1354.md",
+    "title": "刚才打开后台一看，粉丝数量破十万了",
+    "file": "刚才打开后台一看，粉丝数量破十万了.md",
     "writtenAt": "2026-10-25 21:23:25",
     "homepageIndex": 40,
     "status": "transcribed",
@@ -531,12 +605,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 336.108,
-    "raw_file": "transcripts/7695947933220358523.json"
+    "raw_file": "transcripts/7695947933220358523.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1354”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695716110604204709",
-    "title": "1110",
-    "file": "1110.md",
+    "title": "最近两个月科技为什么一直跌呢？",
+    "file": "最近两个月科技为什么一直跌呢？.md",
     "writtenAt": "2026-10-25 21:23:23",
     "homepageIndex": 41,
     "status": "transcribed",
@@ -544,12 +620,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 80.8,
-    "raw_file": "transcripts/7695716110604204709.json"
+    "raw_file": "transcripts/7695716110604204709.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1110”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695656430771108581",
-    "title": "1431",
-    "file": "1431.md",
+    "title": "太牛了啊，我看了一下银行板块，建行",
+    "file": "太牛了啊，我看了一下银行板块，建行.md",
     "writtenAt": "2026-10-25 21:23:37",
     "homepageIndex": 42,
     "status": "transcribed",
@@ -557,12 +635,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 96.4,
-    "raw_file": "transcripts/7695656430771108581.json"
+    "raw_file": "transcripts/7695656430771108581.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1431”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695601926779543269",
-    "title": "1559",
-    "file": "1559.md",
+    "title": "根据我这么多年观察",
+    "file": "根据我这么多年观察.md",
     "writtenAt": "2026-10-25 21:23:39",
     "homepageIndex": 43,
     "status": "transcribed",
@@ -570,12 +650,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 76.346,
-    "raw_file": "transcripts/7695601926779543269.json"
+    "raw_file": "transcripts/7695601926779543269.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1559”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695595332461165477",
-    "title": "4075",
-    "file": "4075.md",
+    "title": "我看了一下比亚迪二零二五年它的一个参保人",
+    "file": "我看了一下比亚迪二零二五年它的一个参保人.md",
     "writtenAt": "2026-10-25 21:23:42",
     "homepageIndex": 44,
     "status": "transcribed",
@@ -583,12 +665,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 77.368,
-    "raw_file": "transcripts/7695595332461165477.json"
+    "raw_file": "transcripts/7695595332461165477.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“4075”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695330978134407161",
-    "title": "1796",
-    "file": "1796.md",
+    "title": "可以看一下这张名单",
+    "file": "可以看一下这张名单.md",
     "writtenAt": "2026-10-25 21:23:56",
     "homepageIndex": 45,
     "status": "transcribed",
@@ -596,12 +680,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 255.581,
-    "raw_file": "transcripts/7695330978134407161.json"
+    "raw_file": "transcripts/7695330978134407161.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1796”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695275542157842353",
-    "title": "979",
-    "file": "979.md",
+    "title": "家财万贯带毛的不算",
+    "file": "家财万贯带毛的不算.md",
     "writtenAt": "2026-10-25 21:24:02",
     "homepageIndex": 46,
     "status": "transcribed",
@@ -609,12 +695,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 203.545,
-    "raw_file": "transcripts/7695275542157842353.json"
+    "raw_file": "transcripts/7695275542157842353.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“979”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695250561323140473",
-    "title": "4246",
-    "file": "4246.md",
+    "title": "千万不要全职去玩这玩意了",
+    "file": "千万不要全职去玩这玩意了.md",
     "writtenAt": "2026-10-25 21:23:58",
     "homepageIndex": 47,
     "status": "transcribed",
@@ -622,12 +710,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 136.634,
-    "raw_file": "transcripts/7695250561323140473.json"
+    "raw_file": "transcripts/7695250561323140473.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“4246”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7695232649510371557",
-    "title": "1345",
-    "file": "1345.md",
+    "title": "很多兄弟怀疑某酒企账上上千亿的现金是假的",
+    "file": "很多兄弟怀疑某酒企账上上千亿的现金是假的.md",
     "writtenAt": "2026-10-25 21:24:11",
     "homepageIndex": 48,
     "status": "transcribed",
@@ -635,12 +725,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 168.112,
-    "raw_file": "transcripts/7695232649510371557.json"
+    "raw_file": "transcripts/7695232649510371557.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1345”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7694901450561289957",
-    "title": "1738",
-    "file": "1738.md",
+    "title": "今年我三十五岁了",
+    "file": "今年我三十五岁了.md",
     "writtenAt": "2026-10-25 21:24:30",
     "homepageIndex": 49,
     "status": "transcribed",
@@ -648,12 +740,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 546.968,
-    "raw_file": "transcripts/7694901450561289957.json"
+    "raw_file": "transcripts/7694901450561289957.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1738”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7694878147552172133",
-    "title": "2600",
-    "file": "2600.md",
+    "title": "留给五粮液的时间我感觉不多了",
+    "file": "留给五粮液的时间我感觉不多了.md",
     "writtenAt": "2026-10-25 21:24:19",
     "homepageIndex": 50,
     "status": "transcribed",
@@ -661,12 +755,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 80.781,
-    "raw_file": "transcripts/7694878147552172133.json"
+    "raw_file": "transcripts/7694878147552172133.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2600”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7694874522042462129",
-    "title": "8267",
-    "file": "8267.md",
+    "title": "炸裂呀！",
+    "file": "炸裂呀！.md",
     "writtenAt": "2026-10-25 21:24:30",
     "homepageIndex": 51,
     "status": "transcribed",
@@ -674,12 +770,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 85.934,
-    "raw_file": "transcripts/7694874522042462129.json"
+    "raw_file": "transcripts/7694874522042462129.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“8267”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7694584536651742181",
-    "title": "2855",
-    "file": "2855.md",
+    "title": "人应该怎么来选择城市？",
+    "file": "人应该怎么来选择城市？.md",
     "writtenAt": "2026-10-25 21:24:51",
     "homepageIndex": 52,
     "status": "transcribed",
@@ -687,12 +785,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 431.704,
-    "raw_file": "transcripts/7694584536651742181.json"
+    "raw_file": "transcripts/7694584536651742181.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2855”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7694481273536414714",
-    "title": "908",
-    "file": "908.md",
+    "title": "就在几个月前，我的直播间非常热闹",
+    "file": "就在几个月前，我的直播间非常热闹.md",
     "writtenAt": "2026-10-25 21:25:01",
     "homepageIndex": 53,
     "status": "transcribed",
@@ -700,12 +800,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 417.796,
-    "raw_file": "transcripts/7694481273536414714.json"
+    "raw_file": "transcripts/7694481273536414714.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“908”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7694088560907836005",
-    "title": "1430",
-    "file": "1430.md",
+    "title": "昨天晚上研究了很久的券商",
+    "file": "昨天晚上研究了很久的券商.md",
     "writtenAt": "2026-10-25 21:24:50",
     "homepageIndex": 54,
     "status": "transcribed",
@@ -713,12 +815,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 119.35,
-    "raw_file": "transcripts/7694088560907836005.json"
+    "raw_file": "transcripts/7694088560907836005.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1430”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7693833959797722809",
-    "title": "4300",
-    "file": "4300.md",
+    "title": "金融市场最可怕的不是暴涨暴跌",
+    "file": "金融市场最可怕的不是暴涨暴跌.md",
     "writtenAt": "2026-10-25 21:25:07",
     "homepageIndex": 55,
     "status": "transcribed",
@@ -726,12 +830,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 84.009,
-    "raw_file": "transcripts/7693833959797722809.json"
+    "raw_file": "transcripts/7693833959797722809.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“4300”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7693805487284449253",
-    "title": "1352",
-    "file": "1352.md",
+    "title": "恒生科技基本上坏菜了",
+    "file": "恒生科技基本上坏菜了.md",
     "writtenAt": "2026-10-25 21:25:02",
     "homepageIndex": 56,
     "status": "transcribed",
@@ -739,12 +845,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 68.3,
-    "raw_file": "transcripts/7693805487284449253.json"
+    "raw_file": "transcripts/7693805487284449253.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1352”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7693745452609554917",
-    "title": "670",
-    "file": "670.md",
+    "title": "我们年轻的时候就不应该去太惊艳的地方",
+    "file": "我们年轻的时候就不应该去太惊艳的地方.md",
     "writtenAt": "2026-10-25 21:25:15",
     "homepageIndex": 57,
     "status": "transcribed",
@@ -752,7 +860,9 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 132.167,
-    "raw_file": "transcripts/7693745452609554917.json"
+    "raw_file": "transcripts/7693745452609554917.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“670”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7692747300678008315",
@@ -769,8 +879,8 @@
   },
   {
     "url": "https://www.douyin.com/video/7692304652515333477",
-    "title": "2304",
-    "file": "2304.md",
+    "title": "国内买的纳指基金和买美国原版的纳指 ET",
+    "file": "国内买的纳指基金和买美国原版的纳指 ET.md",
     "writtenAt": "2026-10-25 21:26:04",
     "homepageIndex": 59,
     "status": "transcribed",
@@ -778,7 +888,9 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 160.867,
-    "raw_file": "transcripts/7692304652515333477.json"
+    "raw_file": "transcripts/7692304652515333477.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2304”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7692283079449042533",
@@ -822,8 +934,8 @@
   },
   {
     "url": "https://www.douyin.com/video/7691889592375652091",
-    "title": "1213",
-    "file": "1213.md",
+    "title": "刚看了一下恒生科技指数又大跌，小米",
+    "file": "刚看了一下恒生科技指数又大跌，小米.md",
     "writtenAt": "2026-10-25 21:26:21",
     "homepageIndex": 63,
     "status": "transcribed",
@@ -831,12 +943,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 109.567,
-    "raw_file": "transcripts/7691889592375652091.json"
+    "raw_file": "transcripts/7691889592375652091.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1213”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7691526369415698085",
-    "title": "814",
-    "file": "814.md",
+    "title": "如果你每年收益是百分之十，七年就翻倍",
+    "file": "如果你每年收益是百分之十，七年就翻倍.md",
     "writtenAt": "2026-10-25 21:26:44",
     "homepageIndex": 64,
     "status": "transcribed",
@@ -844,12 +958,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 197.634,
-    "raw_file": "transcripts/7691526369415698085.json"
+    "raw_file": "transcripts/7691526369415698085.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“814”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7691506188199300517",
-    "title": "483",
-    "file": "483.md",
+    "title": "连续睡了三十六个小时",
+    "file": "连续睡了三十六个小时.md",
     "writtenAt": "2026-10-25 21:27:07",
     "homepageIndex": 65,
     "status": "transcribed",
@@ -857,12 +973,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 206.819,
-    "raw_file": "transcripts/7691506188199300517.json"
+    "raw_file": "transcripts/7691506188199300517.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“483”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690838047840522683",
-    "title": "812",
-    "file": "812.md",
+    "title": "在五年前，也就是二零二零年",
+    "file": "在五年前，也就是二零二零年.md",
     "writtenAt": "2026-10-25 21:27:00",
     "homepageIndex": 66,
     "status": "transcribed",
@@ -870,7 +988,9 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 119.8,
-    "raw_file": "transcripts/7690838047840522683.json"
+    "raw_file": "transcripts/7690838047840522683.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“812”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690805316775604465",
@@ -887,8 +1007,8 @@
   },
   {
     "url": "https://www.douyin.com/video/7690773586860696933",
-    "title": "2128",
-    "file": "2128.md",
+    "title": "老段昨天砸了三千六百九十二万买贵州茅台",
+    "file": "老段昨天砸了三千六百九十二万买贵州茅台.md",
     "writtenAt": "2026-10-25 21:27:13",
     "homepageIndex": 68,
     "status": "transcribed",
@@ -896,12 +1016,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 128.199,
-    "raw_file": "transcripts/7690773586860696933.json"
+    "raw_file": "transcripts/7690773586860696933.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2128”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690768010865797605",
-    "title": "927",
-    "file": "927.md",
+    "title": "你们现在还用百度吗？",
+    "file": "你们现在还用百度吗？.md",
     "writtenAt": "2026-10-25 21:27:24",
     "homepageIndex": 69,
     "status": "transcribed",
@@ -909,12 +1031,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 139.876,
-    "raw_file": "transcripts/7690768010865797605.json"
+    "raw_file": "transcripts/7690768010865797605.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“927”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690446021538146553",
-    "title": "958",
-    "file": "958.md",
+    "title": "被限流了啊，我看很多粉丝给我留言说",
+    "file": "被限流了啊，我看很多粉丝给我留言说.md",
     "writtenAt": "2026-10-25 21:27:33",
     "homepageIndex": 70,
     "status": "transcribed",
@@ -922,12 +1046,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 123.111,
-    "raw_file": "transcripts/7690446021538146553.json"
+    "raw_file": "transcripts/7690446021538146553.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“958”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690402485969631929",
-    "title": "1902",
-    "file": "1902.md",
+    "title": "曾经的各路白马股现在怎么样？",
+    "file": "曾经的各路白马股现在怎么样？.md",
     "writtenAt": "2026-10-25 21:27:28",
     "homepageIndex": 71,
     "status": "transcribed",
@@ -935,12 +1061,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 79.9,
-    "raw_file": "transcripts/7690402485969631929.json"
+    "raw_file": "transcripts/7690402485969631929.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1902”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690367604125605605",
-    "title": "1981",
-    "file": "1981.md",
+    "title": "感觉未来白酒没有啥希望了",
+    "file": "感觉未来白酒没有啥希望了.md",
     "writtenAt": "2026-10-25 21:27:38",
     "homepageIndex": 72,
     "status": "transcribed",
@@ -948,12 +1076,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 161.424,
-    "raw_file": "transcripts/7690367604125605605.json"
+    "raw_file": "transcripts/7690367604125605605.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1981”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690145367295895141",
-    "title": "1972",
-    "file": "1972.md",
+    "title": "我们看一下全球顶级投资人",
+    "file": "我们看一下全球顶级投资人.md",
     "writtenAt": "2026-10-25 21:27:46",
     "homepageIndex": 73,
     "status": "transcribed",
@@ -961,12 +1091,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 155.201,
-    "raw_file": "transcripts/7690145367295895141.json"
+    "raw_file": "transcripts/7690145367295895141.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1972”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690140256670320549",
-    "title": "5347",
-    "file": "5347.md",
+    "title": "全球顶级投资人为什么这么长寿？",
+    "file": "全球顶级投资人为什么这么长寿？.md",
     "writtenAt": "2026-10-25 21:28:20",
     "homepageIndex": 74,
     "status": "transcribed",
@@ -974,12 +1106,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 156.434,
-    "raw_file": "transcripts/7690140256670320549.json"
+    "raw_file": "transcripts/7690140256670320549.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“5347”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690064740290264293",
-    "title": "1979",
-    "file": "1979.md",
+    "title": "富二代最可怕的不是花天酒地",
+    "file": "富二代最可怕的不是花天酒地.md",
     "writtenAt": "2026-10-25 21:27:59",
     "homepageIndex": 75,
     "status": "transcribed",
@@ -987,12 +1121,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 337.408,
-    "raw_file": "transcripts/7690064740290264293.json"
+    "raw_file": "transcripts/7690064740290264293.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1979”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7690049379588264570",
-    "title": "2315",
-    "file": "2315.md",
+    "title": "听说过这样一家公司没有？",
+    "file": "听说过这样一家公司没有？.md",
     "writtenAt": "2026-10-25 21:28:07",
     "homepageIndex": 76,
     "status": "transcribed",
@@ -1000,12 +1136,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 384.405,
-    "raw_file": "transcripts/7690049379588264570.json"
+    "raw_file": "transcripts/7690049379588264570.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2315”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7689691218699854181",
-    "title": "2593",
-    "file": "2593.md",
+    "title": "我发现了一家很像胖东来的企业",
+    "file": "我发现了一家很像胖东来的企业.md",
     "writtenAt": "2026-10-25 21:28:21",
     "homepageIndex": 77,
     "status": "transcribed",
@@ -1013,12 +1151,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 311.588,
-    "raw_file": "transcripts/7689691218699854181.json"
+    "raw_file": "transcripts/7689691218699854181.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2593”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7689350611657281189",
-    "title": "1356",
-    "file": "1356.md",
+    "title": "太炸裂了，我看了一下字节的营收逼近了阿里",
+    "file": "太炸裂了，我看了一下字节的营收逼近了阿里.md",
     "writtenAt": "2026-10-25 21:28:24",
     "homepageIndex": 78,
     "status": "transcribed",
@@ -1026,12 +1166,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 112.151,
-    "raw_file": "transcripts/7689350611657281189.json"
+    "raw_file": "transcripts/7689350611657281189.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1356”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7689303216605154939",
-    "title": "1660",
-    "file": "1660.md",
+    "title": "巴菲特当年为什么买入中国石油？",
+    "file": "巴菲特当年为什么买入中国石油？.md",
     "writtenAt": "2026-10-25 21:28:32",
     "homepageIndex": 79,
     "status": "transcribed",
@@ -1039,12 +1181,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 73.444,
-    "raw_file": "transcripts/7689303216605154939.json"
+    "raw_file": "transcripts/7689303216605154939.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1660”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7689025053540033765",
-    "title": "726",
-    "file": "726.md",
+    "title": "新加坡是真牛批，控糖",
+    "file": "新加坡是真牛批，控糖.md",
     "writtenAt": "2026-10-25 21:28:45",
     "homepageIndex": 80,
     "status": "transcribed",
@@ -1052,12 +1196,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 79.922,
-    "raw_file": "transcripts/7689025053540033765.json"
+    "raw_file": "transcripts/7689025053540033765.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“726”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7688662793323935717",
-    "title": "1156",
-    "file": "1156.md",
+    "title": "刚才坐了一辆滴滴专车，师傅跟我聊了一路",
+    "file": "刚才坐了一辆滴滴专车，师傅跟我聊了一路.md",
     "writtenAt": "2026-10-25 21:28:49",
     "homepageIndex": 81,
     "status": "transcribed",
@@ -1065,12 +1211,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 217.686,
-    "raw_file": "transcripts/7688662793323935717.json"
+    "raw_file": "transcripts/7688662793323935717.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1156”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7688652132481240753",
-    "title": "1474",
-    "file": "1474.md",
+    "title": "很多人都在说我们中国没有价值投资",
+    "file": "很多人都在说我们中国没有价值投资.md",
     "writtenAt": "2026-10-25 21:28:51",
     "homepageIndex": 82,
     "status": "transcribed",
@@ -1078,12 +1226,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 89.442,
-    "raw_file": "transcripts/7688652132481240753.json"
+    "raw_file": "transcripts/7688652132481240753.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1474”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7688248331257174522",
-    "title": "1022",
-    "file": "1022.md",
+    "title": "上午冲高，下午回落，剧本是不是何其相似",
+    "file": "上午冲高，下午回落，剧本是不是何其相似.md",
     "writtenAt": "2026-10-25 21:29:07",
     "homepageIndex": 83,
     "status": "transcribed",
@@ -1091,12 +1241,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 58.188,
-    "raw_file": "transcripts/7688248331257174522.json"
+    "raw_file": "transcripts/7688248331257174522.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1022”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7688231650858078329",
-    "title": "1871",
-    "file": "1871.md",
+    "title": "神股出现了啊，大家看一下会稽山的走势图",
+    "file": "神股出现了啊，大家看一下会稽山的走势图.md",
     "writtenAt": "2026-10-25 21:29:02",
     "homepageIndex": 84,
     "status": "transcribed",
@@ -1104,12 +1256,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 116.795,
-    "raw_file": "transcripts/7688231650858078329.json"
+    "raw_file": "transcripts/7688231650858078329.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1871”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7688167878482661989",
-    "title": "1541",
-    "file": "1541.md",
+    "title": "说一个我的亲身经历啊，就在好几年前",
+    "file": "说一个我的亲身经历啊，就在好几年前.md",
     "writtenAt": "2026-10-25 21:29:11",
     "homepageIndex": 85,
     "status": "transcribed",
@@ -1117,12 +1271,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 268.561,
-    "raw_file": "transcripts/7688167878482661989.json"
+    "raw_file": "transcripts/7688167878482661989.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1541”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7687942348512324602",
-    "title": "837",
-    "file": "837.md",
+    "title": "你们家楼下的那家烟草店老板可能最近睡不太",
+    "file": "你们家楼下的那家烟草店老板可能最近睡不太.md",
     "writtenAt": "2026-10-25 21:29:20",
     "homepageIndex": 86,
     "status": "transcribed",
@@ -1130,12 +1286,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 183.878,
-    "raw_file": "transcripts/7687942348512324602.json"
+    "raw_file": "transcripts/7687942348512324602.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“837”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7687548762231210149",
-    "title": "1644",
-    "file": "1644.md",
+    "title": "刚看了一下，男篮输给伊朗了，金牌、银牌",
+    "file": "刚看了一下，男篮输给伊朗了，金牌、银牌.md",
     "writtenAt": "2026-10-25 21:29:20",
     "homepageIndex": 87,
     "status": "transcribed",
@@ -1143,12 +1301,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 27.909,
-    "raw_file": "transcripts/7687548762231210149.json"
+    "raw_file": "transcripts/7687548762231210149.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1644”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7687536532790295717",
-    "title": "963",
-    "file": "963.md",
+    "title": "神股集团最近在A股杀疯了",
+    "file": "神股集团最近在A股杀疯了.md",
     "writtenAt": "2026-10-25 21:29:28",
     "homepageIndex": 88,
     "status": "transcribed",
@@ -1156,12 +1316,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 124.8,
-    "raw_file": "transcripts/7687536532790295717.json"
+    "raw_file": "transcripts/7687536532790295717.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“963”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7687488835747664314",
-    "title": "1388",
-    "file": "1388.md",
+    "title": "二零二六年二月十三号晚上",
+    "file": "二零二六年二月十三号晚上.md",
     "writtenAt": "2026-10-25 21:29:54",
     "homepageIndex": 89,
     "status": "transcribed",
@@ -1169,12 +1331,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 456,
-    "raw_file": "transcripts/7687488835747664314.json"
+    "raw_file": "transcripts/7687488835747664314.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1388”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7687089018332704357",
-    "title": "3036",
-    "file": "3036.md",
+    "title": "从三百二十亿身家的江西首富到负债三百四十",
+    "file": "从三百二十亿身家的江西首富到负债三百四十.md",
     "writtenAt": "2026-10-25 21:29:51",
     "homepageIndex": 90,
     "status": "transcribed",
@@ -1182,12 +1346,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 359.049,
-    "raw_file": "transcripts/7687089018332704357.json"
+    "raw_file": "transcripts/7687089018332704357.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“3036”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7687066104367896805",
-    "title": "1479",
-    "file": "1479.md",
+    "title": "英伟达市值太大了，早晚得倒霉",
+    "file": "英伟达市值太大了，早晚得倒霉.md",
     "writtenAt": "2026-10-25 21:29:44",
     "homepageIndex": 91,
     "status": "transcribed",
@@ -1195,12 +1361,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 134.048,
-    "raw_file": "transcripts/7687066104367896805.json"
+    "raw_file": "transcripts/7687066104367896805.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1479”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7686859172365543845",
-    "title": "1268",
-    "file": "1268.md",
+    "title": "中秋节到了，月饼没人买了",
+    "file": "中秋节到了，月饼没人买了.md",
     "writtenAt": "2026-10-25 21:29:58",
     "homepageIndex": 92,
     "status": "transcribed",
@@ -1208,12 +1376,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 166.881,
-    "raw_file": "transcripts/7686859172365543845.json"
+    "raw_file": "transcripts/7686859172365543845.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1268”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7686705317993218993",
-    "title": "1567",
-    "file": "1567.md",
+    "title": "昨天在直播间连线聊到了一个投资大师",
+    "file": "昨天在直播间连线聊到了一个投资大师.md",
     "writtenAt": "2026-10-25 21:30:16",
     "homepageIndex": 93,
     "status": "transcribed",
@@ -1221,12 +1391,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 206.067,
-    "raw_file": "transcripts/7686705317993218993.json"
+    "raw_file": "transcripts/7686705317993218993.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1567”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7685977856409305265",
-    "title": "475",
-    "file": "475.md",
+    "title": "告诉大家一个怪象",
+    "file": "告诉大家一个怪象.md",
     "writtenAt": "2026-10-25 21:30:16",
     "homepageIndex": 94,
     "status": "transcribed",
@@ -1234,12 +1406,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 140.867,
-    "raw_file": "transcripts/7685977856409305265.json"
+    "raw_file": "transcripts/7685977856409305265.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“475”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7685946834778343077",
-    "title": "2950",
-    "file": "2950.md",
+    "title": "伊利补了四点五个亿的税",
+    "file": "伊利补了四点五个亿的税.md",
     "writtenAt": "2026-10-25 21:30:12",
     "homepageIndex": 95,
     "status": "transcribed",
@@ -1247,12 +1421,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 170.503,
-    "raw_file": "transcripts/7685946834778343077.json"
+    "raw_file": "transcripts/7685946834778343077.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2950”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7685649811387908089",
-    "title": "2452",
-    "file": "2452.md",
+    "title": "妈的，赛力斯还在跌，嘿嘿嘿",
+    "file": "妈的，赛力斯还在跌，嘿嘿嘿.md",
     "writtenAt": "2026-10-25 21:30:27",
     "homepageIndex": 96,
     "status": "transcribed",
@@ -1260,12 +1436,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 184.934,
-    "raw_file": "transcripts/7685649811387908089.json"
+    "raw_file": "transcripts/7685649811387908089.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“2452”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7685613894823404709",
-    "title": "431",
-    "file": "431.md",
+    "title": "今天咱们聊一个资本江湖的故事",
+    "file": "今天咱们聊一个资本江湖的故事.md",
     "writtenAt": "2026-10-25 21:30:49",
     "homepageIndex": 97,
     "status": "transcribed",
@@ -1273,12 +1451,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 361.58,
-    "raw_file": "transcripts/7685613894823404709.json"
+    "raw_file": "transcripts/7685613894823404709.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“431”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7685214218530997157",
-    "title": "5224",
-    "file": "5224.md",
+    "title": "妈的，港股有一家公司叫做智谱，还在跌",
+    "file": "妈的，港股有一家公司叫做智谱，还在跌.md",
     "writtenAt": "2026-10-25 21:30:33",
     "homepageIndex": 98,
     "status": "transcribed",
@@ -1286,12 +1466,14 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 154.226,
-    "raw_file": "transcripts/7685214218530997157.json"
+    "raw_file": "transcripts/7685214218530997157.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“5224”），标题由正文开头生成"
   },
   {
     "url": "https://www.douyin.com/video/7685210280909893989",
-    "title": "1.0万",
-    "file": "1.0万.md",
+    "title": "今天这个瓜让我憋了好几天了",
+    "file": "今天这个瓜让我憋了好几天了.md",
     "writtenAt": "2026-10-25 21:30:59",
     "homepageIndex": 99,
     "status": "transcribed",
@@ -1299,6 +1481,8 @@
     "extraction_method": "speech_recognition",
     "model": "qwen3-asr-flash",
     "source_duration": 312.267,
-    "raw_file": "transcripts/7685210280909893989.json"
+    "raw_file": "transcripts/7685210280909893989.json",
+    "title_source": "transcript_excerpt",
+    "title_note": "原标题缺失（视频无文字描述，曾误取主页卡片点赞数“1.0万”），标题由正文开头生成"
   }
 ]
