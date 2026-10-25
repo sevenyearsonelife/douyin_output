@@ -11,3 +11,15 @@ _tmp/
 *.log
 *_review/
 *transcripts/
+# never commit: runtime / login / debug state
+_debug*
+_profile_backup*
+_executor_status.json
+_login_status.json
+_login_wait.log
+_queue_progress.md
+_scan_cursor.json
+*chrome-profile*/
+.douyin-browser-profile/
+.env
+*cookies*
