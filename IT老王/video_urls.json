@@ -12,8 +12,28 @@
     "title": "DDD第1期｜表结构设计别只凭经验了。DDD教你反范式表设计 #DDD #程序员 #架构设计#架构 #数据库"
   },
   {
+    "url": "https://www.douyin.com/video/7705763625947909386",
+    "title": "Nacos跨界AI：像做微服务一样构建企业级Agent！ #Nacos #微服务 #AI#Agent #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7704205496277814554",
+    "title": "AI替代的风吹到了数学，OpenAI摧毁数学了吗？ #数学 #AI #ai替代人类 #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7703581732770991403",
+    "title": "RocketMQ的无敌网络架构，你只管强大就好！ #RocketMQ #后端开发 #架构师 #程序员"
+  },
+  {
+    "url": "https://www.douyin.com/video/7702854670007536959",
+    "title": "AI时代在线抬杠指南 #AI #认知 #程序员 #人性观察 #网络杠精"
+  },
+  {
+    "url": "https://www.douyin.com/video/7701700079169670435",
+    "title": "AI平权了吗？只平了下限，上限反而更卷了 #AI #AI平权 #架构师 #程序员"
+  },
+  {
     "url": "https://www.douyin.com/video/7700529838213385522",
-    "title": "00:05 / 07:40 XXL-JOB vs ElasticJob，分布式调度怎么选 #AI #架构师 #程序员 #定时器"
+    "title": "XXL-JOB vs ElasticJob，分布式调度怎么选 #AI #架构师 #程序员 #定时器"
   },
   {
     "url": "https://www.douyin.com/video/7699463342611516710",
@@ -378,25 +398,5 @@
   {
     "url": "https://www.douyin.com/video/7612538272224414982",
     "title": "微服务网关到底怎么构建？ #程序员 #架构 #面试 #网关"
-  },
-  {
-    "url": "https://www.douyin.com/video/7611426939928104244",
-    "title": "SaaS架构实战：共享与隔离的平衡术 #程序员 #架构 #SAAS #Java"
-  },
-  {
-    "url": "https://www.douyin.com/video/7611045349347577128",
-    "title": "代码写得好，不如职场混得好 #程序员 #编程 #IT #职场干货"
-  },
-  {
-    "url": "https://www.douyin.com/video/7605864860022295842",
-    "title": "别再乱写订单超时取消！这才是生产级方案！ #程序员 #架构 #面试 #项目实战 #后端开发"
-  },
-  {
-    "url": "https://www.douyin.com/video/7606213148835597587",
-    "title": "AQS 到底有多重要？懂它 = 通关Java并发！ #程序员 #面试 #并发编程 #架构"
-  },
-  {
-    "url": "https://www.douyin.com/video/7605241496740138255",
-    "title": "手把手搭建金融级风控引擎｜后端架构 + 规则引擎实战教程 全套金融级风控引擎从 0 到 1 搭建，包含架构设计、规则引擎落地、实战思路，适合后端开发、架构师学习。 内容干货很足，建议收藏慢慢看，有收获可以点个赞～#程序员 #架构 #项目实战 #规则引擎#架构师"
   }
 ]
